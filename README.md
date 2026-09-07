@@ -49,13 +49,13 @@ scripts/
 docs/
   SPEC.md                 the full project specification
   decisions/              short records of the choices a reader might question
-  milestones/             one working doc per weekend
+  phases/             one working doc per phase
 
 tests/                    pytest
 ```
 
 Retrieval, intent extraction, triage, signals, evaluation, and the API are
-added as subpackages of `threshold` in the weekends that build them.
+added as subpackages of `threshold` in the phases that build them.
 
 ## Getting started
 
@@ -94,7 +94,7 @@ which is different from a middle value.
 | Cost band | free/donation · low · mid · high |
 
 Defined in [`src/threshold/schema.py`](src/threshold/schema.py). Changing a
-dimension later means re-annotating the corpus and the gold set, so weekend 1
+dimension later means re-annotating the corpus and the gold set, so phase 1
 is mostly about deciding whether these nine are right.
 
 ## Design commitments
@@ -126,9 +126,9 @@ The reasoning behind each is in [`docs/decisions/`](docs/decisions/).
 The write-up will include a section on what this evaluation cannot tell you:
 synthetic corpus, single annotator, no real users, no clinical validation.
 
-## Milestones
+## Phases
 
-| Weekend | Ships | |
+| Phase | Ships | |
 |---|---|---|
 | 1 | Corpus: coverage plan, 120 listings, annotations | in progress |
 | 2 | Retrieval baseline: embeddings in pgvector, strategy A from a CLI | |
@@ -140,7 +140,7 @@ synthetic corpus, single annotator, no real users, no clinical validation.
 | 8 | Docker, k3s on EC2, minimal frontend | |
 | 9 | Write-up, charts, legal-posture note | |
 
-Per-weekend working notes live in [`docs/milestones/`](docs/milestones/).
+Per-phase working notes live in [`docs/phases/`](docs/phases/).
 
 ## Stack
 

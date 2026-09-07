@@ -35,7 +35,7 @@ cannot honestly be placed at 0.35 on "solitude"; the annotation would be
 false precision, and an LLM extracting intent would produce arbitrary
 numbers. Enums are what a human can annotate and defend.
 
-**Fewer dimensions.** Simpler, but the Weekend 1 exercise of writing ten
+**Fewer dimensions.** Simpler, but the phase 1 exercise of writing ten
 realistic queries is the test: if a query cannot be expressed in the
 dimensions, one is missing. Nine is the smallest set that has passed so far.
 

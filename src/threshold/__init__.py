@@ -4,7 +4,7 @@ safety constraints.
 
 `threshold.schema` holds every shared Pydantic model: the intent
 dimensions, Listing, QueryIntent, and TriageClass. `threshold.corpus`
-loads the synthetic listing corpus from disk. Later milestones add
+loads the synthetic listing corpus from disk. Later phases add
 retrieval, intent extraction, triage, and signal annotation as
 subpackages alongside these.
 """

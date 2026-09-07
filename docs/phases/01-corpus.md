@@ -1,14 +1,14 @@
-# Weekend 1 — the corpus
+# Phase 1 — the corpus
 
-Goal by Sunday night: **120 annotated synthetic listings on disk**, and a
-dimension schema you are confident enough in to build the next five weekends on.
+Goal for this phase: **120 annotated synthetic listings on disk**, and a
+dimension schema you are confident enough in to build the next five phases on.
 
 ---
 
-## Why this weekend matters more than it looks
+## Why this phase matters more than it looks
 
 Changing a dimension later means re-annotating 120 listings and rewriting the
-gold query set. So the real work this weekend is not generation — it is
+gold query set. So the real work in this phase is not generation — it is
 **deciding whether the nine dimensions are right**. Generation is a script.
 
 Before you run anything, do this: write ten queries the way a real person

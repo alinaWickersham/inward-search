@@ -103,7 +103,7 @@ class Listing(BaseModel):
     practical: str = Field(description="Dates, what's included, what to bring — as listings actually write it")
     dimensions: ListingDimensions
 
-    # Populated in weekend 6, left empty for now.
+    # Populated in phase 6, left empty for now.
     trust_notes: Optional[str] = None
     contraindication_notes: Optional[str] = None
 
@@ -135,7 +135,7 @@ class QueryIntent(BaseModel):
 
 
 # --------------------------------------------------------------------------
-# Triage (weekend 5 — defined here so the schema stays in one place)
+# Triage (phase 5 — defined here so the schema stays in one place)
 # --------------------------------------------------------------------------
 
 class TriageClass(str, Enum):

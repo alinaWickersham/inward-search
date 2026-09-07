@@ -173,9 +173,9 @@ These are not stylistic preferences. Do not relax them.
 
 Update this section as the project moves.
 
-* Weekend 1 — corpus. In progress.
-* Weekends 2-4: retrieval baseline, intent extraction, hybrid comparison.
-* Weekends 5-6: triage, trust and contraindication signals.
-* Weekends 7-9: observability, deployment, write-up.
+* Phase 1 — corpus. In progress.
+* Phases 2-4: retrieval baseline, intent extraction, hybrid comparison.
+* Phases 5-6: triage, trust and contraindication signals.
+* Phases 7-9: observability, deployment, write-up.
 
-The minimum shippable project is the end of weekend 4: corpus, three retrieval strategies, and the comparison table. Everything after that is depth.
+The minimum shippable project is the end of phase 4: corpus, three retrieval strategies, and the comparison table. Everything after that is depth.

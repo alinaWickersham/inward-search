@@ -7,7 +7,7 @@ Status: accepted
 
 The project needs an LLM client, typed schemas for model output, a vector
 store client, an orchestration layer, a small trained classifier, and an
-evaluation harness. It is a portfolio project built on weekends by one
+evaluation harness. It is a portfolio project built in spare time by one
 person, and it will be read by people evaluating that person.
 
 ## Decision
@@ -21,7 +21,7 @@ API input, stored records.
 API layer alone. But every other piece, from the LLM SDKs to scikit-learn
 to LangGraph, is Python-first, and a Go service would need a Python
 sidecar for the classifier and the evaluation anyway. Two languages for a
-weekend project is a cost with no finding attached.
+project this size is a cost with no finding attached.
 
 **TypeScript.** The LLM tooling is good, the ML tooling is not. The trained
 classifier and the metrics work would be fighting the ecosystem.

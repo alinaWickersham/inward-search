@@ -185,7 +185,7 @@ Deliberate, not a shortcut:
 - Real listings are copyrighted text.
 - A synthetic corpus can be designed to cover the dimension space evenly, including the edge cases that make evaluation meaningful — near-duplicates differing on one dimension, strong matches that are badly written, listings with clear caution signals.
 
-Generate from a coverage matrix you define, then hand-edit for realism. Budget one weekend.
+Generate from a coverage matrix you define, then hand-edit for realism. This is its own phase.
 
 ---
 
@@ -245,27 +245,27 @@ Documenting this reasoning in the repo is itself part of what the project demons
 
 ---
 
-## Milestones
+## Phases
 
 Ship something at every stage.
 
-**Weekend 1 — corpus.** Coverage matrix, generate and hand-edit 80–120 listings, annotate on the intent dimensions.
+**Phase 1 — corpus.** Coverage matrix, generate and hand-edit 80–120 listings, annotate on the intent dimensions.
 
-**Weekend 2 — retrieval baseline.** Embeddings in pgvector, strategy A end to end from a CLI. *Write the scoring and metrics code by hand, unassisted — this doubles as interview practice.*
+**Phase 2 — retrieval baseline.** Embeddings in pgvector, strategy A end to end from a CLI. *Write the scoring and metrics code by hand, unassisted — this doubles as interview practice.*
 
-**Weekend 3 — intent extraction.** Pydantic schema, LLM extraction, strategy B. Hand-label the 50-query gold set including triage classes.
+**Phase 3 — intent extraction.** Pydantic schema, LLM extraction, strategy B. Hand-label the 50-query gold set including triage classes.
 
-**Weekend 4 — hybrid and comparison.** Strategy C, full metrics run, first comparison table. **Minimum shippable project.** If life intervenes, stop here and write it up.
+**Phase 4 — hybrid and comparison.** Strategy C, full metrics run, first comparison table. **Minimum shippable project.** If life intervenes, stop here and write it up.
 
-**Weekend 5 — triage.** Classification, routing behavior, response assembly. Triage evaluation with false negatives reported separately.
+**Phase 5 — triage.** Classification, routing behavior, response assembly. Triage evaluation with false negatives reported separately.
 
-**Weekend 6 — trust and contraindications.** Signal taxonomy grounded in the literature, extraction, labeled evaluation. Train a small classifier for one category.
+**Phase 6 — trust and contraindications.** Signal taxonomy grounded in the literature, extraction, labeled evaluation. Train a small classifier for one category.
 
-**Weekend 7 — observability and API.** Langfuse tracing, cost and latency tracking, FastAPI wrapper.
+**Phase 7 — observability and API.** Langfuse tracing, cost and latency tracking, FastAPI wrapper.
 
-**Weekend 8 — deploy.** Docker, k3s on EC2, minimal frontend, README a stranger can follow.
+**Phase 8 — deploy.** Docker, k3s on EC2, minimal frontend, README a stranger can follow.
 
-**Weekend 9 — write it up.** Report, charts, legal-posture note, published on the site and the repo.
+**Phase 9 — write it up.** Report, charts, legal-posture note, published on the site and the repo.
 
 ---
 

@@ -14,18 +14,18 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-# Weekend 1: corpus generation
+# Phase 1: corpus generation
 corpus = ["anthropic>=0.40"]
-# Weekend 2+: retrieval, extraction, orchestration
+# Phase 2+: retrieval, extraction, orchestration
 pipeline = [
     "langgraph>=0.2",
     "psycopg[binary]>=3.1",
     "pgvector>=0.3",
     "numpy>=1.26",
 ]
-# Weekend 6: trained contraindication classifier
+# Phase 6: trained contraindication classifier
 classifier = ["scikit-learn>=1.4"]
-# Weekend 7: API and tracing
+# Phase 7: API and tracing
 api = ["fastapi>=0.110", "uvicorn>=0.29", "langfuse>=2.0"]
 dev = ["pytest>=8.0", "ruff>=0.4"]
 
