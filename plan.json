@@ -1,0 +1,1970 @@
+[
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "semi_structured",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "moderate",
+      "tradition": "nature_based",
+      "experience_level": "some_experience",
+      "duration": "week",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L000"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "eclectic",
+      "experience_level": "some_experience",
+      "duration": "weekend",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L001"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "buddhist_derived",
+      "experience_level": "some_experience",
+      "duration": "week",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L002"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "self_guided",
+      "physical_demand": "restful",
+      "tradition": "yogic",
+      "experience_level": "newcomer_friendly",
+      "duration": "week",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L003"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "nature_based",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L004"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "newcomer_friendly",
+      "duration": "weekend",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L005"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "eclectic",
+      "experience_level": "some_experience",
+      "duration": "week",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L006"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "moderate",
+      "tradition": "eclectic",
+      "experience_level": "newcomer_friendly",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L007"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "fixed",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "contemplative_christian",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L008"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "secular",
+      "experience_level": "some_experience",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L009"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "eclectic",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L010"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "yogic",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L011"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "contemplative_christian",
+      "experience_level": "some_experience",
+      "duration": "week",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L012"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "restful",
+      "tradition": "contemplative_christian",
+      "experience_level": "some_experience",
+      "duration": "hours",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L013"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "yogic",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L014"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "yogic",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L015"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "secular",
+      "experience_level": "newcomer_friendly",
+      "duration": "week",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L016"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "contemplative_christian",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L017"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "moderate",
+      "tradition": "buddhist_derived",
+      "experience_level": "some_experience",
+      "duration": "extended",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L018"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "nature_based",
+      "experience_level": "newcomer_friendly",
+      "duration": "week",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L019"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L020"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L021"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "secular",
+      "experience_level": "newcomer_friendly",
+      "duration": "week",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L022"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "yogic",
+      "experience_level": "assumes_practice",
+      "duration": "week",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L023"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "fixed",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "yogic",
+      "experience_level": "some_experience",
+      "duration": "week",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L024"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "nature_based",
+      "experience_level": "some_experience",
+      "duration": "week",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L025"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "newcomer_friendly",
+      "duration": "extended",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L026"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "contemplative_christian",
+      "experience_level": "newcomer_friendly",
+      "duration": "week",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L027"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "fixed",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "moderate",
+      "tradition": "contemplative_christian",
+      "experience_level": "assumes_practice",
+      "duration": "hours",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L028"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "restful",
+      "tradition": "eclectic",
+      "experience_level": "some_experience",
+      "duration": "extended",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L029"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "eclectic",
+      "experience_level": "some_experience",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L030"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "assumes_practice",
+      "duration": "hours",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L031"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "nature_based",
+      "experience_level": "newcomer_friendly",
+      "duration": "weekend",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L032"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "nature_based",
+      "experience_level": "some_experience",
+      "duration": "hours",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L033"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "some_experience",
+      "duration": "week",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L034"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "yogic",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L035"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "secular",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L036"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L037"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "semi_structured",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "buddhist_derived",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L038"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "nature_based",
+      "experience_level": "some_experience",
+      "duration": "weekend",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L039"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "secular",
+      "experience_level": "some_experience",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L040"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "secular",
+      "experience_level": "some_experience",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L041"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "yogic",
+      "experience_level": "newcomer_friendly",
+      "duration": "extended",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L042"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "semi_structured",
+      "speech": "full_silence",
+      "guidance": "self_guided",
+      "physical_demand": "restful",
+      "tradition": "secular",
+      "experience_level": "some_experience",
+      "duration": "hours",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L043"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "nature_based",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L044"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "moderate",
+      "tradition": "secular",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L045"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "dialogue",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "nature_based",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L046"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "contemplative_christian",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L047"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "contemplative_christian",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L048"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "contemplative_christian",
+      "experience_level": "newcomer_friendly",
+      "duration": "weekend",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L049"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "eclectic",
+      "experience_level": "assumes_practice",
+      "duration": "hours",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L050"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "full_silence",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "yogic",
+      "experience_level": "assumes_practice",
+      "duration": "hours",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L051"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "contemplative_christian",
+      "experience_level": "some_experience",
+      "duration": "hours",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L052"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "secular",
+      "experience_level": "assumes_practice",
+      "duration": "hours",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L053"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "contemplative_christian",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L054"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "contemplative_christian",
+      "experience_level": "some_experience",
+      "duration": "week",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L055"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "nature_based",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L056"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "yogic",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L057"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "restful",
+      "tradition": "secular",
+      "experience_level": "newcomer_friendly",
+      "duration": "weekend",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L058"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "secular",
+      "experience_level": "some_experience",
+      "duration": "extended",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L059"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "buddhist_derived",
+      "experience_level": "assumes_practice",
+      "duration": "week",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L060"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "fixed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "yogic",
+      "experience_level": "some_experience",
+      "duration": "weekend",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L061"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "semi_structured",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "secular",
+      "experience_level": "some_experience",
+      "duration": "week",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L062"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "eclectic",
+      "experience_level": "newcomer_friendly",
+      "duration": "week",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L063"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "eclectic",
+      "experience_level": "assumes_practice",
+      "duration": "hours",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L064"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "restful",
+      "tradition": "eclectic",
+      "experience_level": "newcomer_friendly",
+      "duration": "week",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L065"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "dialogue",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L066"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "moderate",
+      "tradition": "yogic",
+      "experience_level": "some_experience",
+      "duration": "hours",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L067"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "eclectic",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L068"
+  },
+  {
+    "kind": "spread",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "eclectic",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L069"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair00",
+    "varies_on": "social",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "nature_based",
+      "experience_level": "newcomer_friendly",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L070"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair00",
+    "varies_on": "social",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "nature_based",
+      "experience_level": "newcomer_friendly",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L071"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair01",
+    "varies_on": "speech",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "contemplative_christian",
+      "experience_level": "some_experience",
+      "duration": "extended",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L072"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair01",
+    "varies_on": "speech",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "contemplative_christian",
+      "experience_level": "some_experience",
+      "duration": "extended",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L073"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair02",
+    "varies_on": "physical_demand",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "contemplative_christian",
+      "experience_level": "assumes_practice",
+      "duration": "week",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L074"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair02",
+    "varies_on": "physical_demand",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "contemplative_christian",
+      "experience_level": "assumes_practice",
+      "duration": "week",
+      "cost_band": "free_or_donation"
+    },
+    "note": null,
+    "id": "L075"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair03",
+    "varies_on": "structure",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "eclectic",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L076"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair03",
+    "varies_on": "structure",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "eclectic",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L077"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair04",
+    "varies_on": "guidance",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "eclectic",
+      "experience_level": "some_experience",
+      "duration": "weekend",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L078"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair04",
+    "varies_on": "guidance",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "eclectic",
+      "experience_level": "some_experience",
+      "duration": "weekend",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L079"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair05",
+    "varies_on": "experience_level",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "nature_based",
+      "experience_level": "some_experience",
+      "duration": "weekend",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L080"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair05",
+    "varies_on": "experience_level",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "nature_based",
+      "experience_level": "newcomer_friendly",
+      "duration": "weekend",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L081"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair06",
+    "varies_on": "social",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L082"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair06",
+    "varies_on": "social",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L083"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair07",
+    "varies_on": "speech",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "eclectic",
+      "experience_level": "assumes_practice",
+      "duration": "week",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L084"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair07",
+    "varies_on": "speech",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "eclectic",
+      "experience_level": "assumes_practice",
+      "duration": "week",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L085"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair08",
+    "varies_on": "physical_demand",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "secular",
+      "experience_level": "newcomer_friendly",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L086"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair08",
+    "varies_on": "physical_demand",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "secular",
+      "experience_level": "newcomer_friendly",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L087"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair09",
+    "varies_on": "structure",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "nature_based",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L088"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair09",
+    "varies_on": "structure",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "nature_based",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": null,
+    "id": "L089"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair10",
+    "varies_on": "guidance",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "nature_based",
+      "experience_level": "assumes_practice",
+      "duration": "week",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L090"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair10",
+    "varies_on": "guidance",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "nature_based",
+      "experience_level": "assumes_practice",
+      "duration": "week",
+      "cost_band": "mid"
+    },
+    "note": null,
+    "id": "L091"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair11",
+    "varies_on": "experience_level",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "dialogue",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "eclectic",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L092"
+  },
+  {
+    "kind": "near_dup",
+    "pair": "pair11",
+    "varies_on": "experience_level",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "dialogue",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "eclectic",
+      "experience_level": "some_experience",
+      "duration": "hours",
+      "cost_band": "high"
+    },
+    "note": null,
+    "id": "L093"
+  },
+  {
+    "kind": "trust_signal",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "nature_based",
+      "experience_level": "some_experience",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": "No individual teacher is named anywhere; the material refers only to 'our facilitators'.",
+    "id": "L094"
+  },
+  {
+    "kind": "trust_signal",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "yogic",
+      "experience_level": "assumes_practice",
+      "duration": "hours",
+      "cost_band": "free_or_donation"
+    },
+    "note": "Pricing is described as an 'energy exchange' with a suggested range and language implying more is better.",
+    "id": "L095"
+  },
+  {
+    "kind": "trust_signal",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "restful",
+      "tradition": "yogic",
+      "experience_level": "some_experience",
+      "duration": "extended",
+      "cost_band": "high"
+    },
+    "note": "Participants are asked to surrender phones for the duration and contact with family is discouraged.",
+    "id": "L096"
+  },
+  {
+    "kind": "trust_signal",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "yogic",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "low"
+    },
+    "note": "The material centres on a single founder-teacher in devotional terms.",
+    "id": "L097"
+  },
+  {
+    "kind": "trust_signal",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "semi_structured",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "yogic",
+      "experience_level": "some_experience",
+      "duration": "weekend",
+      "cost_band": "low"
+    },
+    "note": "Claims this is the only approach that addresses the true root of suffering.",
+    "id": "L098"
+  },
+  {
+    "kind": "trust_signal",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "eclectic",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "low"
+    },
+    "note": "Newly established, no stated history, no named staff, no physical address.",
+    "id": "L099"
+  },
+  {
+    "kind": "trust_signal",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "secular",
+      "experience_level": "assumes_practice",
+      "duration": "weekend",
+      "cost_band": "high"
+    },
+    "note": "Long-established, teachers named with training listed, itemised pricing, clear cancellation terms.",
+    "id": "L100"
+  },
+  {
+    "kind": "trust_signal",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "moderate",
+      "tradition": "contemplative_christian",
+      "experience_level": "newcomer_friendly",
+      "duration": "extended",
+      "cost_band": "low"
+    },
+    "note": "States an intake questionnaire and screening call before acceptance.",
+    "id": "L101"
+  },
+  {
+    "kind": "trust_signal",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "moderate",
+      "tradition": "contemplative_christian",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "mid"
+    },
+    "note": "Explicit about what the retreat is not, and who it is not suitable for.",
+    "id": "L102"
+  },
+  {
+    "kind": "trust_signal",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "moderate",
+      "tradition": "eclectic",
+      "experience_level": "some_experience",
+      "duration": "week",
+      "cost_band": "low"
+    },
+    "note": "Fees itemised; scholarship process described with named administrator.",
+    "id": "L103"
+  },
+  {
+    "kind": "contraindication",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "secular",
+      "experience_level": "some_experience",
+      "duration": "extended",
+      "cost_band": "low"
+    },
+    "note": "Includes a supervised three-day water fast.",
+    "id": "L104"
+  },
+  {
+    "kind": "contraindication",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "secular",
+      "experience_level": "assumes_practice",
+      "duration": "hours",
+      "cost_band": "low"
+    },
+    "note": "Sleep is restricted to four hours nightly as part of the practice.",
+    "id": "L105"
+  },
+  {
+    "kind": "contraindication",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "note": "Extended holotropic-style breathwork sessions daily.",
+    "id": "L106"
+  },
+  {
+    "kind": "contraindication",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "semi_structured",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "nature_based",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "note": "Ten days of unbroken silence with no teacher check-ins.",
+    "id": "L107"
+  },
+  {
+    "kind": "contraindication",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "nature_based",
+      "experience_level": "assumes_practice",
+      "duration": "hours",
+      "cost_band": "high"
+    },
+    "note": "Twelve hours of seated practice daily.",
+    "id": "L108"
+  },
+  {
+    "kind": "contraindication",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "semi_structured",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "nature_based",
+      "experience_level": "assumes_practice",
+      "duration": "hours",
+      "cost_band": "high"
+    },
+    "note": "Ceremonial work with plant medicine, facilitated on site.",
+    "id": "L109"
+  },
+  {
+    "kind": "contraindication",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "semi_structured",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "nature_based",
+      "experience_level": "some_experience",
+      "duration": "week",
+      "cost_band": "mid"
+    },
+    "note": "Wilderness solo of four days with minimal food.",
+    "id": "L110"
+  },
+  {
+    "kind": "contraindication",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "demanding",
+      "tradition": "eclectic",
+      "experience_level": "assumes_practice",
+      "duration": "week",
+      "cost_band": "free_or_donation"
+    },
+    "note": "Continuous practice through the night on several occasions.",
+    "id": "L111"
+  },
+  {
+    "kind": "awkward",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "some_experience",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+    "id": "L112"
+  },
+  {
+    "kind": "awkward",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "eclectic",
+      "experience_level": "some_experience",
+      "duration": "hours",
+      "cost_band": "low"
+    },
+    "note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+    "id": "L113"
+  },
+  {
+    "kind": "awkward",
+    "dimensions": {
+      "social": "small_group",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "restful",
+      "tradition": "secular",
+      "experience_level": "assumes_practice",
+      "duration": "hours",
+      "cost_band": "high"
+    },
+    "note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+    "id": "L114"
+  },
+  {
+    "kind": "awkward",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "restful",
+      "tradition": "secular",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "high"
+    },
+    "note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+    "id": "L115"
+  },
+  {
+    "kind": "awkward",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "newcomer_friendly",
+      "duration": "week",
+      "cost_band": "high"
+    },
+    "note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+    "id": "L116"
+  },
+  {
+    "kind": "awkward",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "yogic",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "mid"
+    },
+    "note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+    "id": "L117"
+  },
+  {
+    "kind": "awkward",
+    "dimensions": {
+      "social": "community",
+      "structure": "self_directed",
+      "speech": "full_silence",
+      "guidance": "light_guidance",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "newcomer_friendly",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+    "id": "L118"
+  },
+  {
+    "kind": "awkward",
+    "dimensions": {
+      "social": "community",
+      "structure": "semi_structured",
+      "speech": "dialogue",
+      "guidance": "self_guided",
+      "physical_demand": "moderate",
+      "tradition": "yogic",
+      "experience_level": "some_experience",
+      "duration": "weekend",
+      "cost_band": "mid"
+    },
+    "note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+    "id": "L119"
+  }
+]
