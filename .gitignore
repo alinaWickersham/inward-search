@@ -1,0 +1,25 @@
+# secrets — never commit a key
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# data & artifacts that should not be versioned
+# NOTE: corpus/listings/ IS committed — someone reproducing the results needs it.
+evaluation/runs/
+*.log
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
