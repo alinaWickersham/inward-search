@@ -14,14 +14,12 @@ Expect roughly $5-15 for the full corpus depending on model.
 
 import argparse
 import json
-import os
 import sys
 from pathlib import Path
 
 import anthropic
 
 ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(ROOT))
 
 MODEL = "claude-sonnet-4-6"
 OUT = ROOT / "corpus" / "listings"
