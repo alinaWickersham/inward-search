@@ -1,0 +1,62 @@
+[
+  {
+    "id": "SEED01",
+    "name": "Kettle Hollow",
+    "location": "Driftless region, southwest Wisconsin",
+    "summary": "A self-directed hermitage week in three cabins on a wooded ridge. No programme, no teacher, no group.",
+    "description": "Kettle Hollow is not a retreat centre in the usual sense. There are three cabins spaced far enough apart that you will not see or hear the others. Each has a woodstove, a bed, a table, and a window that faces east. There is no programme. Nobody will ring a bell or invite you to share.\n\nPeople come here for different reasons. Some sit. Some walk the ridge trail. Some sleep for the first three days and only then notice they have stopped bracing for something. We do not ask which you are doing.\n\nMeals are left in the cold box outside your door in the morning. If you want to talk, Ruth is usually at the barn between four and five, and is happy to and equally happy not to. If you would rather not see anyone for six days, that is an ordinary way to spend the week here and requires no explanation.\n\nThe cabins are simple and the winters are real. Bring warm clothes and something to do with your hands.",
+    "practical": "Six nights, Monday to Sunday. $480 including all meals. Three cabins, booked separately. Woodstove heat, composting toilet, no electricity in the cabins; there is a charging point in the barn. Nearest town is eleven miles. Bring: warm layers, boots, a torch, and food preferences sent ahead. No wifi.",
+    "dimensions": {
+      "social": "solitude",
+      "structure": "self_directed",
+      "speech": "partial_silence",
+      "guidance": "self_guided",
+      "physical_demand": "restful",
+      "tradition": "nature_based",
+      "experience_level": "newcomer_friendly",
+      "duration": "week",
+      "cost_band": "low"
+    },
+    "synthetic": true
+  },
+  {
+    "id": "SEED02",
+    "name": "The Vestry Sits",
+    "location": "Providence, Rhode Island",
+    "summary": "A weekly two-hour silent sit in a deconsecrated chapel, secular in framing, open to anyone, free.",
+    "description": "Every Wednesday evening, between forty and sixty people sit together in silence for two hours in a chapel that stopped being a church in 1974.\n\nThe format has not changed in eleven years. Doors open at six. At half past, someone rings a bell and reads a short passage — sometimes a poem, sometimes a paragraph of prose, occasionally nothing. Then two hours of silence, broken once at the halfway mark for anyone who needs to move. At half past eight the bell rings again and people leave, mostly without speaking.\n\nThere is no teacher and no instruction. If you have never sat before, the practical answer is that you sit on a chair or a cushion and stay reasonably still, and the rest sorts itself out. Several people who now come weekly arrived having never meditated.\n\nWe are not affiliated with any tradition. People here hold every kind of belief and none, and nobody is asked.",
+    "practical": "Wednesdays, 6:30 to 8:30pm, year round. Free; a basket by the door covers heating. Chairs and cushions provided. Enter through the side door on Benefit Street. Arrive before 6:30 or wait until the halfway break. Wheelchair accessible via the ramp at the rear.",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "self_guided",
+      "physical_demand": "restful",
+      "tradition": "secular",
+      "experience_level": "newcomer_friendly",
+      "duration": "hours",
+      "cost_band": "free_or_donation"
+    },
+    "synthetic": true
+  },
+  {
+    "id": "SEED03",
+    "name": "Anavatti Forest Sangha — Winter Intensive",
+    "location": "Cascade foothills, Washington",
+    "summary": "Ten days of noble silence and intensive seated practice in the Thai forest tradition. Assumes established practice.",
+    "description": "This is not an introductory retreat and we ask that you do not treat it as one. Participants sit approximately ten hours daily across seven periods, beginning at four in the morning and ending at nine in the evening. Noble silence is held throughout, including at meals and during work periods.\n\nThe schedule is fixed and attendance at all sittings is expected. Ajahn Sudanto and one other monastic lead, with a daily talk in the evening and individual interviews every third day. Instruction assumes familiarity with anapanasati and with the physical difficulty of long sitting.\n\nWe require a minimum of two prior residential retreats of five days or longer, and we do ask about this at registration. This is not gatekeeping for its own sake. People arrive underprepared for ten days of this and it goes badly for them.\n\nAll participants complete a health questionnaire. We ask directly about history of psychiatric hospitalisation, dissociative experience, and current medication, and we will sometimes recommend that someone not attend or attend a shorter retreat first.",
+    "practical": "Ten days, January and February. Offered on a dana basis; no fee, contributions at the end. Shared accommodation, two to a room. Two meals daily, last at eleven. Phones held at registration and returned on departure — this is stated plainly at booking. Registration includes a health questionnaire and, where relevant, a call before acceptance.",
+    "dimensions": {
+      "social": "community",
+      "structure": "fixed",
+      "speech": "full_silence",
+      "guidance": "teacher_led",
+      "physical_demand": "demanding",
+      "tradition": "buddhist_derived",
+      "experience_level": "assumes_practice",
+      "duration": "extended",
+      "cost_band": "free_or_donation"
+    },
+    "synthetic": true
+  }
+]
