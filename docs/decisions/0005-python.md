@@ -7,8 +7,8 @@ Status: accepted
 
 The project needs an LLM client, typed schemas for model output, a vector
 store client, an orchestration layer, a small trained classifier, and an
-evaluation harness. It is a portfolio project built in spare time by one
-person, and it will be read by people evaluating that person.
+evaluation harness. It is built in spare time by one person, and it will be
+read by others.
 
 ## Decision
 

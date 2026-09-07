@@ -99,7 +99,7 @@ Three retrieval strategies, compared on the same labeled query set:
 
 **The question:** does decomposing a felt-state query into structured dimensions actually beat throwing it at an embedding model?
 
-Genuinely open, not obvious, and directly relevant to anyone building semantic search over subjective preferences — including therapist matching at a mental health company.
+Genuinely open, not obvious, and directly relevant to anyone building semantic search over subjective preferences — including matching people to forms of care.
 
 ---
 
@@ -171,7 +171,7 @@ Deliberately conservative on the *response* side and unaggressive on the *filter
 
 A recognized phenomenon: using spiritual practice to avoid psychological material. Relevant because it is the failure mode this system could actively worsen. Handled through the same mechanism — where a query suggests avoidance rather than seeking, the system offers the other option alongside, never in place of.
 
-**Building a recommender willing to not recommend** is an unusual thing to have done, and it demonstrates exactly the judgment about where AI helps versus adds risk that these roles ask for.
+**Building a recommender willing to not recommend** is an unusual design choice, and it is where the judgment about where AI helps versus adds risk actually lives.
 
 ---
 
@@ -213,7 +213,7 @@ That honesty section separates someone who ran an eval from someone who understa
 
 *Not legal advice — this is the shape of the problem. A lawyer draws the actual lines if it ever becomes real.*
 
-**As a portfolio project, exposure is minimal**, and the design choices already made are why: synthetic corpus, no real business characterized, nothing deployed as a service to real users, no clinical claims.
+**As a non-commercial project, exposure is minimal**, and the design choices already made are why: synthetic corpus, no real business characterized, nothing deployed as a service to real users, no clinical claims.
 
 **If it ever became real**, the issues to take seriously:
 
@@ -224,7 +224,7 @@ That honesty section separates someone who ran an eval from someone who understa
 - **Crisis resources must be current and correct.** Wrong numbers are worse than none.
 - **Terms of service and professional liability insurance** before any real user touches it.
 
-Documenting this reasoning in the repo is itself part of what the project demonstrates. Most portfolio projects show no evidence anyone thought about liability at all.
+Documenting this reasoning in the repo is part of the work. Most projects in this space show no evidence anyone thought about liability at all.
 
 ---
 
@@ -251,7 +251,7 @@ Ship something at every stage.
 
 **Phase 1 — corpus.** Coverage matrix, generate and hand-edit 80–120 listings, annotate on the intent dimensions.
 
-**Phase 2 — retrieval baseline.** Embeddings in pgvector, strategy A end to end from a CLI. *Write the scoring and metrics code by hand, unassisted — this doubles as interview practice.*
+**Phase 2 — retrieval baseline.** Embeddings in pgvector, strategy A end to end from a CLI. *Write the scoring and metrics code by hand, unassisted.*
 
 **Phase 3 — intent extraction.** Pydantic schema, LLM extraction, strategy B. Hand-label the 50-query gold set including triage classes.
 
@@ -269,9 +269,9 @@ Ship something at every stage.
 
 ---
 
-## What it demonstrates
+## What the project covers
 
-| Requirement | Where it shows |
+| Area | Where it shows |
 |---|---|
 | RAG, embeddings, vector search | Retrieval pipeline, pgvector |
 | Agentic systems and orchestration | LangGraph state graph |
@@ -286,8 +286,6 @@ Ship something at every stage.
 
 ---
 
-## The interview sentence
+## In one paragraph
 
-> *I built a matching system for wellbeing experiences. The technical core is semantic matching over described inner states — turning "I have been running on empty" into structured intent and retrieving against it. The harder part was what to do when a query suggests clinical need rather than spiritual seeking, because the words are the same. So there is a triage layer that surfaces support resources without ever gating results, and a contraindication layer grounded in the adverse-effects literature. The evaluation reports false negatives on the high-need classes separately, because that is the number that actually matters.*
-
-That is the same problem as matching a member to appropriate care, and it says so without you having to argue it.
+> *A matching system for wellbeing experiences. The technical core is semantic matching over described inner states — turning "I have been running on empty" into structured intent and retrieving against it. The harder part was what to do when a query suggests clinical need rather than spiritual seeking, because the words are the same. So there is a triage layer that surfaces support resources without ever gating results, and a contraindication layer grounded in the adverse-effects literature. The evaluation reports false negatives on the high-need classes separately, because that is the number that actually matters.*
