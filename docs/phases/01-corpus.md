@@ -1,14 +1,14 @@
-# Weekend 1 — the corpus
+# Phase 1 — the corpus
 
-Goal by Sunday night: **120 annotated synthetic listings on disk**, and a
-dimension schema you are confident enough in to build the next five weekends on.
+Goal for this phase: **120 annotated synthetic listings on disk**, and a
+dimension schema you are confident enough in to build the next five phases on.
 
 ---
 
-## Why this weekend matters more than it looks
+## Why this phase matters more than it looks
 
 Changing a dimension later means re-annotating 120 listings and rewriting the
-gold query set. So the real work this weekend is not generation — it is
+gold query set. So the real work in this phase is not generation — it is
 **deciding whether the nine dimensions are right**. Generation is a script.
 
 Before you run anything, do this: write ten queries the way a real person
@@ -35,15 +35,17 @@ Two I already suspect are missing and worth deciding on now:
 ## Files
 
 ```
-threshold/
-  schema.py              dimensions, Listing, QueryIntent, TriageClass
-  corpus/
-    seeds.json           3 hand-written listings that set the register
-    plan.json            generated: 120 listing specs
-    listings/            generated: one JSON per listing
-  scripts/
-    coverage.py          builds plan.json
-    generate.py          builds listings/ from plan.json
+src/threshold/
+  schema.py            dimensions, Listing, QueryIntent, TriageClass
+  corpus/loader.py     loads seeds + listings, refuses anything not marked synthetic
+corpus/
+  seeds.json           3 hand-written listings that set the register
+  plan.json            generated: 120 listing specs
+  listings/            generated: one JSON per listing
+scripts/
+  coverage.py          builds plan.json
+  generate.py          builds listings/ from plan.json
+  check_corpus.py      validates listings/ against plan.json and the schema
 ```
 
 ## The plan, as generated
@@ -67,12 +69,13 @@ three strategies will look about the same and you will have no finding.
 ## Run order
 
 ```bash
-pip install pydantic anthropic
+pip install -e ".[corpus,dev]"
 export ANTHROPIC_API_KEY=...
 
 python scripts/coverage.py > corpus/plan.json     # free, instant
 python scripts/generate.py --limit 5              # ~$0.50, check the output
 python scripts/generate.py                        # ~$5-15, the rest
+python scripts/check_corpus.py                    # every file parses, matches the plan
 ```
 
 `generate.py` writes one file per listing and skips what already exists, so a

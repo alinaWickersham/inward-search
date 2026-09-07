@@ -16,12 +16,10 @@ Run:  python scripts/coverage.py > corpus/plan.json
 
 import json
 import random
+import sys
 from itertools import product
 
-import sys, os
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-from schema import (
+from threshold.schema import (
     Social, Structure, Speech, Guidance, PhysicalDemand,
     Tradition, ExperienceLevel, Duration, CostBand,
 )
@@ -177,4 +175,4 @@ if __name__ == "__main__":
     for p in plan:
         counts[p["kind"]] = counts.get(p["kind"], 0) + 1
     print(json.dumps(plan, indent=2))
-    print(f"\n// total: {len(plan)}  {counts}", file=__import__("sys").stderr)
+    print(f"\n// total: {len(plan)}  {counts}", file=sys.stderr)
