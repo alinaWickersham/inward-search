@@ -8,7 +8,7 @@ inward-search is a semantic matching system for contemplative and wellbeing expe
 
 The corpus is entirely synthetic. No real organisation, teacher, or business is ever named, characterised, or evaluated.
 
-It is a public portfolio project. It will be read by hiring managers and engineers. It will also be defended in interviews by the repository owner, who must be able to explain every decision in it.
+It is a public project for the owner's professional development. It will be read by other engineers, and the owner must be able to explain every decision in it.
 
 That last point governs everything below. Do not introduce anything the owner cannot explain. A clever abstraction she did not ask for and cannot justify is worse than a plain one she can.
 
@@ -40,7 +40,7 @@ Do what was asked. If you notice something else worth fixing, mention it and let
 
 Python 3.11+. Type hints on every function signature. Pydantic for anything crossing a boundary — LLM output, API input, stored records.
 
-Plain over clever. This code will be read by strangers evaluating the author. A straightforward implementation of a well-chosen approach is the goal. No metaclasses, no dynamic dispatch, no decorators that hide control flow.
+Plain over clever. This code will be read by strangers. A straightforward implementation of a well-chosen approach is the goal. No metaclasses, no dynamic dispatch, no decorators that hide control flow.
 
 Functions do one thing and are short enough to read without scrolling.
 
