@@ -32,22 +32,14 @@ Full specification: [`docs/SPEC.md`](docs/SPEC.md).
 ## Repository layout
 
 ```
-src/threshold/            the package — installed with `pip install -e .`
+src/threshold/            the package, installed with `pip install -e .`
   schema.py               dimensions, Listing, QueryIntent, TriageClass (single source of truth)
   corpus/                 loads the synthetic corpus, refuses anything not marked synthetic
-  retrieval/              strategy interface; A / B / C land in weekends 2–4
-  intent/                 felt state -> partial QueryIntent          (weekend 3)
-  triage/                 surface-never-gate classification          (weekend 5)
-  signals/                trust + contraindication annotation        (weekend 6)
-  evaluation/             metrics, written by hand                   (weekends 2–6)
-  api/                    FastAPI wrapper, response assembly         (weekend 7)
 
-corpus/                   the synthetic listings — see corpus/README.md
+corpus/                   the synthetic listings
   seeds.json              3 hand-written listings that set the register
   plan.json               120 listing specs, deterministic from scripts/coverage.py
   listings/               one JSON per generated listing (committed once generated)
-
-evaluation/queries/       the hand-labeled gold query set             (weekend 3)
 
 scripts/
   coverage.py             builds corpus/plan.json
@@ -61,23 +53,26 @@ docs/
 tests/                    pytest
 ```
 
+Retrieval, intent extraction, triage, signals, evaluation, and the API are
+added as subpackages of `threshold` in the weekends that build them.
+
 ## Getting started
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[corpus,dev]"
-cp .env.example .env            # add ANTHROPIC_API_KEY for corpus generation
+export ANTHROPIC_API_KEY=...        # only needed for corpus generation
 
-make test                       # schema + plan reproducibility
-make plan                       # rebuild corpus/plan.json (free, deterministic)
-make listings-try               # generate 5 listings, check the register
-make listings                   # generate the full corpus (~$5–15)
-make check-corpus               # validate what is on disk
+python -m pytest -q                              # schema + plan reproducibility
+python scripts/coverage.py > corpus/plan.json    # rebuild the plan (free, deterministic)
+python scripts/generate.py --limit 5             # generate 5 listings, check the register
+python scripts/generate.py                       # generate the full corpus (~$5-15)
+python scripts/check_corpus.py                   # validate what is on disk
 ```
 
 `generate.py` writes one file per listing and skips those that exist, so a
 crash resumes rather than restarting. The API key is read from the
-environment only; `.env` is gitignored.
+environment only. Never put it in a file that could be committed.
 
 ## The intent dimensions
 
