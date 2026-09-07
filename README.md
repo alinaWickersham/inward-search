@@ -48,6 +48,7 @@ scripts/
 
 docs/
   SPEC.md                 the full project specification
+  decisions/              short records of the choices a reader might question
   milestones/             one working doc per weekend
 
 tests/                    pytest
@@ -99,6 +100,7 @@ is mostly about deciding whether these nine are right.
 ## Design commitments
 
 These are constraints, not aspirations. Code that violates them is a bug.
+The reasoning behind each is in [`docs/decisions/`](docs/decisions/).
 
 - **Surface, never gate.** Triage changes what resources are offered and how
   prominently. It never removes, filters, or reorders results.
