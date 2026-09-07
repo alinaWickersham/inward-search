@@ -2,7 +2,7 @@
 
 **A matching system for wellbeing experiences, with clinical safety constraints.**
 
-> ⚠️ **Everything in this repository is synthetic.** The retreat listings are
+> **Everything in this repository is synthetic.** The retreat listings are
 > fictional and generated for testing. Nothing here is medical advice, and the
 > system never diagnoses, assesses, or withholds results based on what a person
 > writes. See [Legal posture](docs/SPEC.md#legal-posture).
