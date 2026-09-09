@@ -1,0 +1,29 @@
+{
+  "id": "L070",
+  "name": "Ninemile Hollow Autumn Season (open enrollment, up to 40)",
+  "location": "Catskill Mountains, New York",
+  "summary": "Six-week residential season on a former dairy farm. Light morning work, free afternoons, evening sharing circle. Up to 40 participants. Donation-based.",
+  "description": "Ninemile Hollow is a 140-acre former dairy farm in the Catskills that has operated as a residential land project since 2012. Our Autumn Season runs six weeks, late September through the first week of November.\n\n**Daily rhythm**\n- 8:00 Breakfast\n- 9:00 to 11:00 Light farm work (apple sorting, fence repair, tree planting, kitchen)\n- 11:30 Lunch\n- Afternoon free: trails, reading, rest\n- 5:00 Evening circle (all participants, in the barn)\n- 6:30 Dinner\n\nThe evening circle is the core of the season. It is a facilitated sharing circle: one person speaks at a time, others listen, no cross-talk. Two long-term residents facilitate. There is no curriculum and no instruction in any practice.\n\n**Who it is for**\nNo prior experience with circles, meditation, or farm work is needed. Most participants have not done anything like this before. We ask that you are able to get up for breakfast, take part in light morning work, and speak and listen in a group of up to forty people.\n\nThe work is light and the trails are optional. This is not a program for people looking to be physically challenged.\n\n**Cost**\nThere is no fee. The season is supported by donations, and most participants contribute something at the end. Nobody is asked.\n\n**Accommodation**\nShared rooms in the farmhouse and two bunkhouses; 40 beds. All meals included, mostly from the farm.",
+  "practical": "Late September to early November, six weeks. No fee; donations accepted at the end. 40 places. Shared rooms. All meals included, vegetarian. Bring rain gear, work gloves, boots, and warm layers; nights are cold by October. Nearest bus stop is Phoenicia, NY; we run a shuttle on arrival and departure days. Cell service is limited; wifi in the barn.",
+  "dimensions": {
+    "social": "community",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "nature_based",
+    "experience_level": "newcomer_friendly",
+    "duration": "extended",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "near_dup",
+  "pair": "pair00",
+  "varies_on": "social",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

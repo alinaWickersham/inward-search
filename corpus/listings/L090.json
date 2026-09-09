@@ -1,0 +1,29 @@
+{
+  "id": "L090",
+  "name": "Dulse Point Silent Week (teacher-led)",
+  "location": "Bay of Fundy shore, Nova Scotia",
+  "summary": "Silent week on the shore for up to 30 experienced practitioners. A teacher gives a daily talk, leads two sits, and meets each person every other day. Days otherwise open. CAD 720.",
+  "description": "Dulse Point Retreat Centre sits on the Bay of Fundy shore: six former fishing cottages and a hall, with the marsh on one side and the shingle on the other. We hold two silent weeks a year, in May and September, for up to thirty participants with an established practice.\n\n**Teacher**\nAnja Roald has taught in the insight tradition for twenty years. She gives a forty-minute talk in the hall each morning at nine, leads a sit at seven and at six, and meets each participant individually for twenty minutes every second day. Between sessions she is on the sea wall or in the hall and can be approached.\n\n**Structure**\nNothing is required. The talk and the two sits are offered, and most people come to most of them, but if you are on the marsh at nine nobody will fetch you. The rest of the day has no shape: the marsh, the shingle, the cottages, the hall.\n\n**Silence**\nHeld for the whole week, apart from the individual meetings with the teacher. Meals in the hall, in silence, at set times.\n\n**Physical**\nRestful. The shore is flat, the sits are not long, and the sea air does much of the work.\n\n**Prerequisites**\nA settled practice and at least one prior residential retreat of five days. The week assumes you can hold silence and unstructured time with a teacher's help, and the talks assume a working vocabulary.\n\n**Cost**\nCAD 720 shared room, CAD 900 single, all meals included.",
+  "practical": "Saturday to Saturday, one week in May and one in September. CAD 720 shared, CAD 900 single, all meals. Six cottages, two or three per cottage. Bring boots, rain gear, warm layers, binoculars if you have them; the wind is constant. Nearest airport Halifax; shuttle arranged, 2.5 hours. No cell service at the cottages; some on the sea wall.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "nature_based",
+    "experience_level": "assumes_practice",
+    "duration": "week",
+    "cost_band": "mid"
+  },
+  "kind": "near_dup",
+  "pair": "pair10",
+  "varies_on": "guidance",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

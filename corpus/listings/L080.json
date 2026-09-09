@@ -1,0 +1,29 @@
+{
+  "id": "L080",
+  "name": "Tidewrack Guiding: Coast Council Weekend (returners)",
+  "location": "Outer coast, Olympic Peninsula, Washington",
+  "summary": "Two nights at a beach camp with 8 participants and 2 guides. Four council sessions, unscheduled days of cold water and trail. For people who have sat in council before. $780.",
+  "description": "Tidewrack Guiding runs council weekends from a beach camp on the outer coast of the Olympic Peninsula, May through September. Eight participants, two guides.\n\n**What's included**\n- Two nights at the beach camp (platform tents, shared)\n- All meals\n- Four facilitated council sessions\n- Guides on site throughout\n\n**The format**\nCouncil is a listening practice: one person speaks at a time, the group listens, a talking piece passes around the circle. We hold council Friday night and Saturday night at the fire, and briefly each morning at the tide line. Those four sessions are the structure and we run them to time.\n\nThe daytime is unscheduled. The headland trail is 3 hours, the cape trail is 5, and the Pacific in June is about 52°F. Most people swim. Some hike all day. Some sleep in the dunes. Guides are at camp but do not organize the day or check on participants.\n\n**Difficulty**\nPhysically and emotionally demanding. Cold water, rough ground, coastal wind, and honest speech in a circle add up, and most people are tired on Sunday in a way they did not expect.\n\n**Experience level**\nReturners weekends are for people who have sat in council before, with us or elsewhere, or have done a vision fast or similar. We do not explain the form on Friday night; the first council starts as soon as the fire is lit. If you are new to council, book an Open weekend instead; we run them the same months.",
+  "practical": "Friday 5pm to Sunday 3pm, twice monthly May to September. $780 including camp, meals, and guides. Platform tents, shared; bring sleeping bag and pad. Bring swimsuit, towel, hiking boots, full rain gear, headlamp. Meet in Forks, WA; shuttle to the trailhead, then 40-minute walk in. No cell service.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "high"
+  },
+  "kind": "near_dup",
+  "pair": "pair05",
+  "varies_on": "experience_level",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

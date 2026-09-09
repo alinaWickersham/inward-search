@@ -1,0 +1,29 @@
+{
+  "id": "L077",
+  "name": "Quiet Afternoon at Lark Street Studio (structured sits)",
+  "location": "Northampton, Massachusetts",
+  "summary": "Monthly silent afternoon in a small yoga studio. Three 40-minute sits at set times with a bell, everyone together, 2 to 4:50. Max 12. $10.",
+  "description": "QUIET AFTERNOON at Lark Street Studio\nFirst Sunday of every month\n\nWe close the studio to classes on Sundays and open it once a month for a silent afternoon. Space for 12. No tradition, no teaching, no talking.\n\nHOW IT WORKS\nArrive between 1:45 and 2:00; the door closes at 2. If you're late, wait for the first break. 2:00 bell, 40-minute sit. 10-minute break (stretch, step into the yard). Second 40-minute sit. 10-minute break. Third sit. Closing bell at 4:50. Everyone starts and finishes together.\n\nSilent the whole time. If you need something, Dana is in the side kitchen; there is a notepad. Tea available.\n\nWHO IT'S FOR\nAnyone. If you've never sat still on purpose for more than ten minutes, this is a low-stakes place to try it. A bell tells you when to stop and everyone in the room is doing the same thing.\nIf something comes up and you want to talk about it, Dana is around after five.\n\nCOST\n$10 in the jar. Nobody turned away.\n\nWHAT TO BRING\nSocks (concrete floor). A blanket if you run cold. Cushions, chairs, and mats are here.",
+  "practical": "First Sunday monthly, arrive 1:45 to 2:00pm, ends 4:50pm. $10 suggested. 12 spots, first come. Cushions and chairs provided. Two steps at the entrance, no ramp. Street parking. Tea after.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "low"
+  },
+  "kind": "near_dup",
+  "pair": "pair03",
+  "varies_on": "structure",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

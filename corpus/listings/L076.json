@@ -1,0 +1,29 @@
+{
+  "id": "L076",
+  "name": "Quiet Afternoon at Lark Street Studio (open hours)",
+  "location": "Northampton, Massachusetts",
+  "summary": "Monthly silent afternoon in a small yoga studio. Drop in any time between 2 and 5, sit, lie down, or walk the yard. Max 12. $10.",
+  "description": "QUIET AFTERNOON at Lark Street Studio\nFirst Sunday of every month\n\nWe close the studio to classes on Sundays and open it once a month for a silent afternoon. Space for 12. No tradition, no teaching, no talking.\n\nHOW IT WORKS\nDoors open 2 to 5. Come when you like, leave when you like. Sit on a cushion or a chair, lie on a mat by the heater, walk the little yard out back. Stay forty minutes or the whole three hours. Nobody keeps track.\n\nSilent the whole time. If you need something, Dana is in the side kitchen; there is a notepad. Tea available.\n\nWHO IT'S FOR\nAnyone. If you've never sat still on purpose for more than ten minutes, this is a low-stakes place to try it. Nobody is watching and you can leave whenever you want.\nIf something comes up and you want to talk about it, Dana is around after five.\n\nCOST\n$10 in the jar. Nobody turned away.\n\nWHAT TO BRING\nSocks (concrete floor). A blanket if you run cold. Cushions, chairs, and mats are here.",
+  "practical": "First Sunday monthly, 2 to 5pm, drop in. $10 suggested. 12 spots, first come. Cushions, chairs, mats provided. Two steps at the entrance, no ramp. Street parking. Tea.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "low"
+  },
+  "kind": "near_dup",
+  "pair": "pair03",
+  "varies_on": "structure",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}
