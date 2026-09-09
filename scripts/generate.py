@@ -25,6 +25,8 @@ MODEL = "claude-opus-5"
 # Opus 5 reasons before answering by default and those tokens count against
 # max_tokens, so leave room above the ~500 tokens a listing needs.
 MAX_TOKENS = 4000
+# Bump when SYSTEM or TEMPLATE changes, so a listing says which prompt made it.
+PROMPT_VERSION = 1
 OUT = ROOT / "corpus" / "listings"
 
 SYSTEM = """You write listings for a directory of contemplative and spiritual \
@@ -128,6 +130,11 @@ def generate(client, item, seed_block):
         "pair": item.get("pair"),
         "varies_on": item.get("varies_on"),
         "generation_note": item.get("note"),
+        "generation": {
+            "model": resp.model,
+            "max_tokens": MAX_TOKENS,
+            "prompt_version": PROMPT_VERSION,
+        },
         "synthetic": True,
     }
 
