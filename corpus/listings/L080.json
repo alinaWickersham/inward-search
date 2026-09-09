@@ -1,0 +1,29 @@
+{
+  "id": "L080",
+  "name": "Skerravoe weekend",
+  "location": "West coast of Lewis, Outer Hebrides",
+  "summary": "A weekend of council, cold sea, and hill for eight people, led by two guides, with the days left to you. For people who have sat in council before. £780.",
+  "description": "Skerravoe is a bothy and a beach at the end of a track on the west side of Lewis. Twice a month from May to September, eight people and two of us spend a weekend there.\n\nWe lead the evenings. On Friday and Saturday night there is a fire and a council: one person speaks, everyone else listens, and the stick goes round until it stops. Saturday and Sunday begin with a short council at the shore. Those four sessions are the structure, and we hold them firmly.\n\nThe days between are yours. There is a hill behind the bothy that takes three hours, a headland that takes five, and the Atlantic, which in June is about eleven degrees. Most people swim. Some walk all day. Some sleep in the heather. We do not organise the daytime and we do not check on you.\n\nIt is a demanding weekend. The cold water, the ground, the wind, and the honesty of the fire add up, and people are tired on Sunday in a way they did not expect.\n\nThis is for people who have sat in council before, on a weekend like this or a vision fast or something in the same family. We do not explain the form on Friday night; we go straight in, and the weekend is better for it. If you have not done this before, we run a separate weekend for that and would rather you came to it.",
+  "practical": "Friday 5pm to Sunday 3pm, twice monthly May to September. £780 including all food and the bothy. Sleeping is on platforms in one room, bring a mat and a warm bag. Bring a swimming costume, a towel, boots, full waterproofs, and a head torch. Ferry to Stornoway, then we collect. No signal, no power beyond a solar light.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "high"
+  },
+  "kind": "near_dup",
+  "pair": "pair05",
+  "varies_on": "experience_level",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

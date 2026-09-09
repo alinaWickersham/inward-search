@@ -1,0 +1,29 @@
+{
+  "id": "L082",
+  "name": "Foel Wen hut, self-run weekend",
+  "location": "Berwyn hills, north Wales",
+  "summary": "A stone hut for six practitioners to run their own weekend of long sitting. No teacher. Silence except at supper. £40.",
+  "description": "Foel Wen is a two-room hut at 400 metres that a small sangha has kept since the eighties. There is no teacher and no programme. We lend it to groups of up to six people who already sit and want a weekend of sitting a lot, with other people doing the same, without anyone organising them.\n\nYou arrange the weekend between yourselves. Groups usually settle on a rhythm on Friday night: most do five or six sits a day of forty-five minutes to an hour, walking between, starting early. Some sit longer. The hut has cushions, benches, a stove, and a bell. What you do with them is yours.\n\nSilence is kept from waking until the evening meal. Supper is the exception: the six of you cook and eat together and talk, and most groups find that hour is where the weekend gets digested. After supper, silence again.\n\nIt is a demanding way to spend two days. The sitting is long, the hut is cold in the mornings, the hill is steep, and there is nobody to tell you to ease off. We ask that everyone in the group has an established daily practice and has done at least one residential retreat. We do not check, but the hut is not a good place to find out you were not ready.\n\nPauline holds the key and lives in the farm below. She brings the bread on Saturday and otherwise leaves you alone.",
+  "practical": "Friday evening to Sunday afternoon, most weekends. £40 per person for the weekend, to the sangha, covering wood and upkeep. Sleeps six on platforms; bring bags and mats. Cold water, wood stove, composting toilet, no electricity. Bring all food except bread; the nearest shop is nine miles. Park at the farm and walk twenty minutes up. No signal at the hut.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "near_dup",
+  "pair": "pair06",
+  "varies_on": "social",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

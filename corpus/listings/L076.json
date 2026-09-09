@@ -1,0 +1,29 @@
+{
+  "id": "L076",
+  "name": "Quiet afternoon at the Lark Street Pottery",
+  "location": "Northampton, Massachusetts",
+  "summary": "Three silent hours in a pottery studio on the first Sunday of the month. Come when you like, leave when you like, sit or lie or walk the yard. Ten dollars.",
+  "description": "The pottery is closed on Sundays, so once a month we open it for three hours of silence. It holds about twelve people comfortably and we do not take more than that.\n\nThere is no schedule inside the three hours. The door is open from two to five. You arrive when you arrive and leave when you are done. Some people sit for the whole three hours on the cushions at the back. Some lie on the mats by the kiln room, which is warm. Some walk the yard, which has a fence and a maple and not much else. Some come for forty minutes on their way to something. Nobody minds.\n\nIt is silent throughout. If you need to ask something, Dana is in the kitchen at the side and you can write it on the pad. Otherwise the only sounds are the building and the street.\n\nWe do not follow a tradition and do not teach one. Dana has practised in a few and will not press any of them on you. If you have never sat still on purpose for more than ten minutes, this is a reasonable place to try, because nobody is watching and you can stop whenever you like. If something comes up that you want to talk about, Dana will talk after five.",
+  "practical": "First Sunday of the month, doors open 2 to 5pm, come and go. $10, in the jar. Twelve places, first come. Cushions, chairs, and mats provided; bring socks, the floor is concrete. Tea in the kitchen. Two steps up to the door, no ramp. Parking on the street.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "low"
+  },
+  "kind": "near_dup",
+  "pair": "pair03",
+  "varies_on": "structure",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

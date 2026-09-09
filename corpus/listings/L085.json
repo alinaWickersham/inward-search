@@ -1,0 +1,29 @@
+{
+  "id": "L085",
+  "name": "Lowmoor Field week",
+  "location": "Shropshire hills",
+  "summary": "A week camping in a field with sixty other practitioners and a teacher who talks twice a day. Silent until noon; the afternoons and evenings are for talking. Not for beginners. £260.",
+  "description": "Every July we put sixty tents in a field under the Long Mynd for a week. There is one teacher, Ros, who has practised in three traditions and settled in none of them, and there are sixty people who have all been practising long enough not to need the basics.\n\nRos gives a talk at noon and another at five, an hour each, in the marquee. Both are followed by questions, which can run long. Those two hours and their aftermath are the only scheduled thing in the day.\n\nThe rest is unscheduled and the day is in two halves. From waking until the noon talk the field is silent: breakfast is silent, the grass is silent, people sit or walk or sleep and do not speak. From noon the field talks. Lunch is long and loud. People sit in twos and threes working through what the talk did to them. There are unofficial evening discussions that go until midnight. Then silence again at waking. Most people find the silent mornings are what make the talking afternoons worth anything.\n\nIt is a restful week physically. Nobody is asked to sit for long, there is no work, the field is flat, and people sleep a great deal.\n\nWe do not teach the fundamentals here and we will not slow down for them. If you have not got a settled practice of some years, the talks will assume things you do not have and the conversations will move too fast. Come to something else first.",
+  "practical": "Saturday to Saturday, third week of July. £260 including all meals and the field; bring your own tent. Three vegetarian meals a day from the kitchen tent, breakfast in silence. Compost toilets and solar showers. Church Stretton is the nearest station, four miles; we run a minibus on the Saturdays. Some signal on the hill, none in the field.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "assumes_practice",
+    "duration": "week",
+    "cost_band": "low"
+  },
+  "kind": "near_dup",
+  "pair": "pair07",
+  "varies_on": "speech",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

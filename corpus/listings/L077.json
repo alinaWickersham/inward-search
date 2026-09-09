@@ -1,0 +1,29 @@
+{
+  "id": "L077",
+  "name": "Quiet afternoon at Grange Hall",
+  "location": "Northampton, Massachusetts",
+  "summary": "Three silent hours in a grange hall on the first Sunday of the month. Three sits of forty minutes at set times, everyone together. Ten dollars.",
+  "description": "The hall is unused on Sundays, so once a month we open it for three hours of silence. It holds about twelve people comfortably and we do not take more than that.\n\nThe three hours have a fixed shape. Doors open at a quarter to two and close at two; if you arrive after that, please wait until the first break. At two a bell rings and everyone sits for forty minutes. Ten minutes to move, stretch, or step into the yard, which has a fence and a maple and not much else. A second sit of forty minutes. Another ten. A third sit. The bell rings at ten to five and people leave. Everyone starts together and finishes together, and we have found that the shape is most of what people come for.\n\nIt is silent throughout. If you need to ask something, Dana is at the table by the door and you can write it on the pad. Otherwise the only sounds are the building and the street.\n\nWe do not follow a tradition and do not teach one. Dana has practised in a few and will not press any of them on you. If you have never sat still on purpose for more than ten minutes, this is a reasonable place to try, because a bell tells you when to stop and everyone else is doing the same thing. If something comes up that you want to talk about, Dana will talk after five.",
+  "practical": "First Sunday of the month, arrive 1:45 to 2pm, ends 4:50pm. $10, in the jar. Twelve places, first come. Cushions and chairs provided; bring socks, the floor is wood and cold. Tea afterwards. Two steps up to the door, no ramp. Parking on the street.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "low"
+  },
+  "kind": "near_dup",
+  "pair": "pair03",
+  "varies_on": "structure",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

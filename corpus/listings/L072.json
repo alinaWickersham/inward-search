@@ -1,0 +1,29 @@
+{
+  "id": "L072",
+  "name": "Weirmoss Hermitage: the thirty days",
+  "location": "Marches of Herefordshire and Powys",
+  "summary": "Thirty days alone in a hermitage in the Ignatian manner, in full silence, meeting a director each day. For people with an existing prayer life.",
+  "description": "Weirmoss has four hermitages in a strip of oak wood above the river and two directors who have accompanied the long retreat for a combined forty years. We offer the thirty days twice a year.\n\nYou are alone. Your hermitage has a bed, a chair, a table, a stove, and a window onto the wood. You set your own day. We suggest five periods of prayer and a review after each, in the way the Exercises are usually given, but how you distribute them and what you do with the hours between is yours to decide. Most people walk. The hill behind the wood is steep and the paths are long, and by the second week people are walking a great deal.\n\nSilence is kept for the whole thirty days. The one spoken exchange is the daily half hour with your director, who comes to the hermitage at a time you agree together. Meals are left at the door. If something is wrong you write a note and put it in the box by the chapel.\n\nThis is demanding. Thirty days of five prayer periods, early rising, and no conversation is a great deal to carry, and people who arrive without a settled daily practice tend to struggle in the first week rather than deepen. We ask that you have done at least one directed retreat of eight days and have a regular practice of prayer or meditation now. We talk this through by telephone before confirming.",
+  "practical": "Thirty days, offered in February and September. £1,650 including all meals and direction; some bursary help is available, ask. Four hermitages, so four people at a time, who will not see each other. Wood stove, cold water in the hermitage, shared bathroom in the lodge. Bring boots, warm clothes, a torch, and whatever you pray with. Nearest station Hereford; we collect. No phone or internet for the thirty days; we hold your phone and will contact your named person in an emergency.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "contemplative_christian",
+    "experience_level": "some_experience",
+    "duration": "extended",
+    "cost_band": "mid"
+  },
+  "kind": "near_dup",
+  "pair": "pair01",
+  "varies_on": "speech",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

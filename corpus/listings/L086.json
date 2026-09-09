@@ -1,0 +1,29 @@
+{
+  "id": "L086",
+  "name": "Quiet weekend at Sallow Cross Village Hall",
+  "location": "Blackdown Hills, Devon",
+  "summary": "A first silent weekend for forty people, secular, with a teacher leading short sits and giving instruction. Chairs, naps, nothing strenuous. £95.",
+  "description": "Four times a year we take the village hall for a weekend and forty people spend it in silence. It is designed for people who have not done this before, and most of each weekend is first-timers.\n\nSam leads it. Sam has taught meditation in a secular setting for fifteen years and does not use the vocabulary of any tradition. There are anchor sessions: an opening on Friday evening where everything is explained, a guided sit at nine and at four each day, and a closing on Sunday afternoon where people speak for the first time. Between the anchors the time is yours: sit in the hall, sit in the churchyard next door, walk the lane, or go back to your B&B and sleep.\n\nThe sits are twenty-five minutes, on chairs, and Sam talks you through them. There is no long sitting and no pressure to sit more than you want. We say plainly that sleeping is a legitimate use of the free time and that most people need it.\n\nThe whole weekend is silent from Friday evening to Sunday afternoon, including in the hall kitchen and in the lane. You will be given a card to show people in the village.\n\nIt is an easy weekend on the body. The hall is warm, the chairs have backs, there is no walking beyond the lane, and nothing about it will tire you. If you want a weekend that pushes you physically this is not it.",
+  "practical": "Friday 7pm to Sunday 4pm, four weekends a year. £95 including lunch on Saturday and Sunday; you arrange your own accommodation in the village, and we send a list. Chairs and some cushions provided. Bring a blanket and a flask. Honiton station is seven miles; there is a bus on Saturdays only. The hall is level access.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "secular",
+    "experience_level": "newcomer_friendly",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "near_dup",
+  "pair": "pair08",
+  "varies_on": "physical_demand",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

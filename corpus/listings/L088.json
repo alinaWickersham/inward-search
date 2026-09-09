@@ -1,0 +1,29 @@
+{
+  "id": "L088",
+  "name": "Ings weekend",
+  "location": "Howgill Fells, Cumbria",
+  "summary": "A silent weekend on a fellside smallholding for eight people who already practise. A sit at dawn and one at dusk, and between them the fell, the wood pile, and yourself. £60.",
+  "description": "Ings is a smallholding at the foot of the Howgills with a converted byre that sleeps eight. We open it most weekends between March and October to people who already have a practice and want two days of silence somewhere with a hill.\n\nThere are two sits. One at six in the morning and one at six in the evening, each an hour, in the byre, and we ask that everyone come to both. The rest of the day has no schedule. People walk the fell, which is steep and open and takes most of a day to cross. People split wood; there is a great deal of it and the axe is by the door. People sit in the byre or by the beck. Nobody will suggest anything.\n\nSilence is kept from Friday evening to Sunday lunch, including at meals, which are left in the byre kitchen for people to eat when they come in.\n\nJen lives in the farmhouse and is around. She does not teach and does not lead the sits; she rings the bell and sits with you. If you want to talk, there is a slot on Saturday afternoon and you can put your name on the board. Most weekends nobody does.\n\nIt is moderately demanding. The fell is real, the wood is heavy, and the byre is cold at six in the morning. We assume everyone has done a silent retreat before and knows how to spend unstructured hours without a teacher. This is not the place to learn that.",
+  "practical": "Friday 6pm to Sunday 1pm, most weekends March to October. £60 including the byre and all food. Eight bunks in one room; bring a sleeping bag. Wood stove, hot water, one shower. Bring boots, waterproofs, gloves for the wood, and warm layers. Oxenholme station is fourteen miles; Jen collects on Friday at five. No signal.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "nature_based",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "near_dup",
+  "pair": "pair09",
+  "varies_on": "structure",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

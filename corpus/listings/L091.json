@@ -1,0 +1,29 @@
+{
+  "id": "L091",
+  "name": "Marram week",
+  "location": "North Norfolk coast",
+  "summary": "A silent week on the marsh for thirty experienced practitioners. A host who rings the bells and is around if wanted; no talks, no meetings, no teaching. Days unplanned. £540.",
+  "description": "Marram is a former coastguard row on the edge of the marsh, six cottages and a long room, and every September and May thirty people spend a silent week there.\n\nThe week is held by Anja, who has practised in the insight tradition for twenty years and does not teach here. She rings the bell for a sit at seven and at six in the long room and sits with whoever comes. There are no talks. There are no scheduled meetings. If you want to speak with her, there is a board by the kitchen door and you can write your name and a time, and she will be there; most weeks a handful of people do this once. Otherwise she is on the sea wall or in the long room, and can be approached, and mostly is not.\n\nNothing is required. The two sits are offered, and most people come to most of them, but if you are on the marsh at seven, nobody will fetch you. The days have no shape: the marsh, the shingle, the cottages, the long room.\n\nSilence is kept for the whole week. Meals are in the long room, in silence, at fixed times.\n\nIt is a restful week. The marsh is flat, the sits are not long, and the sea air does most of the work. We ask that people have a settled practice and have done at least one residential retreat of five days; the week assumes you can hold silence and unstructured time without anyone guiding you, because nobody will.",
+  "practical": "Saturday to Saturday, one week in May and one in September. £540 including all meals and a shared room; single rooms £680. Six cottages, two or three to a cottage. Bring boots, waterproofs, binoculars if you have them, and warm layers; the wind is constant. Sheringham station is nine miles; we collect. No signal in the cottages; some on the sea wall.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "nature_based",
+    "experience_level": "assumes_practice",
+    "duration": "week",
+    "cost_band": "mid"
+  },
+  "kind": "near_dup",
+  "pair": "pair10",
+  "varies_on": "guidance",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

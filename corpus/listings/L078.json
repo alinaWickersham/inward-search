@@ -1,0 +1,29 @@
+{
+  "id": "L078",
+  "name": "Feadan Lodge, a weekend alone",
+  "location": "Glen Lyon, Perthshire",
+  "summary": "You are the only guest for a weekend built around conversation, walking, and writing, to a set timetable. A facilitator meets you morning and evening; the rest you do alone. £1,400.",
+  "description": "Feadan Lodge is a stone house at the head of the glen with one guest room. We take one person at a time, Friday evening to Sunday afternoon.\n\nThe weekend runs to a timetable and we ask you to keep to it. Up at seven. Breakfast. At eight-thirty, an hour's conversation with Iain or Mhairi in the sitting room, about whatever you brought with you. Then a set of written questions to take away and a walk, three hours or so, on the track up the glen or the hill behind the house. Lunch. The afternoon is for the writing, at the desk or outside. At six, a second hour of conversation, and supper. Saturday is the same. Sunday is the morning only.\n\nThis is a talking weekend. What you get out of it comes from saying things out loud to someone who is listening and from writing down what you find on the hill. It is not a silent retreat and there is no sitting practice.\n\nWe keep our part light on purpose. Two hours a day of company and the rest is yours, because the walking and the writing do more than we do. If you want more time with us, ask, and we will usually say no.\n\nYou should have done some inner work before, in whatever form, and be able to use a day alone without needing it filled. The hill is real and the weather is Scottish.",
+  "practical": "Friday 6pm to Sunday 2pm, most weekends from April to October. £1,400, one person, all meals. Single guest room with its own bathroom. Bring boots, waterproofs, and a notebook. Trains to Pitlochry, then we collect. Mobile signal is patchy; wifi in the sitting room.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "eclectic",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "high"
+  },
+  "kind": "near_dup",
+  "pair": "pair04",
+  "varies_on": "guidance",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

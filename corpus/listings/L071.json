@@ -1,0 +1,29 @@
+{
+  "id": "L071",
+  "name": "Ferrick Farm Autumn Season",
+  "location": "Upper Wharfedale, North Yorkshire",
+  "summary": "Six weeks living and working lightly on a hill farm turned land project, eight of you. Talking is most of the point. No fee.",
+  "description": "Ferrick Farm is ninety acres of rough grazing and planted woodland that has been run as a land project since 2011. Every autumn we take in eight people for six weeks, from the last week of September to early November.\n\nThe days have a fixed shape and the shape is gentle. Breakfast at eight. Two hours of light work in the morning: sorting apples, mending fence, planting whips, cooking. Lunch is long. The afternoons are for walking, reading, or sleeping. At five the eight of us and the two of us who live here sit in the kitchen, and that is where the season actually happens. People talk about what they are carrying and other people listen. It goes on as long as it needs to. Supper follows.\n\nNobody teaches anything. The two of us who live here hold the evening and are around during the day if someone wants a conversation. That is the extent of it.\n\nYou do not need to have done anything like this before. Most people have not. You need to be willing to talk honestly with the same nine faces for six weeks and to be quiet while others do, and to get up at a reasonable hour.\n\nThe work is light and the walking is optional. This is not a place to come to be pushed.",
+  "practical": "Six weeks, late September to early November. No fee; the farm runs on donations and most people give something at the end. Single rooms in the farmhouse, eight beds. All meals, mostly from the land. Bring waterproofs, boots, and warm layers; it is cold by October. Trains to Skipton, then we collect on the Saturday. No mobile signal in the valley; there is wifi in the kitchen.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "nature_based",
+    "experience_level": "newcomer_friendly",
+    "duration": "extended",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "near_dup",
+  "pair": "pair00",
+  "varies_on": "social",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

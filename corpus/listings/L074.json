@@ -1,0 +1,29 @@
+{
+  "id": "L074",
+  "name": "Ninefold House, a week in silence",
+  "location": "Fenland edge, Cambridgeshire",
+  "summary": "A silent week for six to eight people who already have a contemplative practice. The Office morning and evening, three hours of garden and wood work each day, the rest is yours. Donation.",
+  "description": "Ninefold is a small lay community in a brick farmhouse on the edge of the fen. We keep the Office, we grow most of what we eat, and eight times a year we open the house for a silent week to people who already pray or sit regularly and want a week of it without having to arrange anything.\n\nThe frame is light. Morning prayer at seven, evening prayer at six, both in the small chapel off the kitchen, both about twenty-five minutes. Everything else is unscheduled. Guests sit in their rooms, in the chapel, in the orchard. One of us is available every afternoon between two and three for anyone who wants to speak, and otherwise nobody will approach you.\n\nThe week includes work. Between ten and one every day guests join us outside: digging, weeding, splitting and stacking wood, mending what needs mending. It is real work and by Wednesday people feel it. We do this because a body that has worked sits differently in the evening, and because the house does not run itself. If you cannot do three hours of outdoor work a day this is not the right week, and we say that plainly rather than have you find out on Monday.\n\nSilence is complete from arrival to departure, including at meals and during the work. We assume you know how to hold that and do not teach it. This is not a good first silent retreat.",
+  "practical": "Saturday afternoon to the following Saturday morning, eight weeks a year. No fixed cost; guests give what they can and the suggested contribution is £220 for the week. Six single rooms and one twin. Three meals daily, vegetarian, eaten in silence. Bring work clothes, gloves, boots, and something warm for the chapel. Ely is the nearest station, twelve miles; there is a bus. No mobile signal indoors.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "contemplative_christian",
+    "experience_level": "assumes_practice",
+    "duration": "week",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "near_dup",
+  "pair": "pair02",
+  "varies_on": "physical_demand",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "L079",
+  "name": "Halse Farmhouse, a weekend alone",
+  "location": "Glen Lyon, Perthshire",
+  "summary": "You are the only guest for a weekend built around conversation, walking, and writing, to a set timetable. A facilitator is with you for every session. £1,400.",
+  "description": "Halse is a stone farmhouse at the head of the glen with one guest room. We take one person at a time, Friday evening to Sunday afternoon.\n\nThe weekend runs to a timetable and we ask you to keep to it. Up at seven. Breakfast. At eight-thirty, an hour's conversation with Iain or Mhairi in the sitting room, about whatever you brought with you. Then a walk, three hours or so, on the track up the glen or the hill behind the house, with one of us alongside, talking as we go or not. Lunch together. The afternoon is writing at the desk, with one of us in the room, and we stop every forty minutes to talk about what is on the page. At six, a final hour of conversation, and supper. Saturday is the same. Sunday is the morning only.\n\nThis is a talking weekend. What you get out of it comes from saying things out loud to someone who is listening and from writing down what you find on the hill. It is not a silent retreat and there is no sitting practice.\n\nWe stay with you throughout, on purpose. Most people who come alone have had enough of working things out alone, and having someone in the room for the whole of it is the thing that changes. If you want time to yourself, ask, and we will step out.\n\nYou should have done some inner work before, in whatever form, and be comfortable with a great deal of one-to-one attention. The hill is real and the weather is Scottish.",
+  "practical": "Friday 6pm to Sunday 2pm, most weekends from April to October. £1,400, one person, all meals. Single guest room with its own bathroom. Bring boots, waterproofs, and a notebook. Trains to Pitlochry, then we collect. Mobile signal is patchy; wifi in the sitting room.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "moderate",
+    "tradition": "eclectic",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "high"
+  },
+  "kind": "near_dup",
+  "pair": "pair04",
+  "varies_on": "guidance",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}
