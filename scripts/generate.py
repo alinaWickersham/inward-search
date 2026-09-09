@@ -9,7 +9,7 @@ Writes one JSON file per listing to corpus/listings/, so a crashed run
 resumes instead of starting over and you never pay twice for the same
 listing.
 
-Expect roughly $5-15 for the full corpus depending on model.
+Expect a few dollars for the full corpus.
 """
 
 import argparse
@@ -21,7 +21,10 @@ import anthropic
 
 ROOT = Path(__file__).resolve().parent.parent
 
-MODEL = "claude-sonnet-4-6"
+MODEL = "claude-opus-5"
+# Opus 5 reasons before answering by default and those tokens count against
+# max_tokens, so leave room above the ~500 tokens a listing needs.
+MAX_TOKENS = 4000
 OUT = ROOT / "corpus" / "listings"
 
 SYSTEM = """You write listings for a directory of contemplative and spiritual \
@@ -102,7 +105,7 @@ def build_prompt(item, seed_block):
 def generate(client, item, seed_block):
     resp = client.messages.create(
         model=MODEL,
-        max_tokens=1500,
+        max_tokens=MAX_TOKENS,
         system=SYSTEM,
         messages=[{"role": "user", "content": build_prompt(item, seed_block)}],
     )
