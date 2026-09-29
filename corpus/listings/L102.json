@@ -1,0 +1,29 @@
+{
+  "id": "L102",
+  "name": "Quiet Day at St. Aidan's",
+  "location": "Yorkshire Dales",
+  "summary": "A silent Saturday for up to 40 at a parish retreat house, on a fixed order of chapel, walking, and rest, with a warden available. Beginners welcome. £35.",
+  "description": "**A silent day, 9.30 to 4.30. £35 including lunch.**\n\n**Order of the day**\n9.30 arrival and a short introduction (the only speaking). 10.00 chapel: silence begins. 10.30 walk on the fell path, together, in silence (90 min). 12.00 sit or rest. 12.30 silent lunch. 13.30 free: chapel, garden, library. 15.00 chapel. 16.00 tea, and silence ends. 16.30 close.\n\n**Warden**\nThe house warden is present all day and can be approached with a note. No teaching is given.\n\n**What this day is not**\nIt is not a course in meditation or prayer; nothing will be taught. It is not a counselling day, and the warden is not trained to offer that. It is not a religious service; the chapel is used for silence, and people of any faith or none come. It is not a rest cure for the acutely unwell: if you are in a period of crisis, a silent day alone with your thoughts may not help and might make things harder, and we would gently suggest talking to someone first. It is not physically demanding, but the fell path is uneven and muddy.\n\n**Who it is for**\nAnyone who wants a day of quiet in company. Most people have not done one before.",
+  "practical": "One Saturday a month, 9.30am to 4.30pm. £35 including lunch. Up to 40. Bring walking boots, waterproofs, warm clothing for the chapel. Level access to the house and chapel; the fell path is not. Bus from Skipton stops at the gate.",
+  "dimensions": {
+    "social": "community",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "contemplative_christian",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "mid"
+  },
+  "kind": "trust_signal",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Explicit about what the retreat is not, and who it is not suitable for.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

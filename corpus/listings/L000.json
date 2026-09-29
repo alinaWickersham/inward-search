@@ -1,0 +1,29 @@
+{
+  "id": "L000",
+  "name": "Cold Spring Hermit Week",
+  "location": "Driftless region, southwest Wisconsin",
+  "summary": "A week alone in a canvas-walled cabin on a land trust. Two bells a day, silent mornings, self-directed otherwise. Trails are steep. Donation.",
+  "description": "The land trust keeps one hermit cabin on the north ridge and lends it for a week at a time, April through October, to people who want to be outdoors and alone.\n\nThere is no teacher and no programme. A bell sounds from the farmhouse at seven and at seven; those are the only fixed points and they mark nothing except the hours. Mornings are silent by custom on the whole property, including for the two of us who live here. After noon you may talk to us if you come down to the barn, and some people do, once or twice in the week.\n\nWhat you do with the days is yours. The ridge trail is four miles and climbs 600 feet; the creek trail is flat and wet. Most people walk a lot. Some sit at the cabin's east window. Some sleep.\n\nWe ask that you have spent time alone outdoors before, at least a few nights, and know what a week without company does to you. This is not the place to find out.\n\n**Cost:** no charge. Donations to the trust are welcome and are not asked for.",
+  "practical": "Sunday to Sunday, April to October, one person at a time. Donation only. Canvas-walled cabin with wood stove, cot, table; outhouse; spring water. Food provided in a cold box each morning. Bring boots, rain gear, a headlamp, and layers. Nearest town Viroqua, 14 miles; we can collect from the bus. No signal.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "semi_structured",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "moderate",
+    "tradition": "nature_based",
+    "experience_level": "some_experience",
+    "duration": "week",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

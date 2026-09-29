@@ -1,0 +1,29 @@
+{
+  "id": "L031",
+  "name": "Daylong with Lama Tenzin Wangmo: Advanced Practice Intensive",
+  "location": "Boulder, Colorado",
+  "summary": "A one-day intensive for 100 experienced practitioners: three long teaching-and-practice blocks with extended Q&A, prostrations, and a full afternoon sit. Talking encouraged. $350.",
+  "description": "A single demanding day with a senior teacher, for practitioners who already hold the practices being taught.\n\n**Programme**\n8:30 doors. 9:00 to 11:30 first block: teaching, practice, and open discussion. Lunch. 13:00 to 16:00 second block, including 300 prostrations and a 90-minute sit. Tea. 16:30 to 18:30 third block: teaching and extended question period. Attendance at the blocks is expected; lunch and tea are unstructured.\n\n**Teacher**\nLama Tenzin Wangmo, 25 years teaching in the Kagyu and Nyingma lineages.\n\n**Conversation**\nThis is a dialogue day. Each block ends with 30 to 45 minutes of open questions and the lama answers at length. Lunch is not silent.\n\n**Level**\nAdvanced. The day assumes completed preliminary practices and familiarity with the practices taught. The registration form asks.\n\n**Physical**\nDemanding: prostrations, long sits, and a ten-hour day.\n\n**Cost**\n$350, including lunch. Half of proceeds to the lama's monastery.",
+  "practical": "One Saturday, spring and autumn. $350. 100 places. Lunch and tea included. Bring a cushion, prostration boards or gloves, water, a notebook. Hall is downtown; parking garage adjacent.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "assumes_practice",
+    "duration": "hours",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

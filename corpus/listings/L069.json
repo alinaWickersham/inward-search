@@ -1,0 +1,29 @@
+{
+  "id": "L069",
+  "name": "Autumn Practice Period, Broad Hearth Sangha",
+  "location": "Sonoma coast, California",
+  "summary": "Six weeks of communal practice for up to 60 experienced practitioners with a resident teacher from a mixed lineage. Silent until noon, no fixed schedule, daily teaching available. Donation.",
+  "description": "Broad Hearth draws on Zen, Theravada, and the Christian contemplative tradition without belonging to any. Its autumn practice period runs six weeks.\n\n**Rhythm**\nSilence from rising until noon across the property. The teacher sits in the hall at 6:00 and gives a talk at 11:00 daily; both are open and neither is required. After noon the community works, talks, walks, and practises as it chooses. There is no schedule beyond meals.\n\n**Teacher**\nCarmen Isola has practised for 35 years in three traditions and led the sangha for 15. She is in the hall each morning, at the talk, and around the grounds; individual conversations are by request and usually granted within a day or two.\n\n**Physical**\nModerate. Daily work of an hour or two, the coast trail, and the weather.\n\n**Level**\nFor practitioners with years of practice who want a long stretch with a teacher nearby and without a timetable. Not an introduction.\n\n**Cost**\nNone; the practice period is offered by donation.",
+  "practical": "Six weeks, mid-September to end of October. Donation. Up to 60 in cabins and dormitories. Three meals. Bring warm layers for fog, rain gear, boots, your own cushion. Nearest airport Santa Rosa; sangha shuttle on arrival day. Phones off; wifi in the office.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "moderate",
+    "tradition": "eclectic",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

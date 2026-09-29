@@ -15,7 +15,7 @@ strong matches written badly, and listings with clear caution signals.
 
 ## Decision
 
-Every listing is fictional, generated from a coverage plan and hand-edited.
+Every listing is fictional, written from a coverage plan and hand-edited.
 Every listing carries `synthetic: true`, the loader refuses any file
 without it, and the README says so in its first paragraph. No real
 organisation, teacher, or business is named, characterised, or evaluated.

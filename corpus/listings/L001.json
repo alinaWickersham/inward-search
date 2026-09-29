@@ -1,0 +1,29 @@
+{
+  "id": "L001",
+  "name": "Threshold Weekend with Marcus Oyelaran",
+  "location": "Sonoma County, California",
+  "summary": "An intensive weekend of movement, breath, and group process for 10 people with a facilitator. Long days, physically hard. Some prior inner work expected. $650.",
+  "description": "Marcus draws on Gestalt, contact improvisation, and pranayama and does not belong to a school. Ten participants. Friday evening to Sunday afternoon.\n\n**What we do**\nMarcus sets the work each morning and it is different each weekend: long movement sequences, partnered breath work, and spoken process in the circle. Days run from 7am to 10pm with breaks for meals. Expect to be tired and sore by Saturday night. Expect to talk, and to be talked to directly.\n\n**Who it is for**\nPeople who have done some form of this before: therapy, bodywork, a men's or women's group, a previous intensive. You do not need to know these particular methods. You need to be able to hear feedback in a group and to move for hours.\n\n**What it is not**\nNot a rest. Not a retreat. Not silent. If you want to be left alone, this is the wrong weekend.\n\n**Facilitator**\nMarcus Oyelaran has led group process for 18 years. Somatic Experiencing Practitioner, Gestalt training (4 years).",
+  "practical": "Friday 6pm to Sunday 4pm, eight weekends a year at a rented ranch. $650 including shared cabin and meals. 10 places. Bring loose clothing, a yoga mat, a journal. Nearest airport Santa Rosa. Signal at the ranch house only.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "eclectic",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

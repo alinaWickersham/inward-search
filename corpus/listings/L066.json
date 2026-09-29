@@ -1,0 +1,29 @@
+{
+  "id": "L066",
+  "name": "Winter Work Period, Tamarack Gate Monastery",
+  "location": "Northern Wisconsin",
+  "summary": "Three months at a Zen monastery as a work-period resident with up to 50 others: hard daily labour, no formal schedule beyond meals, teachers around but not teaching. For experienced practitioners. $600.",
+  "description": "Between the autumn and spring practice periods, the monastery runs on work. Residents join the community for the whole winter.\n\n**Format**\nNo formal practice schedule. The zendo is open and residents sit when they sit. The day is work: wood, snow, buildings, the kitchen, the road. Six days a week, eight hours. Meals at fixed times.\n\n**Teachers**\nThe abbot and two senior priests are in residence and work alongside residents. They do not give formal teaching in the work period. Conversations happen at work and at tea; formal interviews can be requested.\n\n**Talk**\nThe work period is not silent. Work is spoken, meals are spoken, and evenings are ordinary.\n\n**Demand**\nHigh. Northern winter, physical work, and a long stretch of it.\n\n**Level**\nFor practitioners who have sat at least one practice period here or a comparable monastery, and who want to see the other side of the year.\n\n**Cost**\n$600 for the three months, toward food.",
+  "practical": "December through February. $600. Up to 50 in dormitories. Three meals, oryoki at breakfast. Bring serious winter work clothing, boots, gloves. Nearest airport Duluth; monastery van from the bus. Phones in the office; wifi in the library.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "dialogue",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

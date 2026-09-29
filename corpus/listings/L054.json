@@ -1,0 +1,29 @@
+{
+  "id": "L054",
+  "name": "Silent Weekend on the Rule, Rushfield Community",
+  "location": "Rural Wales",
+  "summary": "A weekend for 8 experienced contemplatives following a small community's full daily rule of Offices, work, and lectio, in complete silence. A sister available by note. £70.",
+  "description": "Rushfield is a community of five living under a rule drawn from the Desert tradition. Eight guests join us on the rule for a weekend.\n\n**The rule**\nVigils 4.30. Lauds 6.30. Lectio 7.30 to 9.00. Work 9.00 to 12.00 (garden, wood, kitchen). Sext. Dinner. Rest. None. Work 14.30 to 16.30. Vespers. Supper. Compline 20.00. Guests keep every hour of it; this is the point of the weekend.\n\n**Silence**\nComplete, from arrival to departure, including at meals and at work. Guests may leave a note for the guest sister and will receive a written reply or, if needed, a short conversation.\n\n**Level**\nFor people with a mature contemplative practice who are used to silence and to a rule. We do not explain the Offices; a card gives the pages.\n\n**Physical**\nModerate: early rising and five hours of outdoor work a day.\n\n**Cost**\n£70 towards food and heating.",
+  "practical": "Friday 5pm to Sunday 2pm, two weekends a month. £70. 8 guests, single cells. Meals with the community, simple. Bring work clothes, boots, warm layers, a torch. Nearest station Llandovery; we collect. No phones during the weekend.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "contemplative_christian",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

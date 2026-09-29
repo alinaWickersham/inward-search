@@ -1,0 +1,29 @@
+{
+  "id": "L072",
+  "name": "Piñon Mesa Retreat House: Thirty-Day Individually Directed Retreat (strict silence)",
+  "location": "Sangre de Cristo foothills, northern New Mexico",
+  "summary": "The full Spiritual Exercises over thirty days, alone in a hermitage, with daily direction. Complete silence throughout. For those with an established prayer life.",
+  "description": "Piñon Mesa Retreat House offers the Spiritual Exercises of St. Ignatius in the full thirty-day form twice each year, in February and in September. The retreat is made individually, in one of four hermitages set apart from the main house, with daily spiritual direction.\n\n**Format**\nRetreatants set their own daily order. The customary pattern is five periods of prayer of about an hour each, with a short review following each, distributed through the day as the retreatant and director agree. The hours between are unstructured. Retreatants are encouraged to walk; the mesa trails are long and the elevation is 7,200 feet.\n\n**Silence**\nSilence is kept for the whole of the thirty days. The daily meeting with the director is the only spoken exchange. Requests and messages are written and left in the box outside the chapel. Telephones are held at the office for the duration; the office will contact a retreatant's named person in an emergency.\n\n**Direction**\nEach retreatant meets daily with a director for approximately thirty minutes. Our directors, Sr. Anne Marie Kroll and Fr. Tomás Beltrán, have between them accompanied the thirty-day retreat for over forty years.\n\n**Prerequisites**\nThe thirty days are physically and spiritually demanding: early rising, five daily prayer periods, extended solitude, and considerable walking at altitude. We require that applicants have completed at least one directed retreat of eight days and maintain a regular practice of prayer or meditation. Applicants complete a written form and a telephone conversation with a director before acceptance. We will sometimes recommend a shorter retreat first.\n\n**Meals**\nMeals are brought to the hermitage. Retreatants do not eat with the community.",
+  "practical": "Thirty days, February and September. $2,100 including all meals, accommodation, and direction. Partial scholarships available on request. Four hermitages; four retreatants per session, who do not meet. Wood stove, cold water in the hermitage, bathhouse shared. Bring hiking boots, warm layers, a flashlight, and personal prayer materials. Nearest airport Santa Fe; shuttle arranged on request. No telephone or internet access during the retreat.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "contemplative_christian",
+    "experience_level": "some_experience",
+    "duration": "extended",
+    "cost_band": "mid"
+  },
+  "kind": "near_dup",
+  "pair": "pair01",
+  "varies_on": "speech",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

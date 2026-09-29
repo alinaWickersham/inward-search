@@ -1,0 +1,29 @@
+{
+  "id": "L116",
+  "name": "Beginners Solo Silent Week Deluxe",
+  "location": "Catskills, New York",
+  "summary": "A solo silent week for beginners in a private luxury cabin on a set schedule of long sits, with a daily note from a teacher. Physically hard. $3,900.",
+  "description": "Are you a beginner who wants to try a silent retreat but doesnt want to do it in a big group? Our Beginners Solo Silent Week Deluxe is for you!!\n\nYou will have your own private deluxe cabin for the week, totaly alone. The week follows a fixed schedule that is the same everyday which you will recieve on arrival, it includes a lot of sitting meditation, we are talking 8 hours a day of sitting in periods of 45 mins, plus walking meditation in between, plus early wake up (4:30am). It is demanding physicaly, alot of beginners are surprised how hard sitting is on the body but you will get through it!\n\nTotal silence all week, you dont talk to anyone, meals are left at your door. Our teacher (Buddhist tradition, very experienced) leaves you a note each morning with instructions for the day and answers any questions you wrote the day before. Thats the only contact. The teacher doesnt visit in person, its all by note, to keep the silence.\n\nNo experience needed! Everything you need is explained in the notes and the welcome booklet.\n\nThe deluxe cabin has a hot tub, fireplace, luxury linens, etc.\n\n$3900 for the week all inclusive.",
+  "practical": "Sunday to Sunday. $3900 all inclusive. 1 person. Deluxe cabin, hot tub, fireplace, meals delivered. Bring comfortable cloths, cushion provided. Pick up from Trailways bus in Phoenicia included. No phone or wifi in cabin.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "newcomer_friendly",
+    "duration": "week",
+    "cost_band": "high"
+  },
+  "kind": "awkward",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

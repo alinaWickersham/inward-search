@@ -1,0 +1,29 @@
+{
+  "id": "L036",
+  "name": "Intro to Mindful Walking: Half-Day Workshop",
+  "location": "Minneapolis, Minnesota",
+  "summary": "A four-hour Saturday workshop for 10 beginners with an instructor: two guided walks along the river, discussion between, and a short sit. Secular. $35.",
+  "description": "**Saturdays, 1 to 5pm. Ten people. $35.**\n\nA practical introduction to walking meditation for people who cannot sit still and would rather not.\n\n**What we do**\n1:00 Meet at the boathouse. Introductions, and 20 minutes of explanation.\n1:30 First walk: 45 minutes along the river path, guided (the instructor walks with you and gives cues).\n2:30 Coffee and discussion at the boathouse. What did you notice? Questions.\n3:15 Second walk: 45 minutes, less guidance, longer stretches of quiet.\n4:15 A 15-minute seated practice, then discussion and close.\n\nThe walks and the discussions are the fixed parts; the breaks are loose.\n\n**Instructor**\nJae Park, MBSR-certified, has taught secular mindfulness for nine years, mostly to people who came in sceptical.\n\n**Level**\nBeginners. No experience of any kind assumed.\n\n**Physical**\nModerate: about four miles of level path, some of it at a slow pace, some at a normal one.",
+  "practical": "Two Saturdays a month, April to October, 1 to 5pm. $35. 10 places. Meet at the river boathouse; light rail and bus nearby. Bring walking shoes and a layer. Coffee provided.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "moderate",
+    "tradition": "secular",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

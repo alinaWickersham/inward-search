@@ -1,0 +1,29 @@
+{
+  "id": "L040",
+  "name": "The Ridge Protocol: Solo Weekend",
+  "location": "Peak District, Derbyshire",
+  "summary": "A solo weekend on a strict written schedule of long walks and sits, silent until 6pm, with a phone call to a coach each evening. Secular. Physically hard. Some prior practice helpful. £140.",
+  "description": "The Ridge Protocol is a fixed two-day schedule for one person, run from a bunkhouse we rent on the edge of the moor.\n\n**The schedule**\nDay 1: 6.00 sit (30). 6.45 walk, 12 miles, marked route (return by 13.00). Lunch. 14.00 sit (45). 15.00 walk, 6 miles. 18.00 silence ends; call with your coach (30 min). Supper. 20.30 sit. Day 2 the same with a different route. It is written on one card and you are asked to follow it exactly.\n\n**Silence**\nUntil the 6pm call each day. The bunkhouse is yours; there is no one else there.\n\n**Coach**\nSecular. The two evening calls are the only guidance: a debrief and a few questions. Coaches are MBSR-trained and have done the protocol themselves.\n\n**Demand**\nEighteen miles of moorland a day plus two hours of sitting. Come fit and with boots that fit.\n\n**Level**\nPeople who have some experience of sitting and are used to long walks alone. Not for a first go at either.\n\n**Cost**\n£140 including the bunkhouse and two calls; you bring food.",
+  "practical": "Friday night to Sunday evening, most weekends. £140. One person. Bunkhouse with stove, bunk, kitchen; bring your own food. Bring full hill kit, map, compass, boots. Nearest station Edale. Signal at the door for the evening call only.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "secular",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

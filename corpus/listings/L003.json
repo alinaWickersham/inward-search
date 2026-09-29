@@ -1,0 +1,29 @@
+{
+  "id": "L003",
+  "name": "Mauna Week at Ridgeway Ashram",
+  "location": "Southern Appalachians, Tennessee",
+  "summary": "A silent week at a yoga ashram for up to 60 guests. Gentle asana and chanting twice a day to a fixed timetable; no instruction beyond the schedule. Beginners welcome. Donation.",
+  "description": "Twice a year the ashram holds a mauna (silence) week open to all. Sixty guests, full silence, and the ashram's ordinary daily schedule.\n\n**The day**\n5:30 wake bell. 6:00 gentle asana in the hall (45 min, follow-along, no adjustments). 7:00 chanting. 8:00 breakfast. 9:30 to 12:00 karma yoga: light service, mostly kitchen and garden. 12:30 lunch. 14:00 to 16:00 rest. 16:30 asana. 17:30 chanting and arati. 18:30 supper. 21:00 lights out.\n\n**Silence**\nFrom arrival until the closing circle. Guests do not speak with each other, with residents, or on phones. Notes for the office may be left at the desk.\n\n**Instruction**\nThere is none during mauna week. The schedule is the teaching. Residents lead the asana and chanting by demonstration; guests follow as they are able.\n\n**Level**\nGentle throughout. No prior yoga or meditation experience is needed, and about half the guests each mauna week are new to both.\n\n**Cost**\nBy donation. The ashram has no fees for programs.",
+  "practical": "Sunday afternoon to the following Sunday, in March and October. Donation. Dormitory accommodation, separated by gender, 60 beds. Three vegetarian meals daily. Bring modest loose clothing, a shawl, and a mat if you have one. Nearest airport Knoxville; ashram shuttle from the airport on arrival day, $40. Phones held at the office.",
+  "dimensions": {
+    "social": "community",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "self_guided",
+    "physical_demand": "restful",
+    "tradition": "yogic",
+    "experience_level": "newcomer_friendly",
+    "duration": "week",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

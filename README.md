@@ -39,17 +39,16 @@ src/threshold/            the package, installed with `pip install -e .`
 corpus/                   the synthetic listings
   seeds.json              3 hand-written listings that set the register
   plan.json               120 listing specs, deterministic from scripts/coverage.py
-  listings/               one JSON per generated listing (committed once generated)
+  listings/               one JSON per listing, written from the plan
 
 scripts/
   coverage.py             builds corpus/plan.json
-  generate.py             builds corpus/listings/ from the plan (calls an LLM, costs money)
   check_corpus.py         validates listings against the plan and schema
 
 docs/
   SPEC.md                 the full project specification
   decisions/              short records of the choices a reader might question
-  phases/             one working doc per phase
+  phases/                 one working doc per phase
 
 tests/                    pytest
 ```
@@ -61,19 +60,17 @@ added as subpackages of `threshold` in the phases that build them.
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
-pip install -e ".[corpus,dev]"
-export ANTHROPIC_API_KEY=...        # only needed for corpus generation
+pip install -e ".[dev]"
 
 python -m pytest -q                              # schema + plan reproducibility
-python scripts/coverage.py > corpus/plan.json    # rebuild the plan (free, deterministic)
-python scripts/generate.py --limit 5             # generate 5 listings, check the register
-python scripts/generate.py                       # generate the full corpus (~$5-15)
-python scripts/check_corpus.py                   # validate what is on disk
+python scripts/coverage.py > corpus/plan.json    # rebuild the plan (deterministic)
+python scripts/check_corpus.py                   # validate listings against plan and schema
 ```
 
-`generate.py` writes one file per listing and skips those that exist, so a
-crash resumes rather than restarting. The API key is read from the
-environment only. Never put it in a file that could be committed.
+The listings were written from the plan by a Claude model working in a
+Claude Code session, one file per plan entry, and then read and edited by
+hand. Each listing records the model that wrote it. There is no generation
+script to run; the corpus is a committed artefact.
 
 ## The intent dimensions
 

@@ -1,0 +1,29 @@
+{
+  "id": "L012",
+  "name": "Pilgrim Week on the Crossings Path",
+  "location": "Cumbria to Northumberland",
+  "summary": "Walk a 90-mile route between five small chapels alone, staying in parish rooms and barns, with a short evening reflection at each stop. Silent by day. £180.",
+  "description": "The Crossings Path links five chapels across the fells, and the parishes along it keep simple lodgings for people walking it in a contemplative spirit.\n\n**The walk**\nNinety miles in six days, 12 to 18 miles a day, over open fell. You walk alone and set your own pace and route between the fixed overnight stops. It is a hard walk: high ground, weather, and long days with a pack.\n\n**Silence**\nWalkers are asked to keep silence while walking and at the lodgings until the evening. At each chapel a local host offers a short reflection at 6pm (15 minutes, from the Christian contemplative tradition, not a service) and is available for a conversation after supper. Take it or not.\n\n**Guidance**\nThe hosts are the only guidance: one conversation a day if you want it. There is no leader and no group. You carry a small booklet of readings for the route.\n\n**Suitability**\nFor people with a walking habit and some experience of quiet. The fells require map-reading and proper kit. Not a first long walk.\n\n**Cost**\n£180 for the six nights and suppers.",
+  "practical": "Six days, any start date May to September; book through the path office. £180 covering lodging and supper at each stop; breakfast and lunch you carry. Lodgings are parish rooms and one barn: camp bed, blanket, kettle. Bring full hill-walking kit, map and compass, and a 40-litre pack. Start at Kirkby Stephen station; finish near Hexham. Signal intermittent.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "contemplative_christian",
+    "experience_level": "some_experience",
+    "duration": "week",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "L011",
+  "name": "108 Sun Salutations, New Moon Mornings",
+  "location": "Austin, Texas",
+  "summary": "A monthly outdoor session of 108 sun salutations in silence with 100 or more people, counted by a bell. Hard on the body. No instruction; follow along. Free.",
+  "description": "On the morning of each new moon we meet in the park at dawn and do 108 sun salutations together, in silence.\n\n**How it works**\nArrive by 6:30. A bell rings at 6:45 and we begin. One round of surya namaskar per bell; the bell rings 108 times. Nobody speaks, counts aloud, or instructs. Watch the person in front of you if you are unsure. Rest when you need to and rejoin. It takes about 90 minutes. A closing bell, a short silent sit, and people leave.\n\n**Level**\nBeginners come every month and are welcome. You do not need to know the sequence beforehand; you will by round 20. You do need to be honest about your body. 108 rounds is a lot, and most first-timers do 40 or 60 and sit out the rest, which is fine.\n\n**Cost**\nNone. This is not a class and there is no organisation behind it.",
+  "practical": "New moon mornings, 6:30 for a 6:45 start, about 90 minutes. Free. Meet at the east lawn of the park; details posted on the noticeboard by the pavilion the week before. Bring a mat, water, and something warm for the sit after. Outdoors, all weather except lightning.",
+  "dimensions": {
+    "social": "community",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "yogic",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

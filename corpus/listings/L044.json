@@ -1,0 +1,29 @@
+{
+  "id": "L044",
+  "name": "Guided Solo Day, Marram Coast Practice",
+  "location": "Northumberland coast",
+  "summary": "A full day alone on the shore following a fixed sequence of sits and walks, silent until 4pm, with a guide who briefs you at the start and debriefs at the end. Beginners. £240.",
+  "description": "A day for one person, designed for someone who has never spent a day alone outdoors on purpose.\n\n**The sequence**\n8.00 meet your guide at the dune car park; tea and a 30-minute briefing. 8.45 you are left at the first point with a laminated card. The card gives the day: a 30-minute sit facing the sea, a walk to the second point (marked), a sit, a walk, lunch at the third point, a long sit, a walk back. Times are on the card and you are asked to keep them. 16.00 your guide meets you at the start; silence ends; an hour's conversation over more tea.\n\n**Guide**\nOne of three, all with long practice in nature-based work, and all trained to brief a beginner properly.\n\n**Physical**\nModerate. About seven miles of sand and dune, in whatever the North Sea does that day.\n\n**Cost**\n£240, including the briefing, the debrief, a packed lunch, and the card, which you keep.",
+  "practical": "Any day April to October, 8am to 5pm; book ahead. £240. One person. Bring boots or sturdy trainers, full waterproofs, warm layers, a flask. Meet at the dune car park near Beadnell. Signal on the beach.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "nature_based",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

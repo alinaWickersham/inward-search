@@ -1,0 +1,29 @@
+{
+  "id": "L100",
+  "name": "Autumn Practice Weekend, Millbrook Institute",
+  "location": "Berkshires, Massachusetts",
+  "summary": "An unscheduled weekend for up to 60 experienced secular practitioners at a long-running institute: silent mornings, three named teachers available, moderate walking. $890, itemised.",
+  "description": "Millbrook Institute has run secular contemplative programmes since 1987. The Autumn Practice Weekend is our least structured offering.\n\n**Format**\nSilence across the grounds until noon. No scheduled sessions. Teachers are available in the small halls and on the trails throughout; participants seek them out or not.\n\n**Teachers**\n- Dr. Helen Aske, clinical psychologist, MBSR teacher trainer (UMass CFM), 24 years teaching.\n- Ravi Menon, Insight Meditation Society retreat teacher since 2004, MA Contemplative Psychology.\n- Joanna Kittredge, LICSW, certified MBCT teacher, 15 years.\n\n**Physical**\nModerate. The trail network is 12 miles and hilly.\n\n**Level**\nParticipants should have a practice of some years. The weekend offers no instruction unless sought.\n\n**Cost, itemised**\nAccommodation (single room, two nights): $420. Meals (six): $150. Teaching and facilities: $320. Total $890.\n\n**Cancellation**\nFull refund to 30 days before; 50% to 14 days; no refund after, except in documented emergency, in which case a credit is issued. Transfers to another participant permitted at any time.",
+  "practical": "Friday 4pm to Sunday 2pm, October. $890. Up to 60, single rooms. Three meals daily, dietary needs accommodated with notice. Bring walking shoes, layers, rain gear. Nearest airport Albany; institute shuttle from the Pittsfield bus, $25. Wifi in the main building. Registered 501(c)(3); financial statements available on request.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "secular",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "high"
+  },
+  "kind": "trust_signal",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Long-established, teachers named with training listed, itemised pricing, clear cancellation terms.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

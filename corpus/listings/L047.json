@@ -1,0 +1,29 @@
+{
+  "id": "L047",
+  "name": "Directed Weekend with Fr. Anselm, Holy Rood Priory",
+  "location": "Lancashire",
+  "summary": "A weekend alone with a monastic director: three long conversations a day, the Office at set times, and hard walks on the fells between. For those with a mature prayer life. £260.",
+  "description": "Fr. Anselm takes one directee at a time for a weekend of intensive direction.\n\n**The shape**\nFriday evening: Compline, then the first conversation. Saturday: Lauds at 6, conversation at 8 (an hour), walk on the fell with Fr. Anselm (three hours, talking), Sext, rest, conversation at 16.00, Vespers, supper, conversation at 20.00. Sunday: Lauds, Mass, a final conversation, walk out. The Offices are fixed; the conversations are arranged around them.\n\n**Direction**\nFr. Anselm has been a spiritual director for 30 years. The weekend is talk: three or four hours a day of it, and a long walk that is also talk.\n\n**Demand**\nThe fell walks are real, the rising is early, and the direction is searching. People find it tiring.\n\n**Level**\nFor people with a mature and established prayer life who have been in direction before.\n\n**Cost**\n£260 including the guest room and meals.",
+  "practical": "Friday 5pm to Sunday 2pm, one weekend a month. £260. One directee. Guest room in the priory. Meals with the community. Bring boots and waterproofs. Nearest station Clitheroe; Fr. Anselm collects. No phone during the weekend.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "contemplative_christian",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

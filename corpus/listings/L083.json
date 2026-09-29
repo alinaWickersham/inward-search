@@ -1,0 +1,29 @@
+{
+  "id": "L083",
+  "name": "Foel Wen Hut: self-run practice weekend (solo booking)",
+  "location": "Berwyn range, north Wales",
+  "summary": "Stone hut for one experienced practitioner to run their own weekend of long sitting. No teacher. Silence except when the keyholder brings the evening meal. £40.",
+  "description": "Foel Wen is a two-room stone hut at 400m in the Berwyn range, maintained by our sangha since 1986. There is no teacher and no programme. The hut is available for self-run practice weekends.\n\n**Booking**\nSolo bookings for one practitioner who already sits and wants a weekend of extended practice alone, without anyone organising it. The practitioner arranges their own schedule on arrival.\n\n**Practice**\nPractitioners set their own schedule. A typical weekend is five or six sitting periods of 45 to 60 minutes daily, with walking between, beginning early. The hut has cushions, benches, a wood stove, and a bell.\n\n**Silence**\nSilence from waking until the evening meal. The evening meal is the exception: Pauline brings it up from the farm at six and stays for a cup of tea, and ordinary conversation is fine. Silence resumes after.\n\n**Requirements**\nThis is a demanding weekend: long sitting, a cold hut in the mornings, a steep hill, and nobody to moderate the schedule. We ask that the practitioner has an established daily practice and has completed at least one residential retreat. We do not verify this. The hut is not the place to discover you were not ready.\n\n**Keyholder**\nPauline lives at the farm below and holds the key. Apart from bringing the evening meal she leaves you alone.\n\n**Cost**\n£40 per person per weekend, to the sangha, for wood and upkeep, including the two evening meals.",
+  "practical": "Friday evening to Sunday afternoon, most weekends. £40. Sleeps 1 on a platform; bring a sleeping bag and mat. Cold water, wood stove, composting toilet, no electricity. Bring breakfast and lunch food; evening meals provided; nearest shop 9 miles. Park at the farm, 20-minute walk up. No mobile signal.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "near_dup",
+  "pair": "pair06",
+  "varies_on": "social",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

@@ -24,9 +24,9 @@ semantic matching over inner states; adding geography would make it a
 travel-search problem with a semantic layer on top.
 
 Accessibility (mobility, dietary, medical) is not a dimension either. It is
-real and it interacts with the contraindication signals, and it is not yet
-decided whether it belongs in the `practical` text or as a matched axis.
-This is open, and it is recorded here so it is decided on purpose.
+real and it interacts with the contraindication signals, but it is a
+constraint on whether a person can attend, not a description of what they
+are looking for. It lives in the `practical` text of a listing.
 
 ## Alternatives considered
 

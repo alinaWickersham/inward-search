@@ -1,0 +1,29 @@
+{
+  "id": "L107",
+  "name": "Ten-Day Solo on the Ridge",
+  "location": "Bitterroot Range, Montana",
+  "summary": "Ten days alone at a ridge camp with silent days, a shared evening meal spoken with the keeper, and no teacher and no check-ins. Hard terrain. For very experienced practitioners. Free.",
+  "description": "A land trust keeps a ridge camp for ten-day solos.\n\n**Format**\nYou are taken up on day 0 and collected on day 11. Days are silent. At dusk the keeper brings food to the camp edge; you may speak with the keeper then, briefly, about practical matters. That is the only contact. Nobody visits during the day and there is no teacher, no check-in, and no one to talk to about what arises. The keeper does not ask how you are.\n\n**Practice**\nYours. The camp has a tarp, a fire ring, and the ridge.\n\n**Demand**\nHigh. Weather at 7,000 feet, rough ground, solitude with no support for ten days.\n\n**Level**\nThis is for people with many years of practice and prior solos of at least five days. It is not for anyone who has not done something like it before, and the trust will decline applications that suggest otherwise.\n\n**Cost**\nNone.",
+  "practical": "Ten days, June to September; apply in writing with your retreat history. Free. One person. Tarp shelter, fire ring; bring your own sleeping system and clothing for cold. Food brought daily. Meet in Hamilton, MT; 5-mile walk in with the keeper. No signal; no emergency device provided.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "semi_structured",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "contraindication",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Ten days of unbroken silence with no teacher check-ins.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "L041",
+  "name": "Unstructured Weekend with a Teacher, Fernbank",
+  "location": "Catskills, New York",
+  "summary": "A weekend for 8 at a house with a secular mindfulness teacher who is there all weekend but schedules nothing. Silent mornings, restful, some prior practice useful. $180.",
+  "description": "Fernbank runs on a simple idea: a good teacher in a quiet house for a weekend, with no programme.\n\n**How it works**\nEight guests arrive Friday evening. Mornings are silent until noon. Otherwise there is nothing on the calendar. Cass Whitaker, who has taught secular mindfulness for fourteen years, is in the house all weekend. Sit with her in the morning room (she is there at 7); walk with her; ask her anything at lunch; leave her alone. Guests tend to find their own rhythm by Saturday afternoon.\n\n**Physical**\nRestful. Gentle grounds, a porch, no walks longer than you want.\n\n**Who**\nBest for people who have some experience of sitting and want proximity to a teacher without a course. Beginners are welcome but should know they will need to ask for what they want.\n\n**Cost**\n$180 including shared room and meals.",
+  "practical": "Friday 6pm to Sunday 2pm, twice monthly. $180. 8 guests, shared rooms. Three meals. Bring slippers, warm layers, a notebook. Trailways bus to Phoenicia; pick-up included. Wifi in the kitchen.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "secular",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

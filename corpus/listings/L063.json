@@ -1,0 +1,29 @@
+{
+  "id": "L063",
+  "name": "Solo Expedition Week, Ridge & Fire",
+  "location": "Scottish Highlands",
+  "summary": "A private week for one first-timer on a fixed daily schedule of long mountain days and an evening fireside conversation with a host who draws on several traditions. Very hard. £2,900.",
+  "description": "Ridge & Fire takes one guest at a time.\n\n**Schedule**\n6.00 rise, short sit with the host. 7.00 out on the hill with a packed lunch and a route card: eight to twelve hours, 1,000 to 1,500 metres of ascent, alone. 18.00 back. Bath, supper. 20.00 fireside: an hour or two of conversation with the host, about the day and whatever it raised. Bed. Every day for six days. The schedule does not change for weather, though the route does.\n\n**Host**\nFergus Ballantyne has guided in the Highlands for 20 years and has practised in Zen, Sufi, and Quaker settings. He does not teach. The fireside is a conversation, and the hill is the practice.\n\n**Level**\nDesigned for people who have never done anything contemplative and would not come to it any other way. No experience assumed.\n\n**Fitness**\nSerious. You need to be able to walk all day in Scottish mountain weather for six days running.\n\n**Cost**\n£2,900 including the lodge, all meals, route planning, and the fireside.",
+  "practical": "Sunday to Saturday, May to October. £2,900. One guest. Lodge with private room and bath. All meals. Full mountain kit required: a list is sent. Nearest station Fort William; collected. Signal at the lodge.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "eclectic",
+    "experience_level": "newcomer_friendly",
+    "duration": "week",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

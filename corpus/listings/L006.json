@@ -1,0 +1,29 @@
+{
+  "id": "L006",
+  "name": "The Lamplight Week",
+  "location": "Ozark plateau, Arkansas",
+  "summary": "A week for 8 in a cluster of cabins with a resident teacher who mixes contemplative traditions. Silent mornings, open afternoons, no schedule. Some prior practice helpful. $320.",
+  "description": "Eight cabins, a kitchen house, one teacher, and a week.\n\n**How it runs**\nThere is no timetable. Mornings are silent across the property until noon; afternoons and evenings are open, and most people find themselves talking with the teacher and each other on the kitchen house porch. Evan Marsh has practised in Sufi, Quaker, and Zen settings and teaches from all three as it seems useful. He is available all week: for a walk, a conversation, a sit. He does not run sessions, but if you ask for instruction you will get it.\n\n**Practice**\nWhatever you bring. People sit, pray, walk the ridge, write, sleep. Evan will suggest things if asked.\n\n**Physical**\nModerate. The ridge trails are rocky, the cabins are a ten-minute walk uphill from the kitchen, and it is hot in summer.\n\n**Fit**\nBest for people who have some practice already and want a week of it with a teacher nearby rather than a course. Not ideal as a first contact with contemplative practice; there is not enough structure to hold a complete beginner.\n\n**Cost**\n$320, which is what it costs us.",
+  "practical": "Saturday to Saturday, May to October. $320 including cabin and all meals. 8 places. One-room cabins with screened porch, fan, shared bathhouse. Bring walking shoes, insect repellent, a flashlight. Nearest airport Fayetteville, 90 minutes. No signal; landline at the kitchen house.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "moderate",
+    "tradition": "eclectic",
+    "experience_level": "some_experience",
+    "duration": "week",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

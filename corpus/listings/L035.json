@@ -1,0 +1,29 @@
+{
+  "id": "L035",
+  "name": "Guru Purnima Weekend, Sadhana Mandir",
+  "location": "Central New Jersey",
+  "summary": "A free weekend gathering of up to 200 experienced practitioners for long asana and pranayama sessions with the ashram's senior teachers, satsang, and open discussion. Demanding. Donation.",
+  "description": "Every July the mandir opens for the full-moon weekend to practitioners from its lineage and from others.\n\n**Programme**\nSaturday and Sunday: 4:30 sadhana (2.5 hrs, led). Breakfast. 9:00 to 11:00 advanced asana with a senior teacher. Lunch and rest. 15:00 pranayama intensive (90 min). 17:00 satsang: chanting, a talk, and open questions, running until dinner and often after. The morning and afternoon sessions are fixed; the middle of the day is free and the grounds are large.\n\n**Teachers**\nFour senior teachers of the lineage, with the ashram's guru present for satsang.\n\n**Conversation**\nSatsang is spoken and questions run long. Meals are social. This is a gathering, not a silent retreat.\n\n**Level**\nAdvanced. The asana sessions assume years of practice and the pranayama intensive is not taught from the beginning.\n\n**Physical**\nDemanding: five hours of practice a day in July heat.\n\n**Cost**\nNone. Donations to the mandir welcome.",
+  "practical": "Friday evening to Sunday evening, Guru Purnima weekend in July. Free; donations welcome. Up to 200. Dormitory and camping; bring a mat and bedding. Meals provided. Bring practice clothes, a shawl, water. Train to Princeton Junction; ashram shuttle.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "yogic",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

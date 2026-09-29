@@ -1,0 +1,29 @@
+{
+  "id": "L032",
+  "name": "Firewood Weekend, Hollowtree Collective",
+  "location": "Northern Vermont",
+  "summary": "A free weekend of hard woodland work, fires, and talk for 10 first-timers, led by two nature-practice guides. Fixed morning and evening sessions; afternoons open.",
+  "description": "We need our winter wood cut and stacked, and we have found that doing it with strangers, with two guides, is a good introduction to what we practise.\n\n**Format**\nFriday night fire and introduction. Saturday and Sunday: 7am circle at the fire (30 min), then work in the wood until noon (felling, bucking, splitting, hauling). Lunch. Afternoons unscheduled: swim, sleep, walk, more wood. 6pm circle. Dinner and a long fire. The circles are the fixed points and the guides lead them.\n\n**Guides**\nTwo members of the collective who have practised nature-based awareness for 15 and 20 years. They work alongside you all morning and lead the circles.\n\n**Talk**\nThe circles are spoken and the work is not silent. The weekend runs on conversation.\n\n**Demand**\nHigh. A full morning of forestry work is more than most people have done. We stop for injuries and not for tiredness.\n\n**Level**\nFor people who have not done anything like this before. Everything is explained.\n\n**Cost**\nNone. The wood is the payment.",
+  "practical": "Friday 6pm to Sunday 4pm, one weekend in September and one in October. Free. 10 places. Camp in the meadow; bring a tent. Meals provided. Bring work gloves, boots, long trousers, a water bottle, swimwear. Nearest town Hardwick, VT. No signal.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "newcomer_friendly",
+    "duration": "weekend",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

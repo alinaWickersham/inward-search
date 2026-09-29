@@ -1,0 +1,29 @@
+{
+  "id": "L114",
+  "name": "Executive Quiet Morning at The Pause Space",
+  "location": "Manhattan, New York",
+  "summary": "Premium half-day quiet experience for small groups of experienced practitioners, unstructured, with facilitator on hand, silent until 11. $295.",
+  "description": "The Pause Space is proud to offer our signature Executive Quiet Morning experience, designed for the discerning practitioner who values the finest in contemplative environments.\n\nOur Executive Quiet Morning is a premium, self-directed experience. Upon arrival at 7:30am you will be welcomed into our beautifully appointed space where you may practice however you choose in the manner of your choosing. There is no program or schedule; the morning is yours to shape as you see fit. Our facilitator is on hand throughout the morning should you require any support or guidance, but will not intrude. Silence is maintained throughout the space until 11am, after which our light refreshments are served and conversation is welcome amongst the group.\n\nThe Executive Quiet Morning is restful and restorative and is perfect for the busy professional. It is limited to 8 participants to maintain the intimate atmosphere. It is intended for experienced practitioners with an established practice, as no instruction is provided.\n\nExperience the difference of The Pause Space. Book your Executive Quiet Morning today.",
+  "practical": "Weekday mornings 7:30am to 12:30pm. $295. Maximum 8. Cushions, chairs, mats, blankets, tea. Midtown location, details upon booking. Business casual or comfortable attire welcome.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "secular",
+    "experience_level": "assumes_practice",
+    "duration": "hours",
+    "cost_band": "high"
+  },
+  "kind": "awkward",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

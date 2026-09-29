@@ -1,0 +1,29 @@
+{
+  "id": "L020",
+  "name": "Sesshin Weekend, Riverbend Zen Sangha",
+  "location": "Twin Cities, Minnesota",
+  "summary": "A two-day sesshin for up to 40 sitters at a lay Zen group, on the full traditional schedule, in silence. No teacher; a senior sitter leads. For experienced sitters. Dana.",
+  "description": "Riverbend is a lay sangha without a resident teacher. Four times a year we hold a weekend sesshin on the schedule our teacher left us.\n\n**Schedule**\n4:30 wake. 5:00 to 7:00 zazen and kinhin. Breakfast (oryoki). 8:30 to 11:30 zazen. Lunch. 13:00 to 17:00 zazen with a work period. Supper. 18:30 to 21:00 zazen. Bows. Lights out. Sits are 40 minutes. The schedule is kept exactly.\n\n**Leadership**\nOur senior sitter, who has practised for 30 years, leads the hall, gives one short talk each day, and is available for a brief question at the door after the last sit. There is no dokusan and no teaching beyond that. Sitters are expected to know the forms.\n\n**Silence**\nFull, including at meals, which are taken oryoki style in the zendo.\n\n**Demand**\nAround 12 hours of sitting a day. This is a sesshin, not an introduction. We require that participants have sat at least one sesshin before, here or elsewhere, and know oryoki.\n\n**Cost**\nDana. The hall is rented and the food is cooked by members.",
+  "practical": "Friday 7pm to Sunday 3pm, quarterly. Dana. Up to 40. Sleep in the hall on mats, or at home if local. Oryoki meals; bring your own set or borrow one. Bring dark loose clothing, a zafu if you have one. Hall is on the bus line. Phones off and put away.",
+  "dimensions": {
+    "social": "community",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

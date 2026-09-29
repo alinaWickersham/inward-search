@@ -1,0 +1,29 @@
+{
+  "id": "L010",
+  "name": "Sunday Open Grounds at Cedar Commons",
+  "location": "Portland, Oregon",
+  "summary": "The commons opens its 3-acre garden and hall every Sunday, 8 to 2, for silent practice of any kind until noon and conversation after. Drop in. Free.",
+  "description": "Cedar Commons is a former church and its grounds, now run by a mixed group of practitioners: Buddhist, Quaker, secular, pagan, and a few who would not say.\n\n**Sundays**\nThe grounds and the hall are open from 8am to 2pm. Come when you want, do what you do. People sit in the hall, walk the labyrinth, kneel in the old chapel, garden, or lie on the grass. Until noon the whole property is silent. From noon there is soup, and talk.\n\n**Guidance**\nA steward is on site each Sunday and will show you the space, answer questions at the door before you go in, and talk after noon. There is no instruction and no programme. If you have never done any of this, ask the steward what other people do and pick something.\n\n**Physical**\nThe labyrinth is a quarter-mile of gravel; the garden work is real if you choose it. Nothing is required.\n\n**Cost**\nFree. There is a jar.",
+  "practical": "Every Sunday, 8am to 2pm, drop in. Free. Hall, chapel, garden, labyrinth. Soup at noon. Bring a cushion if you like; some provided. Wheelchair access to the hall and garden; the chapel has steps. Bus lines 4 and 75 stop outside. Bike parking.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "eclectic",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

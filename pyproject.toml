@@ -14,8 +14,6 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-# Phase 1: corpus generation
-corpus = ["anthropic>=0.40"]
 # Phase 2+: retrieval, extraction, orchestration
 pipeline = [
     "langgraph>=0.2",

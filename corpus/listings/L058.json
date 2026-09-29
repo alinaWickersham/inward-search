@@ -1,0 +1,29 @@
+{
+  "id": "L058",
+  "name": "Free Quiet Weekend at the Old Schoolhouse",
+  "location": "Upstate New York",
+  "summary": "A free weekend for up to 40 at a community centre: silent mornings, two optional sits with a recording, and nothing else asked. No instructor. Made for people who have never done this. Donation.",
+  "description": "Once a month the schoolhouse opens for a quiet weekend at no cost.\n\n**What happens**\nMornings are silent until noon, throughout the building. A recorded guided sit plays in the hall at 8:00 and 17:00 (20 minutes) for anyone who wants it. Meals at fixed times. Afternoons and evenings are open and conversational.\n\n**No instructor**\nVolunteers run the kitchen and the doors. No one teaches or leads. The recorded sits are secular and simple.\n\n**Physical**\nNothing. The grounds are flat; the porch is long.\n\n**Who**\nMostly people who have never done anything like this and are curious or tired.\n\n**Cost**\nNone. A jar in the hall.",
+  "practical": "Friday evening to Sunday noon, monthly. Free; donations welcome. Up to 40 in the dormitory and on cots in the classrooms. Three simple meals. Bring bedding, slippers, and a book. Bus from Kingston stops in the village. Wifi in the office only.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "restful",
+    "tradition": "secular",
+    "experience_level": "newcomer_friendly",
+    "duration": "weekend",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

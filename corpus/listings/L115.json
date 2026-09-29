@@ -1,0 +1,29 @@
+{
+  "id": "L115",
+  "name": "The 30 Day Talking Cure Solo Package",
+  "location": "Vermont",
+  "summary": "Solo 30 day stay, scheduled days, talk-based self practice with recording, restful, no teacher, for advanced practitioners. $6,500.",
+  "description": "OUR 30 DAY SOLO PACKAGE\n\nStay 30 days in our cottage all on your own with our structured daily program of talk based practice!!\n\nEach day follows the SAME schedule for all 30 days, you get the schedule when you arrive: 7am wake, 8am first talking session, 10am walk, 12 lunch, 2pm second talking session, 4pm reading, 6pm dinner, 7:30pm third talking session, 9pm bed. The talking sessions are where you speak out loud into the recording device we give you following the prompts in the workbook. This is a spoken practice, its not a silent retreat at all, you will be talking a LOT, just not to a person. There is no teacher or facilitator, the workbook is your guide and you do it yourself. It is secular there's no religion or spiritual element.\n\nThe days are very restful, walks are short and flat, the cottage is cozy, its not physical at all.\n\nThis package is for advanced practitioners only, if your new to inner work its not for you, the workbook assumes alot.\n\n$6500 all included, meals, cottage, workbook, recorder.",
+  "practical": "30 days, start any monday. $6500 all inclusive. 1 person. Cottage with heating, bath, kitchen, meals delivered. Bring comfy clothes and walking shoes. Nearest bus Brattleboro, we pick up. No wifi, no phone (we ask you leave it at home).",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "restful",
+    "tradition": "secular",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "high"
+  },
+  "kind": "awkward",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

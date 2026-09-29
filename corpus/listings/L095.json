@@ -1,0 +1,29 @@
+{
+  "id": "L095",
+  "name": "Private Yoga Nidra Session with Devi Anjali",
+  "location": "Sedona, Arizona",
+  "summary": "A private two-hour session of guided yoga nidra and silence in a one-person studio, fully led, on a set sequence. For established practitioners. Energy exchange.",
+  "description": "Devi Anjali offers private yoga nidra journeys for advanced practitioners in her sacred studio space.\n\n**The session**\nA fixed two-hour sequence: an opening invocation, forty minutes of guided yoga nidra, twenty minutes of held silence, a second nidra journey, and a closing. Devi guides the entire session by voice; you remain in silence throughout, lying on the mat.\n\n**Physical**\nEntirely restful. You lie down for the whole session.\n\n**Level**\nDevi works only with practitioners who already hold a deep sadhana. Please describe your practice when you inquire.\n\n**Energy exchange**\nDevi does not charge a fee. The session is offered in the spirit of energy exchange. The suggested range is $150 to $400, and Devi finds that those who give at the higher end of the range tend to receive the most from the session. Those who give generously are welcome to return.",
+  "practical": "By appointment. Suggested energy exchange $150 to $400. One person. Studio provides mat, bolster, blanket, eye pillow. Address given on booking. Parking on site.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "yogic",
+    "experience_level": "assumes_practice",
+    "duration": "hours",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "trust_signal",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Pricing is described as an 'energy exchange' with a suggested range and language implying more is better.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

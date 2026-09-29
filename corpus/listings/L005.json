@@ -1,0 +1,29 @@
+{
+  "id": "L005",
+  "name": "Mindfulness Bootcamp Weekend",
+  "location": "Marin Headlands, California",
+  "summary": "A first-timers' weekend of long sits, walking meditation, and daily group discussion with a teacher in the insight tradition. 12 people. Demanding schedule. $1,150.",
+  "description": "**Designed for beginners who want to be pushed.**\n\nMost introductory retreats are gentle. This one is not. In two days you will sit for about ten hours, walk for four, and talk about what happened.\n\n**Schedule**\nAnchor sessions are fixed: sits at 6:00, 9:00, 14:00, 17:00, and 20:00 (each 45 to 60 minutes), walking meditation after each, and a facilitated discussion at 12:00 and 19:00. Between anchors: free time, but we expect you to use it to practice.\n\n**Teacher**\nDev Ranganathan has taught in the insight tradition for twelve years. Instruction is given at every sit and questions are welcome throughout. Both discussion periods are open conversation; this is not a silent retreat.\n\n**Level**\nNo experience needed. Everything is explained. What is needed is willingness to sit still through discomfort and to keep going when tired.\n\n**Why the price**\nTwelve people, one senior teacher, a dedicated centre, all meals, single rooms. We do not run this at scale.",
+  "practical": "Friday 5pm to Sunday 5pm, monthly. $1,150 including single room and all meals. 12 places. Bring comfortable clothing, a shawl, walking shoes. Cushions, benches, and chairs provided. Nearest airport SFO, 45 minutes. Wifi in the lounge.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "newcomer_friendly",
+    "duration": "weekend",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

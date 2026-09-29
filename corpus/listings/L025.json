@@ -1,0 +1,29 @@
+{
+  "id": "L025",
+  "name": "Solo Sits on the Land, Fallow Creek",
+  "location": "Eastern Sierra, California",
+  "summary": "A week for 6 with a nature-awareness teacher, spent mostly alone at a chosen sit spot on 400 acres. Full silence. Days unscheduled. Some experience with solitude helpful. $890.",
+  "description": "Six participants choose a sit spot on the land on the first morning and spend the week there.\n\n**How it works**\nTeacher Rowan Alcott meets the group on Sunday evening, the only time you will be together and the last time anyone speaks. On Monday morning each participant walks out to a place they have chosen and stays there through the days, returning to camp to sleep. There is no schedule. What you do at your spot is yours.\n\n**Teacher**\nRowan walks the land daily and visits each spot briefly, in silence, once a day, leaving a written note with an observation or a question. On Saturday evening the group gathers and speaks for the first time, and Rowan leads a long debrief.\n\n**Silence**\nFull for six days, including at camp.\n\n**Physical**\nModerate. Sit spots are up to an hour's walk from camp over rough ground, and you carry water and food out each day. The elevation is 7,000 feet.\n\n**Fit**\nPeople who have spent time alone outdoors before and have some practice of stillness. Not a first solo.\n\n**Cost**\n$890 including camp, food, and teaching.",
+  "practical": "Sunday evening to Sunday morning, June to September. $890. Six places. Tents at base camp; you bring your own. Food provided and packed each morning. Bring a day pack, water filter, layers for cold nights, sun protection, a journal. Meet in Bishop, CA. No signal.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "moderate",
+    "tradition": "nature_based",
+    "experience_level": "some_experience",
+    "duration": "week",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

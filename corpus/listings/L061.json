@@ -1,0 +1,29 @@
+{
+  "id": "L061",
+  "name": "Ashtanga Weekend Intensive, Northlight Shala",
+  "location": "Edinburgh",
+  "summary": "A weekend of four long led practices for 12 on a fixed timetable, silent until lunch each day, with a teacher assisting rather than instructing. Hard. Some ashtanga experience needed. £220.",
+  "description": "**Friday evening to Sunday afternoon. 12 places. £220.**\n\n**Timetable**\nFri 18.00 led primary (2 hrs). Sat 6.30 led primary, 10.00 pranayama and sitting, 16.00 led intermediate (as far as you go). Sun 6.30 led primary, 10.00 workshop on a section of the series, 13.00 close. All sessions are required.\n\n**Silence**\nFrom arrival each morning until lunch. The Friday and Saturday evenings are social.\n\n**Teacher**\nIain Crawford has taught ashtanga for 18 years. Over the weekend he leads the counts and assists; he does not stop to explain, and the workshop on Sunday is the only teaching in the ordinary sense.\n\n**Level**\nYou should have at least a year of practice and know primary series. Not for beginners.\n\n**Physical**\nDemanding: four full practices in 48 hours.",
+  "practical": "Friday 6pm to Sunday 1pm, four weekends a year. £220. 12 places. No accommodation; the shala is in the city and a list of nearby rooms is sent. Bring your own mat and towel. Tea and fruit provided.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "fixed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "yogic",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

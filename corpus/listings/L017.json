@@ -1,0 +1,29 @@
+{
+  "id": "L017",
+  "name": "Individually Directed Thirty-Day Retreat, Mercy Retreat House",
+  "location": "Rural Iowa",
+  "summary": "Thirty days alone in a guest room on a set daily order, in full silence, with a director each day. Gentle physically. For those with a mature prayer life. $1,900.",
+  "description": "Mercy Retreat House offers the thirty-day directed retreat in the Ignatian manner to individuals, four times a year. Retreatants live in the guest wing, apart from the community and from each other.\n\n**The order of the day**\n6.00 rise. 6.30 first prayer period. Breakfast. 9.00 second period. 11.00 meeting with your director. Dinner. 14.00 third period. 15.30 rest or walk. 17.00 fourth period. Supper. 19.30 fifth period. 21.00 retire. The house keeps this order and asks retreatants to keep it too; the periods are an hour each.\n\n**Direction**\nDaily, thirty minutes, with a trained director. Our four directors are all experienced with the full Exercises.\n\n**Silence**\nComplete. Retreatants do not speak with each other or with the community. Meals are taken alone in the room.\n\n**Physical**\nUndemanding. The grounds are flat, the walks short, the house heated. The retreat asks a great deal of the spirit and little of the body.\n\n**Suitability**\nThe full Exercises are for people with an established life of prayer who have made at least one eight-day directed retreat. Applicants are interviewed by telephone.\n\n**Cost**\n$1,900, all inclusive. Bursaries available.",
+  "practical": "Thirty days, in January, April, July, and October. $1,900 including room, meals, and direction. Single rooms with bath. Three meals, delivered to the room. Bring a Bible, a journal, walking shoes, and warm clothing for the winter dates. Nearest airport Des Moines; pick-up arranged. No phones or internet during the retreat.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "contemplative_christian",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

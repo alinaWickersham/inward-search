@@ -1,0 +1,29 @@
+{
+  "id": "L085",
+  "name": "Lowmoor Field Week (silent mornings)",
+  "location": "Northeast Kingdom, Vermont",
+  "summary": "A week of tent camping with 60 experienced practitioners and a teacher who gives two talks a day. Silent until noon; afternoons and evenings conversational. Not for beginners. $260.",
+  "description": "Lowmoor Field Week is a week of tent camping for about 60 experienced practitioners in a hay meadow in Vermont's Northeast Kingdom, with one teacher and two talks a day. Second and third weeks of July.\n\n**Teacher**\nRos Amsel has practiced in three traditions over thirty years and teaches from none of them in particular. She gives a talk at noon and another at 5pm, an hour each, in the big tent, with Q&A after that often runs long. Those two sessions are the only scheduled events.\n\n**The rest of the day**\nUnscheduled, in two halves. From waking until the noon talk the field is silent: silent breakfast, silent grass, people sitting or walking or sleeping. From noon on, the field talks. Lunch is long and loud. People sit in twos and threes working over what the talk did to them. Unofficial evening discussions run past midnight. Silence again at waking. Most people find the silent mornings are what make the afternoons worth anything. If you want the whole day open for talk, book the Open Talk week; it is the preceding week in the same field.\n\n**Physical**\nEasy. No long sitting, no work periods, flat field. People sleep a lot.\n\n**Level**\nNot for beginners. We do not teach fundamentals and will not slow down for them. Ros's talks assume a settled practice of some years and a working vocabulary, and the conversations in the field move at that pace. If that is not you yet, come to something else first; we can suggest a few.\n\n**Logistics**\nBring your own tent. Three vegetarian meals a day from the kitchen tent. Compost toilets, solar showers, swimming hole a ten-minute walk away.\n\n**Cost**\n$260 for the week, meals included. Some work-trade spots.",
+  "practical": "Saturday to Saturday, third week of July. $260 including meals and the field; bring your own tent. Three vegetarian meals daily, breakfast in silence. Compost toilets, solar showers. Nearest bus is St. Johnsbury, VT; we run a shuttle on Saturdays. Cell service on the ridge road, none in the field.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "assumes_practice",
+    "duration": "week",
+    "cost_band": "low"
+  },
+  "kind": "near_dup",
+  "pair": "pair07",
+  "varies_on": "speech",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

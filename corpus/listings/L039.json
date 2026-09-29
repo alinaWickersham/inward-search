@@ -1,0 +1,29 @@
+{
+  "id": "L039",
+  "name": "Silent Backcountry Weekend, Alpine Contemplative Journeys",
+  "location": "North Cascades, Washington",
+  "summary": "A fully silent, guided but unscheduled weekend in the high country for up to 30. You choose where you go each day; guides are on the trail. Hard terrain. Some backcountry experience needed. $980.",
+  "description": "Thirty people, three guides, one basecamp at 5,500 feet, and two days of silence.\n\n**Format**\nThere is no itinerary. From basecamp four routes go out: to a lake, a pass, a ridge, and a meadow. Each morning you choose one, or none. Guides are stationed along the routes and at camp, in silence, and will intervene only for safety. You may walk with others or alone; nobody organises groups.\n\n**Silence**\nComplete from Friday evening to Sunday noon, including at camp and on the trail. Guides communicate by hand signal.\n\n**Guides**\nThree, all wilderness-certified and long-term practitioners in nature-based traditions. They lead an opening circle on Friday and a closing circle on Sunday, the only two spoken sessions, and are otherwise present but not leading.\n\n**Demand**\nHigh. Routes gain 1,500 to 3,000 feet on rough trail. The camp is cold. You carry your own day kit.\n\n**Level**\nNot a first backcountry trip. You should have done multi-day hiking before and be comfortable with silence.\n\n**Cost**\n$980 including guides, basecamp, and all meals.",
+  "practical": "Friday noon to Sunday 3pm, July to September. $980. Up to 30. Basecamp tents provided; bring your own sleeping bag and pad, boots, layers, rain gear, day pack, headlamp. Meals from the camp kitchen. Meet at the trailhead near Marblemount, WA; 4-mile walk in. No signal.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

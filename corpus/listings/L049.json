@@ -1,0 +1,29 @@
+{
+  "id": "L049",
+  "name": "Open Silent Weekend, New Prairie Abbey Guesthouse",
+  "location": "Iowa prairie",
+  "summary": "A free silent weekend for up to 50 at a monastery guesthouse. No programme; the Office is open to attend, a monk is available on request. Beginners welcome. Donation.",
+  "description": "The guesthouse opens for a silent weekend once a month.\n\n**What is provided**\nA room, meals, the grounds, the church, and silence. The community's Office is sung seven times a day and guests may attend any of it or none. There is no programme and no retreat conferences.\n\n**Guidance**\nA monk is on duty in the guesthouse office each afternoon from 2 to 4; guests may knock. Otherwise guests are left alone.\n\n**Silence**\nThe guesthouse and grounds are silent from Friday supper to Sunday lunch, including at meals.\n\n**Physical**\nModerate. The grounds are large and the prairie trails long, and the church is a ten-minute walk.\n\n**Who**\nAnyone. Many guests have never been to a monastery and do not belong to any church.\n\n**Cost**\nNone. A donation box is in the hall.",
+  "practical": "Friday 4pm to Sunday 1pm, one weekend a month. Free; donations welcome. Up to 50 in single rooms. Three meals in the guest refectory. Bring walking shoes and warm clothes; the church is cold. Nearest airport Des Moines; Amtrak to Osceola, then a taxi. No wifi for guests.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "contemplative_christian",
+    "experience_level": "newcomer_friendly",
+    "duration": "weekend",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

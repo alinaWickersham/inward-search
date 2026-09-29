@@ -1,0 +1,29 @@
+{
+  "id": "L007",
+  "name": "Solo Weekend at the Quiet Room, Kings Mill",
+  "location": "Mid-Wales",
+  "summary": "One guest, one room over a converted mill, a set daily order of sits, walks, and reading, silent until 4pm. No teacher. First-timers welcome. £95.",
+  "description": "The Quiet Room is a single bedsit above a former woollen mill, let to one person at a time for a weekend of quiet.\n\n**A set day**\nWe give you a card. 7.00 sit (20 minutes; a timer is provided). 7.30 breakfast, left outside the door. 8.30 to 11.00 walk (three routes marked on the map, 3 to 6 miles). 11.30 sit. 12.30 lunch. 13.30 to 16.00 reading or rest; the room has a shelf of contemplative writing from several traditions. 16.00 tea, and silence ends. 17.00 sit. 18.30 supper. 20.00 sit. Bed.\n\n**Silence**\nKept until 4pm each day. After that you may come down to the mill kitchen, where one of us is usually about, or stay up.\n\n**Guidance**\nNone. The card is the guidance. We are not teachers and there is no tradition here; the bookshelf is deliberately mixed.\n\n**For whom**\nPeople who have never done this and want to try it without a group or a teacher watching. The set order takes the deciding out of it. Also people who have done a lot of this and want a plain weekend.\n\n**Physical**\nThe walks are real hills, moderate rather than hard. All optional but on the card.",
+  "practical": "Friday 6pm to Sunday 2pm, most weekends. £95 including all meals. One guest. Room with bed, desk, chair, kettle, shared bathroom downstairs. Bring boots and waterproofs. Nearest station Machynlleth, 8 miles; we collect. Mobile signal patchy; wifi in the mill.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "moderate",
+    "tradition": "eclectic",
+    "experience_level": "newcomer_friendly",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

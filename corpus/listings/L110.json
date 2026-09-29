@@ -1,0 +1,29 @@
+{
+  "id": "L110",
+  "name": "Vision Fast Week, Open Sky Rites",
+  "location": "Great Basin, Nevada",
+  "summary": "A week for 8: two days of preparation as a group, a four-day solo in the desert with water only, and a day of return council. Peer-supported; no guide during the solo. Some outdoor experience needed. $650.",
+  "description": "**Days 1 to 2:** basecamp. The group prepares together; talking, walking, fasting begins on the evening of day 2.\n**Days 3 to 6:** the solo. Each participant walks out alone to a chosen spot and stays four days and nights with water and no food. A buddy system (a stone left at a marker each morning) confirms you are alive; nobody visits. Silence is kept for the solo.\n**Day 7:** return, food, and a long council in which each person tells their story.\n\n**Guidance**\nTwo of us run the preparation and the council. During the solo you are alone and unsupervised.\n\n**Demand**\nFour days without food in desert conditions, alone, is severe. Heat, cold nights, and the effects of fasting on judgment are real. Participants with diabetes, eating disorders, or heart conditions cannot take part; the form asks.\n\n**Level**\nSome experience of solo time outdoors and of fasting for at least a day is expected.\n\n**Cost**\n$650.",
+  "practical": "Seven days, April, May, September, October. $650. 8 places. Bring all camping gear for desert conditions, 2 gallons of water capacity, no food for the solo. Medical form required. Meet in Ely, NV. No signal.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "some_experience",
+    "duration": "week",
+    "cost_band": "mid"
+  },
+  "kind": "contraindication",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Wilderness solo of four days with minimal food.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

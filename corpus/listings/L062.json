@@ -1,0 +1,29 @@
+{
+  "id": "L062",
+  "name": "Individual Silent Week, Northern Lights Foundation",
+  "location": "Lake District, Cumbria",
+  "summary": "A free silent week alone in a cottage on a foundation's grounds, with a secular teacher who sits with you each morning and evening and is otherwise available by note. Gentle. Some prior practice helpful.",
+  "description": "The foundation offers individual silent weeks at no charge to people who would benefit from one.\n\n**Shape**\nThe teacher comes to the cottage at 7.00 and 18.00 and sits with you for 45 minutes; that is the only fixed structure. Between, you are alone: the cottage, the fell path, the lake shore. Meals are left at the door.\n\n**Silence**\nComplete, including during the shared sits.\n\n**Teacher**\nA member of the foundation's staff, trained in secular mindfulness, assigned for the week. Notes may be left in the porch box and are answered daily. If a conversation is needed, the teacher will come.\n\n**Physical**\nRestful. The cottage is warm and the paths are gentle.\n\n**Level**\nFor people who have sat for a while and would benefit from a week without cost. We ask applicants to write briefly about their practice and circumstances.\n\n**Cost**\nNone.",
+  "practical": "Sunday to Sunday, most weeks. Free; apply in writing. One person. Cottage with stove, bath, kitchen. Three meals delivered. Bring warm clothes and boots. Nearest station Windermere; the foundation collects. No phone or internet.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "semi_structured",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "secular",
+    "experience_level": "some_experience",
+    "duration": "week",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

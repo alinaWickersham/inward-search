@@ -1,0 +1,29 @@
+{
+  "id": "L053",
+  "name": "Practitioners' Forum, Monthly Daylong",
+  "location": "Seattle, Washington",
+  "summary": "A free monthly day for up to 80 long-term secular practitioners: a fixed programme of two sits, a teacher's talk, and three facilitated discussion blocks. Some walking. Advanced.",
+  "description": "The Forum is a day for people who have practised secular mindfulness or a related discipline for years and want to talk about it seriously with peers and a teacher.\n\n**Programme**\n9:00 sit (30). 9:45 talk by the visiting teacher (45). 10:30 discussion block 1 (small groups, 60). 11:45 walking practice outdoors (45). 12:30 lunch. 13:30 discussion block 2 (whole room with the teacher, 75). 15:00 sit (30). 15:45 discussion block 3 (small groups, 60). 16:45 close. The programme is fixed and we start on time.\n\n**Teacher**\nA different visiting teacher each month, all with long secular teaching experience.\n\n**Talk**\nMost of the day is conversation. The two sits are the only silence.\n\n**Level**\nAdvanced. The discussions assume a practice of some years and are not an introduction to anything.\n\n**Physical**\nModerate: a 45-minute walk and a long day on chairs.\n\n**Cost**\nNone; the hall is donated and lunch is potluck.",
+  "practical": "Third Saturday monthly, 9am to 5pm. Free. Up to 80. Bring a potluck dish, walking shoes, and a notebook. Community hall on the light rail line. Chairs provided; bring a cushion if you prefer.",
+  "dimensions": {
+    "social": "community",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "moderate",
+    "tradition": "secular",
+    "experience_level": "assumes_practice",
+    "duration": "hours",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

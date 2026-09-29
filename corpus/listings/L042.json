@@ -1,0 +1,29 @@
+{
+  "id": "L042",
+  "name": "Private Yoga Immersion, Casa Amanecer",
+  "location": "Baja California Sur, Mexico",
+  "summary": "Three weeks alone at a private villa with a resident yoga teacher, daily private instruction, silent mornings, and no other schedule. Gentle. Beginners welcome. $9,500.",
+  "description": "Casa Amanecer takes one guest at a time for three weeks with a resident teacher.\n\n**Days**\nSilent until noon, by the house's custom. Your teacher meets you on the terrace each morning at a time you agree for a private session (90 minutes: asana, pranayama, and sitting, at your level). The rest of the day has no plan: the pool, the beach, the library, rest. In the afternoons and evenings the teacher is available for conversation, a second session, or nothing.\n\n**Teacher**\nOur resident teachers are certified at 500 hours with at least ten years of teaching. You will have one teacher for the three weeks.\n\n**Physical**\nGentle. The programme is built to your body, and most guests come to rest.\n\n**Level**\nBeginners are the majority of our guests. Nothing is assumed.\n\n**Cost**\n$9,500 for three weeks, including the villa, a chef, daily instruction, and airport transfers.",
+  "practical": "Three weeks, any start date October to May. $9,500. One guest. Private villa with pool, staff, chef. Bring light clothing and a hat; mats and props provided. Nearest airport La Paz; transfer included. Wifi throughout.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "yogic",
+    "experience_level": "newcomer_friendly",
+    "duration": "extended",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "L086",
+  "name": "Stillmark Mindfulness: Introductory Silent Weekend",
+  "location": "Blue Ridge foothills, North Carolina",
+  "summary": "First silent weekend for up to 40, secular, teacher-led. Short guided sits on chairs, unscheduled rest between. Nothing strenuous. $95 plus lodging.",
+  "description": "**Introductory Silent Weekend**\nStillmark Mindfulness\n\nA first silent retreat for up to 40 participants, held four times a year at a rented retreat lodge in the Blue Ridge foothills. Secular; no religious framing or vocabulary.\n\n**Led by**\nSam Delacroix, MA, has taught mindfulness in secular settings for fifteen years, including in hospitals and schools.\n\n**Schedule**\n- Friday 7pm: Opening session. Everything is explained before silence begins.\n- Saturday and Sunday, 9am and 4pm: Guided sits (25 minutes, chairs, fully guided).\n- Sunday 4pm: Closing session. Silence ends and participants speak for the first time.\n\nBetween sessions, time is unscheduled: sit in the hall, sit outside, rest in your room. Sleeping is a legitimate use of the free time and most people need it.\n\n**Silence**\nComplete from Friday evening to Sunday afternoon, including at meals and in shared spaces. Participants receive a card to show staff and other guests at the lodge.\n\n**Physical demands**\nMinimal. The hall is heated, the chairs have backs, there is no walking beyond the grounds, and nothing in the weekend will tire you physically. Participants looking for a more active format should book the Walking Edition.\n\n**Is this for me?**\nYes if you have never done a silent retreat. Most participants each weekend are first-timers. No prior meditation experience required.\n\n**Cost**\n$95, including Saturday and Sunday lunch. Accommodation booked separately at the lodge or nearby; we send a list.",
+  "practical": "Friday 7pm to Sunday 4pm, four weekends a year. $95 including two lunches; lodging separate. Chairs and some cushions provided. Bring a blanket and a thermos. Nearest airport Asheville; the lodge is 45 minutes by car, no public transit. Level access throughout.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "secular",
+    "experience_level": "newcomer_friendly",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "near_dup",
+  "pair": "pair08",
+  "varies_on": "physical_demand",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "L081",
+  "name": "Tidewrack Guiding: Coast Council Weekend (open)",
+  "location": "Outer coast, Olympic Peninsula, Washington",
+  "summary": "Two nights at a beach camp with 8 participants and 2 guides. Four council sessions, unscheduled days of cold water and trail. No experience needed. $780.",
+  "description": "Tidewrack Guiding runs council weekends from a beach camp on the outer coast of the Olympic Peninsula, May through September. Eight participants, two guides.\n\n**What's included**\n- Two nights at the beach camp (platform tents, shared)\n- All meals\n- Four facilitated council sessions\n- Guides on site throughout\n\n**The format**\nCouncil is a listening practice: one person speaks at a time, the group listens, a talking piece passes around the circle. We hold council Friday night and Saturday night at the fire, and briefly each morning at the tide line. Those four sessions are the structure and we run them to time.\n\nThe daytime is unscheduled. The headland trail is 3 hours, the cape trail is 5, and the Pacific in June is about 52°F. Most people swim. Some hike all day. Some sleep in the dunes. Guides are at camp but do not organize the day or check on participants.\n\n**Difficulty**\nPhysically and emotionally demanding. Cold water, rough ground, coastal wind, and honest speech in a circle add up, and most people are tired on Sunday in a way they did not expect.\n\n**Experience level**\nOpen weekends are for people who have never done this. Most participants each weekend are first-timers. On Friday night, before the first council, the guides explain the form: what council is, how the talking piece works, how to listen, and that nobody is required to speak. Experienced participants are welcome but should expect a slower first evening; the Returners weekend moves faster.",
+  "practical": "Friday 5pm to Sunday 3pm, twice monthly May to September. $780 including camp, meals, and guides. Platform tents, shared; bring sleeping bag and pad. Bring swimsuit, towel, hiking boots, full rain gear, headlamp. Meet in Forks, WA; shuttle to the trailhead, then 40-minute walk in. No cell service.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "newcomer_friendly",
+    "duration": "weekend",
+    "cost_band": "high"
+  },
+  "kind": "near_dup",
+  "pair": "pair05",
+  "varies_on": "experience_level",
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-09"
+  },
+  "synthetic": true
+}

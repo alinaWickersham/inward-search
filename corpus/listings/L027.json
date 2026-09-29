@@ -1,0 +1,29 @@
+{
+  "id": "L027",
+  "name": "Guest Week at Waldon Community",
+  "location": "Pennsylvania farmland",
+  "summary": "A week living with a small Anabaptist-rooted community of 14, keeping their daily order of prayer, work, and shared meals. Conversation throughout. No experience needed. No charge.",
+  "description": "Waldon is a household of fourteen adults and their children who share work, meals, and a rhythm of prayer. We receive up to six guests at a time for a week.\n\n**The order**\n7.00 morning prayer (20 minutes, sung and spoken). Breakfast together. Work until noon: garden, kitchen, workshop, childcare. Midday prayer and lunch. Rest until 15.00. Work until 17.30. Evening prayer. Supper. Evenings are for talk, music, or reading in the common room. Guests keep the order with us.\n\n**Conversation**\nWe are not a silent community and we talk a great deal, at meals, at work, and in the evenings. Guests who want quiet will find it in their rooms and on the walks, but the life is shared and spoken.\n\n**Guidance**\nNo programme of teaching. Two of the older members are available to guests who want to talk about prayer, faith, or the life here; ask at the beginning of the week.\n\n**Physical**\nModerate. Real farm and house work, about five hours a day.\n\n**Who**\nAnyone curious about a shared contemplative life. Most guests have not done anything like this. Christian faith is not required.\n\n**Cost**\nNone. Guests work alongside us.",
+  "practical": "Sunday afternoon to Saturday morning. No charge. Up to six guests in the guest house. Meals with the community. Bring work clothes and boots. Level access to the common house; the guest house has stairs. Nearest town Lancaster; we collect from the bus.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "contemplative_christian",
+    "experience_level": "newcomer_friendly",
+    "duration": "week",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

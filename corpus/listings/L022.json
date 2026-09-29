@@ -1,0 +1,29 @@
+{
+  "id": "L022",
+  "name": "Slow Week at the Old Sanatorium",
+  "location": "Adirondack foothills, New York",
+  "summary": "A free week for up to 70 people at a former sanatorium run by a secular foundation. Two optional daily sits, silent mornings, and nothing else asked. Made for the exhausted. Beginners.",
+  "description": "The foundation runs the Slow Week twelve times a year, at no charge, for people who need a week of not doing anything.\n\n**What happens**\nVery little. A sit at 7:30 and at 17:30, each 30 minutes, guided by a member of staff, both optional. Mornings are silent throughout the building and grounds until noon. Meals at fixed times. That is the whole structure.\n\n**Staff**\nThree staff live in during each week. They are trained in secular mindfulness and are available for a conversation any afternoon; there is a sign-up sheet. They do not teach unless asked.\n\n**Physical**\nNothing. The grounds are level, the porches are long, and sleeping is encouraged. Many guests sleep twelve hours a night for the first three days.\n\n**For whom**\nAnyone, and especially people who have never done anything contemplative and would not call this that. About 70 guests a week.\n\n**Cost**\nNone. The foundation was endowed for this purpose.",
+  "practical": "Saturday to Saturday, monthly. Free. Up to 70 in shared rooms (two to four beds). Three simple meals. Bring slippers, warm clothing, a book. Level access throughout. Nearest bus Saranac Lake; the foundation van meets the afternoon bus. Wifi in the office only; guests are asked to leave phones in their rooms.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "secular",
+    "experience_level": "newcomer_friendly",
+    "duration": "week",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

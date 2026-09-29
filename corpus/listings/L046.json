@@ -1,0 +1,29 @@
+{
+  "id": "L046",
+  "name": "Open Afternoon at the Sit Spot Collective",
+  "location": "Asheville, North Carolina",
+  "summary": "A free Saturday afternoon on a member's land for up to 12 newcomers: find a spot, sit, wander, and talk with two experienced members about what you noticed. No structure. Free.",
+  "description": "On the first Saturday of the month we open a member's 40 acres to anyone who wants to try sit-spot practice.\n\n**How it goes**\nShow up between 1 and 2. Two of us will show you the land and describe the practice in five minutes: find a place, stay there, notice. Then you go. Come back when you like. We are on the porch all afternoon and people drift back to talk about what they saw, or to ask, or to go out again. Done by 6.\n\n**Talk**\nPlenty. The porch is where people compare notes and it gets lively. Nobody is silent unless they are out on the land.\n\n**Guidance**\nLight. Two long-time practitioners are around to answer questions and suggest things, not to run a session.\n\n**Physical**\nModerate. The land is steep in places and the creek is a scramble.\n\n**Who**\nFirst-timers, mostly. Regulars come too.\n\n**Cost**\nNone.",
+  "practical": "First Saturday monthly, 1 to 6pm, drop in. Free. Up to 12. Bring boots, water, insect repellent, something to sit on. Directions sent on request. Parking at the barn.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "dialogue",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "nature_based",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

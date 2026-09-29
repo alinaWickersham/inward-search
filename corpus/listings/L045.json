@@ -1,0 +1,29 @@
+{
+  "id": "L045",
+  "name": "Contemplative Co-working Month, The Attic",
+  "location": "Brooklyn, New York",
+  "summary": "Four weeks of shared practice and shared work for 8 experienced secular practitioners: two daily group sits, a weekly discussion, and otherwise your own life. No teacher. $1,400.",
+  "description": "The Attic is a large loft that eight people share for a month, combining a daily sitting practice with ordinary work.\n\n**Fixed points**\nGroup sit at 7:00 and 18:00 (30 minutes each). A discussion on Sunday evenings, facilitated in rotation. Shared dinner on Wednesdays. That is the whole structure.\n\n**The rest**\nYou work, from the loft or elsewhere. You practise as you practise. The point is to hold a sustained shared practice inside a normal working month, not to leave the world.\n\n**No teacher**\nBy design. Residents are people who have practised for years and want company, not instruction.\n\n**Talk**\nThe loft is not silent; it is a working space. The Sunday discussions are open and long.\n\n**Physical**\nModerate: a fourth-floor walk-up and a city.\n\n**Cost**\n$1,400 for the month, including a desk and a bed.",
+  "practical": "Four weeks, starting the first Monday of each month. $1,400. 8 residents in shared bedrooms (two per room) with a desk each. Kitchen shared. No meals provided except Wednesday dinner. Subway two blocks. Fourth floor, no lift.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "moderate",
+    "tradition": "secular",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

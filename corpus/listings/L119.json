@@ -1,0 +1,29 @@
+{
+  "id": "L119",
+  "name": "Yoga Community Weekend Gathering",
+  "location": "Hill Country, Texas",
+  "summary": "Weekend gathering for up to 70 yoga people, a few group practices, lots of free time and talking, no teacher, moderate. $240.",
+  "description": "Come join us for our Yoga Community Weekend Gathering, an amazing weekend of yoga, community and connection in the beautiful Hill Country!!!\n\nThe gathering is for anyone who has a yoga practice and wants to spend a weekend with other yoga people. There is no teacher, its a community gathering not a workshop, we practice together in the morning (group practice at 7am, everyone leads a bit, self led) and again at 5pm, and the rest of the time is free, hang out, swim, talk, share, its a very social weekend, lots of talking and connecting, thats really the point of it, connection.\n\nIts a moderate weekend physically, the group practices are about 90 mins and there's hiking if you want but nothing crazy.\n\nYou should have a practice already (some experience) because the group practices are self led and we dont teach, but you dont have to be advanced at all.\n\nUp to 70 people, camping and bunkhouse. $240 includes food and camping.\n\nCant wait to see you all there!!!",
+  "practical": "Friday to Sunday, spring and fall. $240 including meals and camping/bunkhouse. Up to 70. Bring your mat, tent or bedding, swimsuit, hiking shoes. Between Austin and San Antonio, directions after booking. Wifi at the lodge.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "moderate",
+    "tradition": "yogic",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "mid"
+  },
+  "kind": "awkward",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "L056",
+  "name": "Weekend at the Watch Hut",
+  "location": "Dartmoor, Devon",
+  "summary": "A stone hut on the moor for one experienced practitioner, with a fixed order of dawn and dusk sits and a midday walk, silent until evening. The keeper visits once a day. Free.",
+  "description": "The Watch Hut is kept by a small trust for practitioners in the nature-based traditions who want a weekend on the moor.\n\n**The order**\nThe hut has a card and a bell. Dawn sit, an hour, at the east window or outside. Midday walk to the tor and back (two miles, gentle). Dusk sit. Between, rest. The order is kept; it is what the hut is for.\n\n**Silence**\nUntil dusk. After the dusk sit the keeper walks up from the farm with supper and stays for a conversation if you want one.\n\n**Guidance**\nThe keeper's visit is the only guidance and it is light. The trust does not teach.\n\n**Physical**\nRestful. The hut is warm and the walk is short.\n\n**Level**\nFor people with a settled practice in a nature-based or similar tradition. The trust asks for a short letter before booking.\n\n**Cost**\nNone.",
+  "practical": "Friday evening to Sunday afternoon, most weekends. Free. One person. Hut with stove, bed, chair, bell, outhouse. Breakfast and lunch in the hut; supper brought. Bring boots, waterproofs, warm layers. Nearest station Okehampton; the keeper collects. No signal.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "nature_based",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "L064",
+  "name": "Private Studio Day: The Sequence",
+  "location": "Los Angeles, California",
+  "summary": "A six-hour solo day in a private studio following a fixed timed sequence of hard movement, breathwork, and spoken practices recorded to a prompt. No one present. Advanced. $600.",
+  "description": "The Sequence is a printed six-hour programme for one person in a locked studio.\n\n**The programme**\nTimed to the minute, on a card and a wall clock. Blocks of vigorous movement (40 min), breathwork (20), and spoken practice: you speak aloud, to a recorder, in response to a written prompt, for 15 minutes at a time. Six cycles. A closing sit. You take the recordings with you.\n\n**Talk**\nRoughly a third of the day is you speaking. It is not silent and it is not meant to be.\n\n**Guidance**\nNone during the day. The studio manager lets you in, shows you the card, and leaves. There is no facilitator and no debrief.\n\n**Level**\nAdvanced. The Sequence assumes years of movement practice and an existing spoken or journaling practice. It is not explained.\n\n**Physical**\nHard: four hours of vigorous movement in six.\n\n**Cost**\n$600 for the studio and the card.",
+  "practical": "Any day, 8am to 2pm or 2pm to 8pm; book online. $600. One person. Private studio with mats, sprung floor, recorder, shower. Bring movement clothing and water. Downtown; parking in the building.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "eclectic",
+    "experience_level": "assumes_practice",
+    "duration": "hours",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

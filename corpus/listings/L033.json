@@ -1,0 +1,29 @@
+{
+  "id": "L033",
+  "name": "Solstice Walk and Council, Ridgeline Guides",
+  "location": "Marin County, California",
+  "summary": "A guided six-hour day for up to 40: a fixed programme of walking, sensory practice, and a large spoken council on the ridge. Some familiarity with council helpful. $120.",
+  "description": "Twice a year, at the solstices, Ridgeline runs a daylong on the coast ridge.\n\n**Programme**\n8:00 meet at the trailhead; opening circle. 8:30 to 11:00 walk to the ridge with three stops for guided sensory practices. 11:00 to 13:00 council at the ridge: forty people, one talking piece, two guides holding. Lunch. 13:30 to 15:30 walk out, in pairs, with a question. 15:30 closing circle. Times are kept and the programme does not vary.\n\n**Guides**\nTwo, both trained in council practice and nature-based work, leading throughout.\n\n**Talk**\nThe council is the centre of the day and it is entirely spoken. The pair walk is spoken. Only the sensory stops are quiet.\n\n**Physical**\nModerate. About 8 miles with 1,200 feet of climb.\n\n**Level**\nBest for people who have sat in a council or a sharing circle before; we do not explain the form at length.\n\n**Cost**\n$120.",
+  "practical": "Summer and winter solstice weekends, 8am to 4pm. $120. 40 places. Bring lunch, water, layers, sun protection, and boots. Trailhead has parking; carpool board online. Signal on the ridge.",
+  "dimensions": {
+    "social": "community",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "moderate",
+    "tradition": "nature_based",
+    "experience_level": "some_experience",
+    "duration": "hours",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

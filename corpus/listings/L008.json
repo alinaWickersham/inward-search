@@ -1,0 +1,29 @@
+{
+  "id": "L008",
+  "name": "Guest Month at St. Columba's Skete",
+  "location": "Coastal Maine island",
+  "summary": "Up to four guests join a small monastic community for a month, keeping the full Office and work schedule. Silent except at recreation. Physically hard. For those with a mature practice. No charge.",
+  "description": "The skete receives up to four guests at a time for periods of one month, to live the community's rule alongside the monks.\n\n**The rule**\nVigils 3.30. Lauds 6.00. Work 7.30 to 12.00. Sext and dinner. Work 14.00 to 17.00. Vespers 18.00. Compline 20.00. Guests keep the whole horarium. There is no option to omit Vigils.\n\n**Work**\nFishing, wood, the garden, and the boat. The island has no mainland services and everything is done by hand. Guests should be fit.\n\n**Silence**\nThe Great Silence from Compline to after Lauds; working silence through the day. Recreation after dinner (30 minutes) and on Sunday afternoons is the time for speech.\n\n**Spiritual direction**\nNone is provided. Guests are expected to bring an established life of prayer, and the schedule is the formation. Guests may ask to speak with the prior, and he will generally agree once in the month.\n\n**Suitability**\nFor men and women with a mature contemplative practice, Christian or otherwise, who can sustain a monastic horarium for a month. A previous retreat of at least a week in a monastic setting is expected. We correspond by letter before agreeing.\n\n**Cost**\nNone. Guests work.",
+  "practical": "One month, arriving on the first Monday. No charge. Four guest cells, unheated except by stove. Monastic diet: two meals, fish and vegetables, no meat. Bring work clothes, sea boots, warm layers, and an oilskin. Boat from the mainland twice a week, weather permitting. No telephone or internet for guests.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "fixed",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "contemplative_christian",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}
