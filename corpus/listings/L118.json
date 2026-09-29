@@ -1,0 +1,29 @@
+{
+  "id": "L118",
+  "name": "Free Long Silent Retreat For Everyone (3 Weeks)",
+  "location": "Southern Colorado",
+  "summary": "Free 3 week silent retreat at a Buddhist center for up to 80 people, no schedule, long sitting encouraged, beginners welcome, teachers around.",
+  "description": "FREE 3 WEEK SILENT RETREAT - ALL WELCOME - NO EXPERIENCE NECESSARY\n\nOur center offers a completely free 3 week silent retreat 2 times a year for anyone who wants to come. Up to 80 people. Its totally silent for the 3 weeks, nobody talks, the whole place is silent, including meals.\n\nThere is no schedule, this is important to understand, we dont have a timetable of sits, you decide when you sit and when you walk and when you rest. The meditation hall is open 24 hours. However we do encourage everyone to sit a lot, its a retreat after all, most people sit 6-10 hours a day and its physicaly demanding to do that for 3 weeks, expect to be sore, especialy if your new.\n\nBeginners are welcome!! You dont need experience. There are teachers (Buddhist) living at the center and they are around the halls and grounds, if you need help or instruction you can go up to them and they will help you, they give a short instruction to new people on the first evening, after that its up to you to approach them, they wont come to you.\n\nIts free. Donations are accepted at the end if you want but its not required.\n\nPlease come!!",
+  "practical": "3 weeks, spring and fall. Free. Up to 80, dormitories. 2 meals a day, vegetarian. Bring bedding, warm cloths (its cold at night), cushion. Nearest airport Colorado Springs, bus to Alamosa, we pick up. Phones held at the office.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "newcomer_friendly",
+    "duration": "extended",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "awkward",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

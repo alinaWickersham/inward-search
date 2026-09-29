@@ -1,0 +1,29 @@
+{
+  "id": "L104",
+  "name": "Fourteen-Day Reset Programme, Palmetto Institute",
+  "location": "Central Florida",
+  "summary": "Two weeks for up to 40 with a secular programme of morning sessions, afternoon group work, and a supervised three-day water fast in the second week. Hard. Some prior practice. $950.",
+  "description": "The Reset Programme combines secular mindfulness, group process, and a supervised fast over fourteen days.\n\n**Structure**\nMorning session at 8 (sit and instruction). Group process at 2. Both are led and attendance is expected. Afternoons and evenings are otherwise unscheduled and conversational.\n\n**The fast**\nDays 9 to 11 are a water-only fast for all participants, supervised by our nurse, who takes vitals twice daily. Days 8 and 12 are reduced intake. Participants with diabetes, a history of disordered eating, or on certain medications are excluded; the medical form asks. The fast is demanding and most participants find days 10 and 11 difficult.\n\n**Teachers**\nTwo secular mindfulness teachers and one facilitator trained in group process.\n\n**Level**\nSome experience of sitting practice is expected. The group process assumes willingness to speak.\n\n**Cost**\n$950 including shared room and meals (where meals apply).",
+  "practical": "Fourteen days, six times a year. $950. Up to 40 in shared rooms. Medical questionnaire required; nurse on site. Bring light clothing, walking shoes, a journal. Nearest airport Orlando; shuttle arranged. Wifi in the lobby.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "secular",
+    "experience_level": "some_experience",
+    "duration": "extended",
+    "cost_band": "low"
+  },
+  "kind": "contraindication",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Includes a supervised three-day water fast.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

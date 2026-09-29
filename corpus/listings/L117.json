@@ -1,0 +1,29 @@
+{
+  "id": "L117",
+  "name": "Yogi Hut Long Stay",
+  "location": "Big Island, Hawaii",
+  "summary": "Long stay hut for the serious yogi, self directed, quiet mornings, teacher nearby if you want, intense self practice expected. $1,100/month.",
+  "description": "The Yogi Hut is a simple hut on our land for the serious yogi who wants a long stay of intense self practice with no program.\n\nYou practice on your own, there is no schedule and no classes, you do your own sadhana at your own times, we expect you to be practicing hard, many hours a day, thats what the hut is for, its not for a vacation. Mornings on the land are quiet (no talking until lunch), after lunch you can talk with us or other people on the land if you want to.\n\nOur teacher lives on the land and is available if you want guidance, you can ask her questions when you see her around or leave a note, she doesnt come and check on you or give lessons, its up to you to ask.\n\nIts for advanced yogis with years of practice, we ask about your practice before we say yes. Physicaly its intense because of the amount of practice and the heat and the land is steep.\n\n$1100 per month, minimum one month, you cook for yourself in the hut kitchen.",
+  "practical": "Minimum 1 month. $1100/month. 1 person. Hut with kitchen, outdoor shower, composting toilet, practice deck. Bring your own mat and props, light clothing, rain jacket. Nearest airport Hilo. Wifi at the main house only.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "yogic",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "mid"
+  },
+  "kind": "awkward",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

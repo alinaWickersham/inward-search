@@ -1,0 +1,29 @@
+{
+  "id": "L108",
+  "name": "Twelve-Hour Sit on the Bluff, with Teacher Q&A",
+  "location": "Lake Superior shore, Michigan",
+  "summary": "A single day of twelve hours of seated practice outdoors for up to 40 advanced practitioners, with a teacher present and two spoken question periods. $260.",
+  "description": "One long day of sitting on the bluff, from 6am to 6pm, with a teacher.\n\n**Structure**\nSits of 60 minutes with 10-minute standing breaks, from 6 to 12. A spoken question period with the teacher at noon (45 min) while eating. Sits from 1 to 6. A second question period at 6. That is twelve hours of seated practice outdoors, whatever the weather. Within the sits, posture and rest are your own affair; the breaks are the only structure.\n\n**Teacher**\nIngrid Halvorsen, 30 years in nature-based and Zen practice, sits with the group and answers questions at the two periods.\n\n**Demand**\nTwelve hours seated is hard on the knees, the back, and the mind. Cold wind off the lake, rain, and sun are all possible in a day.\n\n**Level**\nAdvanced. Participants should be used to full-day sitting.\n\n**Cost**\n$260, including the teacher and lunch.",
+  "practical": "One Saturday in June and one in September, 6am to 7pm. $260. Up to 40. Bring a cushion or stool, full weather gear, sun protection, water. Meet at the bluff car park near Munising, MI. Signal on the bluff.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "assumes_practice",
+    "duration": "hours",
+    "cost_band": "high"
+  },
+  "kind": "contraindication",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Twelve hours of seated practice daily.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

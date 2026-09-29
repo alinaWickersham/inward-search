@@ -1,0 +1,29 @@
+{
+  "id": "L103",
+  "name": "Silent Week at Cross Timbers Centre",
+  "location": "North Texas",
+  "summary": "A silent week for up to 50 with two teachers from different traditions, who lead morning and evening sits and are available all day; no other schedule. Moderate. Some experience needed. $380, itemised; scholarships available.",
+  "description": "Cross Timbers holds four silent weeks a year, each led by two teachers from different contemplative traditions.\n\n**Format**\nTeachers lead a sit at 6:30 and 18:30 and give a short talk after the evening sit. The rest of the day is unscheduled. Teachers are on the grounds all day and can be approached in silence with a note, or by sitting down next to them.\n\n**Silence**\nComplete for the week.\n\n**Physical**\nModerate. Prairie trails, heat in summer, an hour of work most days.\n\n**Level**\nSome retreat experience is helpful; the week does not teach the basics.\n\n**Fees**\nRoom (shared, six nights): $180. Meals (18): $120. Teaching and grounds: $80. Total: $380.\n\n**Scholarships**\nAbout a quarter of places each week are funded. To apply, write to Teresa Okonkwo, scholarship administrator, at the centre's address, with a short note about your circumstances. Teresa replies within two weeks. Scholarship participants are not identified to others and receive the same accommodation.",
+  "practical": "Saturday to Saturday, four weeks a year. $380 itemised as above; scholarships via Teresa Okonkwo. Up to 50 in shared rooms. Three meals. Bring walking shoes, sun protection, a cushion. Nearest airport Dallas–Fort Worth; centre van from the Denton bus station. Phones off; wifi in the office.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "moderate",
+    "tradition": "eclectic",
+    "experience_level": "some_experience",
+    "duration": "week",
+    "cost_band": "low"
+  },
+  "kind": "trust_signal",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Fees itemised; scholarship process described with named administrator.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

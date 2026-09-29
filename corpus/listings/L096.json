@@ -1,0 +1,29 @@
+{
+  "id": "L096",
+  "name": "Sanctuary Immersion, 28 Days",
+  "location": "Ojai Valley, California",
+  "summary": "Four weeks alone in a private casita with a resident teacher who works with you daily; unscheduled days, silent mornings, restful. Phones held for the duration. Some yoga experience helpful. $11,000.",
+  "description": "The Sanctuary Immersion is a 28-day private residency for one guest with a resident teacher.\n\n**Days**\nSilent until noon. Your teacher comes to the casita each day for a session (asana, pranayama, meditation, conversation) at a time you set together. There is no other schedule. Afternoons and evenings are yours.\n\n**Teacher**\nOur resident teachers each have over 15 years of experience. You will work with one teacher throughout.\n\n**Physical**\nGentle. Everything is adapted to you.\n\n**Disconnection**\nOn arrival you will hand your phone, laptop, and any other devices to the office, where they are kept for the 28 days. We ask that you do not arrange calls or visits with family or friends during the immersion. Guests who maintain outside contact consistently get less from the process, and we ask that you trust the container. The office will pass on a message in a genuine emergency.\n\n**Level**\nSome prior yoga or meditation is helpful.\n\n**Cost**\n$11,000 including the casita, all meals, and daily sessions.",
+  "practical": "Four weeks, any start date. $11,000. One guest. Private casita with kitchenette and garden. Meals delivered. Bring loose clothing; mats and props provided. Devices are held at the office from arrival to departure. Nearest airport Santa Barbara; transfer included.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "yogic",
+    "experience_level": "some_experience",
+    "duration": "extended",
+    "cost_band": "high"
+  },
+  "kind": "trust_signal",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Participants are asked to surrender phones for the duration and contact with family is discouraged.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

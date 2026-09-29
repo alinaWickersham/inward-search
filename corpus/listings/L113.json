@@ -1,0 +1,29 @@
+{
+  "id": "L113",
+  "name": "Morning of Practice with Rick",
+  "location": "Tucson, Arizona",
+  "summary": "Half day practice session, small group, hard physical practice, Rick is there to guide, mornings quiet till the break. $25.",
+  "description": "Come practice with Rick on saturday mornings!\n\nWhat it is: Its a morning of practice, 6am till noon, in the garage studio, maximum 8 people. Rick has practiced a lot of different things over the years (yoga, chi gong, zen, some sufi stuff, martial arts) and brings all of it, he doesnt really do one tradition. Its pretty physical, your going to sweat and be sore, its not a gentle thing, its demanding.\n\nHow it works: Theres no set program. You come in and start practicing what you practice and Rick comes around and works with you, gives you things to try, adjusts you, pushes you. Everyone is doing there own thing but Rick is guiding the whole time, hes very hands on. Its quiet until the break at 9, after the break people talk, Rick talks, its more loose.\n\nWho its for: Some experience helps, you should have some kind of practice already, doesn't matter what. Not really for total beginners, theres not enough structure for that, you'd be lost.\n\nCost $25, cash.",
+  "practical": "Saturdays 6am to 12 noon. $25 cash. Max 8. Garage studio, address given when you text. Bring mat, water, towel. Parking on street.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "eclectic",
+    "experience_level": "some_experience",
+    "duration": "hours",
+    "cost_band": "low"
+  },
+  "kind": "awkward",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

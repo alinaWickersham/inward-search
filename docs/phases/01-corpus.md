@@ -177,7 +177,7 @@ larger one you have not.
 - [x] Ten realistic queries written by hand
 - [x] Nine dimensions confirmed against those queries, or amended
 - [x] `plan.json` generated
-- [ ] 120 listings written
+- [x] 120 listings written
 - [ ] Twenty read and corrected by hand
 - [ ] No real organisation names anywhere
 - [x] Committed to a repo, with a README that says the corpus is synthetic and why

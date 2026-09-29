@@ -1,0 +1,29 @@
+{
+  "id": "L094",
+  "name": "Wild Solo Weekend, Rooted Path Experiences",
+  "location": "Cascade foothills, Oregon",
+  "summary": "A solo weekend in the forest on a fixed schedule of hard hikes and recorded spoken prompts, with check-in calls to our facilitators. Some outdoor experience needed. $190.",
+  "description": "Rooted Path Experiences offers a structured solo weekend for those ready to go deeper into their relationship with the land.\n\n**Your weekend**\nYou will follow a carefully designed schedule. Dawn: a spoken-reflection practice using our audio prompts, in which you answer aloud. Morning: a demanding hike on one of our marked routes (8 to 14 miles, significant elevation). Afternoon: a second reflection session. Evening: a check-in call with one of our facilitators, who will help you process the day. Each day is planned for you.\n\n**Our facilitators**\nOur facilitators have many years of experience guiding people on the path and are trained in our methods. They will be available by phone at set times throughout your weekend.\n\n**Who this is for**\nThose with some backcountry experience who want to challenge themselves physically and be guided by our facilitators' approach.\n\n**Cost**\n$190, including the camp site, route cards, and facilitator calls.",
+  "practical": "Friday evening to Sunday afternoon, May to October. $190. One participant per site. Bring all camping gear, food, and water filter; a list is sent. Trailhead directions sent after booking. Satellite messenger provided for facilitator calls.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "trust_signal",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "No individual teacher is named anywhere; the material refers only to 'our facilitators'.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

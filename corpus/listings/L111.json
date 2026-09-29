@@ -1,0 +1,29 @@
+{
+  "id": "L111",
+  "name": "Vigil Week, Companions of the Night",
+  "location": "Northern California coast",
+  "summary": "A self-run week for up to 6 experienced practitioners in a shared house with three all-night vigils of continuous practice. No leader. Silent mornings. Donation.",
+  "description": "A week built around three vigils.\n\n**Format**\nNo schedule except the vigils. Mornings silent; afternoons and evenings spoken. Practise as you practise.\n\n**The vigils**\nOn the second, fourth, and sixth nights, practice runs continuously from 9pm to 6am: sitting, chanting, walking, prayer, in rotation as the group chooses, with no sleep. The days after the vigils are for sleep. Participants have found that by the third vigil the effects of sleep loss are significant.\n\n**Leadership**\nNone. The house is lent and the week is self-run by whoever comes.\n\n**Level**\nFor people with years of practice in any tradition who have done night vigils before.\n\n**Cost**\nDonation to the house.",
+  "practical": "Sunday to Sunday, four weeks a year. Donation. Up to 6 in a shared house. Cooking shared. Bring bedding, warm layers for the night, a cushion. Nearest town Point Arena. Wifi in the house.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "eclectic",
+    "experience_level": "assumes_practice",
+    "duration": "week",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "contraindication",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Continuous practice through the night on several occasions.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

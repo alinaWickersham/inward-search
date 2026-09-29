@@ -1,0 +1,29 @@
+{
+  "id": "L106",
+  "name": "Breath and Sitting Retreat, Juniper Mesa Sangha",
+  "location": "Northern New Mexico",
+  "summary": "Three weeks for 8 experienced practitioners combining Buddhist sitting with a daily extended breathwork session in the holotropic style. Peer-led. Silent mornings. Dana.",
+  "description": "A three-week retreat for practitioners who want to combine long sitting with intensive breathwork.\n\n**The day**\nSilent from rising to noon: sitting in the hall, walking, breakfast. 14:00 to 17:00 the breathwork session: extended, rapid, connected breathing in the holotropic style, lying down, in pairs (breather and sitter, alternating days), with music. Evening sit, then a spoken circle about the session.\n\n**Leadership**\nPeer-led. No teacher is present. Participants have all done this form of breathwork before and hold each other's sessions.\n\n**Effects**\nThe breathwork routinely produces intense physical and emotional states, including strong body sensations, catharsis, and altered perception. Participants should know this from experience.\n\n**Level**\nAdvanced. Prior experience of both long retreat and this style of breathwork is required; we ask for details.\n\n**Cost**\nDana.",
+  "practical": "Three weeks in spring. Dana. 8 places. Shared cabins. Two meals daily. Bring a mat, blankets, eye covering, a cushion. Nearest airport Albuquerque; we collect from Taos. No signal.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "contraindication",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Extended holotropic-style breathwork sessions daily.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

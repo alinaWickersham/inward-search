@@ -1,0 +1,29 @@
+{
+  "id": "L109",
+  "name": "Private Ceremony, Alder Creek Medicine House",
+  "location": "Pacific Northwest (details on booking)",
+  "summary": "A private overnight ceremony with plant medicine for one participant, facilitated on site, with a silent preparation day and a spoken integration morning. For experienced practitioners. $1,800.",
+  "description": "A one-to-one overnight for a single participant.\n\n**Format**\nArrive at noon. A silent afternoon of preparation on the land. At dusk the ceremony begins, facilitated by our medicine carrier, and runs through the night. In the morning, an integration conversation of two to three hours, then departure by early afternoon.\n\n**The medicine**\nAyahuasca, prepared on site. The ceremony is physically and psychologically intense: vomiting, strong visions, and emotional release are usual. Participants with a personal or family history of psychosis or bipolar disorder, or taking SSRIs, MAOIs, lithium, or several other medications, cannot participate; the intake form lists them and we require honesty.\n\n**Facilitator**\nOur carrier has held ceremony for 12 years.\n\n**Level**\nFor people with an established contemplative practice and prior ceremony experience.\n\n**Cost**\n$1,800.",
+  "practical": "By application. $1,800. One participant. Intake form and medical screening call required. Bring loose clothing, a blanket, and light food for the next day. Location disclosed after acceptance. No phones during the stay.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "semi_structured",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "assumes_practice",
+    "duration": "hours",
+    "cost_band": "high"
+  },
+  "kind": "contraindication",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Ceremonial work with plant medicine, facilitated on site.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "L097",
+  "name": "Morning Sadhana with Guruji: Open Session",
+  "location": "Queens, New York",
+  "summary": "A four-hour Sunday session for up to 150 in the presence of our founder: led kriya practice, silent sitting, and darshan. Physically intense. Beginners welcome. $30.",
+  "description": "Every Sunday morning the community gathers in the presence of Guruji for sadhana.\n\n**The session**\n6:00 doors and silent sitting. 7:00 Guruji enters and leads the kriya practice (two hours; intense breathwork and movement, all levels together). 9:00 silence and darshan: each participant approaches Guruji in turn. 9:45 Guruji speaks. 10:00 close. The first hour and the darshan are silent; Guruji's talk is followed by questions.\n\n**Guruji**\nOur beloved founder has given his life to this practice and to us. To practise in his physical presence is the heart of the path; the practice done alone is a shadow of the practice done with him. His grace is what makes transformation possible. Many devotees describe the moment of darshan as the turning point of their lives.\n\n**Level**\nNewcomers are welcome and are encouraged to come every week. The practice is demanding on the body and Guruji asks that you push through.\n\n**Cost**\n$30. Devotees who wish to support Guruji's work may give more.",
+  "practical": "Sundays, 6am to 10am. $30. Up to 150. Community hall; bring a mat and a shawl, and wear white. Subway to Jackson Heights; ten-minute walk. Shoes off at the door.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "yogic",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "low"
+  },
+  "kind": "trust_signal",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "The material centres on a single founder-teacher in devotional terms.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

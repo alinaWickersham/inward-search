@@ -1,0 +1,29 @@
+{
+  "id": "L112",
+  "name": "Mountain Dharma Personal Retreat Program (Extended)",
+  "location": "Sierra Nevada, California",
+  "summary": "Personal retreat program for the individual practicioner on our mountain, 3 weeks, with teacher meetings daily and structured daily schedule. Dana basis.",
+  "description": "Welcome to Mountain Dharma!! Our Personal Retreat Program is for the individual practicioner who is seeking to go deeper in there practice on a personal basis on our beautiful mountain property.\n\nThe Personal Retreat Program is a 3 week program. You will stay in your own cabin by yourself, no other retreatants, its just you. Each day there is a schedule which is the same every day, the schedule is 4am wake up, 4:30 sitting, 6am sitting, breakfast, 8am sitting, 10am sitting, lunch, 1pm work period, 3pm sitting, 5pm sitting, dinner, 7pm meeting with the teacher, 8pm sitting, 9:30 lights out. The schedule is followed each day of the 3 weeks. It is a lot of sitting so be ready for that!\n\nThe teacher meeting is every day at 7pm and you will discuss your practice with the teacher and the teacher will give you guidance and instructions on your practice, you can ask questions etc. Our teachers are very experienced. Also at meals you can talk with the cook or the teacher if they are around, its not a silent retreat as such, but you are on your own most of the time.\n\nPrior experience: some, you should of sat before, a retreat or two, but you don't need to be advanced or anything.\n\nCost: The Personal Retreat Program is offered on a dana basis (donation) so there is no set cost, you give what you feel.\n\nWe hope to see you on the mountain!!!",
+  "practical": "3 weeks, dates by arrangement. Dana. 1 person. Cabin with woodstove, bed, no electric. Meals provided (vegetarian). Bring warm cloths, flashlight, meditation cushion if you have one. Nearest airport Reno, we can pick you up from the bus in Truckee, please arrange in advance.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "some_experience",
+    "duration": "extended",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "awkward",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Write this one poorly: clumsy phrasing, dated web-copy tone, vague and repetitive, minor grammatical errors. The experience itself should still be a genuinely good fit for its dimensions.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

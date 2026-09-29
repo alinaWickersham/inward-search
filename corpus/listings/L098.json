@@ -1,0 +1,29 @@
+{
+  "id": "L098",
+  "name": "Root Cause Weekend, The Original Method",
+  "location": "Ozarks, Missouri",
+  "summary": "A solo weekend in a cabin practising the Original Method: a morning and evening session on video, silent mornings, and long practice in between. Hard physically. Some yoga experience needed. $160.",
+  "description": "The Original Method is the only complete system that addresses the true root of suffering. Other practices treat symptoms; the Method removes the cause.\n\n**Your weekend**\nSilent mornings. A 90-minute video session at 6am and 6pm, led by the Method's senior instructors, which you follow alone in your cabin. Between sessions you practise the sequences on your own; the Method requires at least four hours of practice a day to take effect. A Method guide is available by phone for questions.\n\n**Why the Method**\nPractitioners of yoga, meditation, and therapy come to us after years of partial results. What they were missing is the Method. It is not a variation on other practices; it is the practice they were all incomplete attempts at. We say this plainly because people deserve to know.\n\n**Level**\nSome experience of yoga is helpful so the sequences are physically accessible.\n\n**Physical**\nDemanding: four to six hours of practice a day.\n\n**Cost**\n$160 including the cabin and video access.",
+  "practical": "Friday evening to Sunday afternoon, year round. $160. One person per cabin, six cabins. Cabin with screen, mat, kitchenette. Bring food and practice clothing. Directions sent on booking. Wifi for the sessions.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "semi_structured",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "yogic",
+    "experience_level": "some_experience",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "trust_signal",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Claims this is the only approach that addresses the true root of suffering.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

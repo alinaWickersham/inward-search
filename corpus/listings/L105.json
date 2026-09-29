@@ -1,0 +1,29 @@
+{
+  "id": "L105",
+  "name": "All-Night Sit, Riverside Secular Sangha",
+  "location": "Sacramento, California",
+  "summary": "A monthly overnight of sitting from 10pm to 6am on a fixed timetable for up to 60 experienced sitters, with a four-hour sleep window built in before. No leader. $15.",
+  "description": "On the Saturday nearest the full moon we sit through the night.\n\n**Timetable**\nDoors 5pm. 6pm to 10pm sleep period in the hall (lights out; a four-hour window, which is all the sleep participants get). 10pm bell. Sits of 45 minutes with 10-minute walks until 6am. Tea at 6. Silence ends at 6:30 and people talk over breakfast. The timetable is fixed and the bell is kept by rota.\n\n**Silence**\nFrom the 10pm bell to 6:30am.\n\n**Leadership**\nNone. This is a self-run sit; there is no teacher and nobody gives instruction.\n\n**Demand**\nRestricting sleep to four hours and then sitting for eight is hard on the body and mind. We ask that participants are experienced sitters, in good health, and not driving home afterward.\n\n**Cost**\n$15 for the hall and breakfast.",
+  "practical": "Monthly, Saturday 5pm to Sunday 7:30am. $15. Up to 60. Bring a sleeping bag and mat for the sleep window, a cushion, warm layers. Hall is on the light rail. Arrange a ride home.",
+  "dimensions": {
+    "social": "community",
+    "structure": "fixed",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "secular",
+    "experience_level": "assumes_practice",
+    "duration": "hours",
+    "cost_band": "low"
+  },
+  "kind": "contraindication",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Sleep is restricted to four hours nightly as part of the practice.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "L099",
+  "name": "Stillness Residency",
+  "location": "Southwestern United States",
+  "summary": "A month of solitary silence in a desert dwelling, self-directed and restful, with a mentor reachable by message. For experienced practitioners. $700.",
+  "description": "Stillness Residency offers a month of complete silence in the desert for practitioners ready for extended solitude.\n\n**The residency**\nA dwelling, silence, and time. There is no schedule. You practise as you practise. Meals are provided. A mentor from our team is available through a messaging device for guidance if you need it; most residents use it rarely.\n\n**Approach**\nWe draw on the wisdom of many traditions and belong to none.\n\n**Level**\nFor those with a mature practice who have done long retreats before.\n\n**Physical**\nRestful. The dwelling is comfortable and the surroundings are gentle.\n\n**Cost**\n$700 for the month.\n\nStillness Residency is a new offering. Apply through the form and we will be in touch with details and location once your application is accepted.",
+  "practical": "One month; dates on application. $700. One resident at a time. Location, directions, and arrival details provided after acceptance. Bring warm layers for desert nights. Payment by transfer on acceptance.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "low"
+  },
+  "kind": "trust_signal",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "Newly established, no stated history, no named staff, no physical address.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

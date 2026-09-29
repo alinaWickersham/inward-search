@@ -1,0 +1,29 @@
+{
+  "id": "L101",
+  "name": "Month in the Guest Cottage, Brother Lawrence House",
+  "location": "Kentucky hill country",
+  "summary": "A month alone in a cottage on a lay community's land, with morning and evening prayer in the chapel and conversation at supper. Self-guided. Beginners welcome after screening. $400.",
+  "description": "Brother Lawrence House keeps a guest cottage for individuals who want a month of simple contemplative living.\n\n**Rhythm**\nMorning prayer at 7 and evening prayer at 6 in the chapel with the household; supper together afterward, where there is conversation. The rest of the day is unstructured: the cottage, the woods, the garden if you like to work. Nobody directs your time and there is no programme.\n\n**Guidance**\nNone formal. Members of the household are around and will talk at supper. We are not spiritual directors.\n\n**Level**\nNo experience of prayer or retreat is needed.\n\n**Before you come**\nWe ask everyone to complete our intake questionnaire, which asks about your circumstances, health, any current treatment or support you receive, and what you hope for from the month. One of us then telephones you for a conversation of about half an hour. We do this because a month alone is a significant thing and we want to be confident it is a good idea for you now, and to know what support you have at home. Occasionally we suggest a shorter stay first.\n\n**Cost**\n$400 for the month.",
+  "practical": "One month, arriving on a Sunday. $400. One guest. Cottage with wood stove, kitchenette, bath. Breakfast and lunch self-catered from the pantry; supper with the household. Bring work clothes if you want to garden. Nearest airport Louisville; we collect from the bus. Landline in the main house; wifi in the library.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "moderate",
+    "tradition": "contemplative_christian",
+    "experience_level": "newcomer_friendly",
+    "duration": "extended",
+    "cost_band": "low"
+  },
+  "kind": "trust_signal",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": "States an intake questionnaire and screening call before acceptance.",
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}
