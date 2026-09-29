@@ -1,0 +1,29 @@
+{
+  "id": "L060",
+  "name": "Study Week with Ajahn Dhammiko",
+  "location": "Thai forest monastery, northern England",
+  "summary": "A week for 10 experienced lay practitioners at a monastery, with a daily teaching session and question period with the abbot, the community's two sits, and open days. Dana.",
+  "description": "Each autumn the monastery holds a study week for lay practitioners who want sustained contact with the abbot's teaching.\n\n**Anchors**\n5.00 morning puja and sit with the community. 10.30 meal. 14.00 to 16.00 teaching and questions with Ajahn Dhammiko in the sala. 19.00 evening puja and sit. The rest of the day is open: the woods, the library, work if you wish.\n\n**Conversation**\nThe afternoon sessions are dialogue and run as long as the questions do. Meals are spoken. This is not a silent week.\n\n**Level**\nAdvanced. The teaching assumes long familiarity with the Pali suttas and with forest-tradition practice.\n\n**Physical**\nModerate: early rising, cold woods, an hour of work most days.\n\n**Cost**\nDana.",
+  "practical": "Sunday to Sunday in October. Dana. 10 places; write to the guest monk. Shared rooms in the lay guest house. One meal daily at 10.30 with the community; tea in the evening. Bring warm clothes, walking boots, a torch. Nearest station Harrogate; bus to the village. Phones off on the property.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "moderate",
+    "tradition": "buddhist_derived",
+    "experience_level": "assumes_practice",
+    "duration": "week",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

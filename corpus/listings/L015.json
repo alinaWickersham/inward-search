@@ -1,0 +1,29 @@
+{
+  "id": "L015",
+  "name": "Forty-Day Sadhana Intensive",
+  "location": "Sierra foothills, California",
+  "summary": "Forty days of silent, self-paced practice for up to 40 experienced practitioners at a yoga ashram, with a teacher present and daily instruction. Long practice days. $1,200.",
+  "description": "The forty-day intensive is for people who have practised for years and want a long stretch of silence with a teacher who will push them.\n\n**Format**\nThere is no group timetable. Each practitioner works out a daily sadhana with Guruji at the start (asana, pranayama, japa, sitting) and then holds it for forty days on their own schedule. Most people practise six to eight hours a day. Guruji is in the hall each morning and gives instruction to whoever is there; individual conversations happen at his discretion, usually every few days.\n\n**Silence**\nFull mauna for forty days. Practitioners eat, work, and practise in silence. Contact with Guruji is by note or in the daily instruction period.\n\n**Demand**\nSevere. Long pranayama, long sitting, early rising, and the accumulating weight of silence. People with less than five years of daily practice are not accepted.\n\n**Cost**\n$1,200 for forty days, meals and dormitory included. It is subsidised by the ashram.",
+  "practical": "Forty days, beginning on the new moon in February. $1,200. Up to 40 practitioners in dormitories. Two meals daily, sattvic. Bring practice clothing, a shawl, your own mat and props. Nearest airport Sacramento; shuttle on arrival day. Phones held at the office. Application with a practice history and a teacher's reference.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "yogic",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

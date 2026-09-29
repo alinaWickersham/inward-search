@@ -1,0 +1,29 @@
+{
+  "id": "L050",
+  "name": "Elders' Sit, Thursday Evenings",
+  "location": "Santa Fe, New Mexico",
+  "summary": "A weekly two-hour silent sit for a small group of long-term practitioners from several traditions, led by an elder who gives a short instruction. Restful. Free.",
+  "description": "On Thursday evenings a dozen of us, all with decades of practice in various traditions, sit together for two hours.\n\n**Format**\n7:00 a short instruction from whoever is leading that month (five minutes; a pointer, not a teaching). Sit 40 minutes. Walk. Sit 40. Walk. Sit 30. A bow. 9:00 tea, spoken, optional.\n\n**Leading**\nRotates among four elders: Zen, Sufi, Christian contemplative, and one who no longer names a tradition. The instruction reflects whoever is leading.\n\n**Silence**\nFrom the first bell to the bow.\n\n**Physical**\nRestful. Chairs and cushions.\n\n**Who**\nThis is not an open sit. We ask that newcomers have a practice of at least ten years and come with an introduction from a current member.\n\n**Cost**\nNone.",
+  "practical": "Thursdays, 7 to 9pm, year round. Free. About 12. Private home; address given on introduction. Chairs and cushions provided. Street parking.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "assumes_practice",
+    "duration": "hours",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "L009",
+  "name": "Ten-Day Silent Course, Plainfield Centre",
+  "location": "Central Illinois",
+  "summary": "A ten-day silent meditation course for up to 80 people, fully scheduled and teacher-led, secular in framing. Some prior sitting helps. No charge; donations after completion.",
+  "description": "Plainfield Centre runs the ten-day course monthly. It is secular: no chanting, no ritual, no religious vocabulary. The technique is a breath and body-awareness practice taught in stages across the ten days.\n\n**Schedule**\n4:00 wake. 4:30 to 6:30 sit. Breakfast. 8:00 to 11:00 sit, with instruction. Lunch. 13:00 to 17:00 sit. Tea. 18:00 to 19:00 sit. 19:00 recorded talk. 20:30 final sit. 21:30 lights out. The timetable does not change and attendance at the group sits is required.\n\n**Teaching**\nTwo assistant teachers are present throughout. Instructions are given to the whole hall at set points, and each student meets a teacher for five minutes on days 3, 6, and 9. Questions outside those times are by written note.\n\n**Silence**\nComplete: no speech, gestures, eye contact, or writing between students from the evening of day 0 to the morning of day 10. Students may speak to teachers and management.\n\n**Physical**\nAbout ten hours of sitting daily. Chairs are available. Most people find days 2 to 4 hard on the body and it eases.\n\n**Prior experience**\nNot required, but people who have sat before, even a little, find the first days easier. Students must stay the full ten days.\n\n**Cost**\nNone. Courses are funded by donations from previous students, accepted only after completion.",
+  "practical": "Ten days plus arrival and departure evenings, monthly. No charge. 80 places, dormitories separated by gender. Two vegetarian meals and evening tea. Bring modest comfortable clothing, a shawl, an alarm clock (no phones). Nearest city Champaign; shuttle from the Amtrak station. Phones and reading materials held at the office.",
+  "dimensions": {
+    "social": "community",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "moderate",
+    "tradition": "secular",
+    "experience_level": "some_experience",
+    "duration": "extended",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

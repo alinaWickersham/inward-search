@@ -1,0 +1,29 @@
+{
+  "id": "L057",
+  "name": "Advanced Practitioners' Residency, Shala Nueva",
+  "location": "Andalusian hills, Spain",
+  "summary": "Six weeks for 8 advanced yoga practitioners with no teacher: shared morning practice at a fixed hour, an evening discussion, and self-directed days. Physically intense. €2,400.",
+  "description": "A residency for practitioners who have outgrown being taught and want six weeks of serious practice alongside peers.\n\n**Anchors**\n6:00 shared practice in the shala, unled, two to three hours. 19:00 evening discussion on the terrace, facilitated in rotation: practice, texts, problems. Meals at set times. Nothing else is fixed.\n\n**No teacher**\nThe residency is peer-held. Residents are selected for depth and range of practice, and the discussion hour is where teaching happens, from each other.\n\n**Talk**\nMeals and evenings are spoken and the discussions run late.\n\n**Demand**\nHigh. Long daily practice, the heat, the hill walks, and six weeks of it.\n\n**Level**\nAdvanced only: at least eight years of daily practice, and we ask for a video and a written practice history.\n\n**Cost**\n€2,400 including single room and meals.",
+  "practical": "Six weeks, April to mid-May, and again September to mid-October. €2,400. 8 residents, single rooms. Three vegetarian meals. Bring your own mat and props, light practice clothing, walking shoes. Nearest airport Málaga; transfer arranged. Wifi in the house.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "yogic",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

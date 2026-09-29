@@ -1,0 +1,29 @@
+{
+  "id": "L059",
+  "name": "The Month of Quiet, Fenholm Cottage",
+  "location": "Cumbrian coast",
+  "summary": "A month alone in a cottage on a fixed gentle daily order, in full silence, with a secular guide who visits for twenty minutes each afternoon. Some prior practice helpful. £1,350.",
+  "description": "One person, one cottage, one month, one visitor a day.\n\n**The order**\n7.00 sit (30). Breakfast. 9.00 sit (45). 10.00 walk on the shore (an hour, flat). 12.00 sit. Lunch. Rest. 15.00 the guide's visit (20 minutes). 16.00 sit (45). Supper. 19.30 sit. 21.00 bed. The order is printed and kept.\n\n**Silence**\nComplete for the month, apart from the daily visit, which is itself mostly listening.\n\n**Guide**\nSecular, trained in MBSR and in supporting long solo retreats. The visit is a check-in: how is it going, anything to adjust, and then gone.\n\n**Physical**\nGentle. Flat shore, a warm cottage, short walks.\n\n**Level**\nPeople who have sat regularly for a year or more and done at least one shorter silent retreat.\n\n**Cost**\n£1,350 including the cottage, food delivered, and the daily visit.",
+  "practical": "Four weeks, any start date. £1,350. One person. Cottage with stove, bath, kitchen; food delivered twice a week. Bring warm clothes, boots, and a timer. Nearest station Millom; we collect. No phone or internet during the month.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "secular",
+    "experience_level": "some_experience",
+    "duration": "extended",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

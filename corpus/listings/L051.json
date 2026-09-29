@@ -1,0 +1,29 @@
+{
+  "id": "L051",
+  "name": "Mysore Silent Practice Morning",
+  "location": "Chicago, Illinois",
+  "summary": "A four-hour silent self-practice morning for up to 10 advanced ashtanga practitioners, no teacher, with anchor times for opening and closing chant. $45.",
+  "description": "Sunday mornings the shala opens for silent self-practice with no teacher present.\n\n**Format**\n6:00 doors. 6:15 opening chant together (unled). Then each practitioner works through their own series at their own pace, in silence. 10:00 closing chant. 10:15 doors close. Between the chants there is no structure and no one adjusts anyone.\n\n**Silence**\nComplete, apart from the two chants and the breath.\n\n**Level**\nAdvanced. You should hold at least full primary series from memory and be self-sufficient in the room. This is not a led class and there is no one to ask.\n\n**Physical**\nDemanding: four hours available for a full practice.\n\n**Cost**\n$45.",
+  "practical": "Sundays, 6 to 10:15am. $45. 10 places, book online. Bring your own mat and towel. Shala is on the Blue Line. No showers.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "full_silence",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "yogic",
+    "experience_level": "assumes_practice",
+    "duration": "hours",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

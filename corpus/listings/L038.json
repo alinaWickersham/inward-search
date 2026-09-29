@@ -1,0 +1,29 @@
+{
+  "id": "L038",
+  "name": "Solo Morning at the Hermit Hut, Bright Meadow Centre",
+  "location": "Sussex Weald",
+  "summary": "Book the centre's hermit hut for a silent morning, 7 to 1, with a suggested rhythm of sits and walks and a short conversation with a resident before and after. Beginners welcome. £18.",
+  "description": "Bright Meadow is a small Buddhist centre with a hut at the far end of the meadow that we let by the morning.\n\n**How it works**\nArrive at 7. A resident meets you with tea and walks you to the hut, explaining what is there and suggesting a rhythm: a sit, a walk, a sit, a rest, a walk, a sit. It is a suggestion, not a timetable, and the hut has a bell and a timer if you want to use them. At 1 the resident returns, walks you back, and there is soup and a chance to talk about how it went.\n\n**Silence**\nFrom the moment you enter the hut until you leave it.\n\n**Guidance**\nLight: the conversation before and after. There is no instruction in the hut. A single sheet on the table explains posture and breath for anyone who has never sat.\n\n**Physical**\nModerate. The meadow path and the wood beyond are muddy and uneven; the walks are optional.\n\n**Who**\nAnyone. Half the hut bookings are people who have never meditated and want to try it without a class.\n\n**Cost**\n£18, including soup.",
+  "practical": "Weekday mornings, 7am to 1pm; book ahead. £18. One person. Hut with cushions, a chair, a bell, a stove, a shelf of books. Bring boots and warm clothes. Nearest station Haywards Heath, 6 miles; bus to the village. No signal at the hut.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "semi_structured",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "moderate",
+    "tradition": "buddhist_derived",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

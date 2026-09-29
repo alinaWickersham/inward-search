@@ -1,0 +1,29 @@
+{
+  "id": "L048",
+  "name": "Lenten Season at the Farm of St. Isidore",
+  "location": "Central Ohio",
+  "summary": "Forty days on a Catholic Worker farm with 30 others, sharing the work, silent until noon, self-directed afternoons, with the chaplain around. Physically hard. For those with a practice. No charge.",
+  "description": "The farm keeps Lent as a season of work and silence and welcomes up to thirty guests for the forty days.\n\n**The rhythm**\nSilence from rising until the noon Angelus, through morning prayer and the morning's work. The work is farm work: livestock, planting, wood, the kitchen, and it is hard. Afternoons are unplanned: rest, the chapel, the road, more work. Vespers and supper. Evenings are spoken and communal.\n\n**Guidance**\nThe chaplain lives on the farm and is around: at work, at meals, in the chapel. He does not run a programme. Guests who want direction can ask for it and will get a conversation a week.\n\n**Level**\nFor people with an established practice of prayer or contemplation who can hold a long stretch of silence and hard work without a schedule to lean on.\n\n**Cost**\nNone. Guests work.",
+  "practical": "Ash Wednesday to Easter. No charge. Up to 30 in dormitories. Meals from the farm, simple. Bring work clothes, boots, gloves, warm layers. Nearest city Columbus; we collect from the bus. Phones kept in the office; one call a week.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "contemplative_christian",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

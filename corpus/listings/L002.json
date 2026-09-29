@@ -1,0 +1,29 @@
+{
+  "id": "L002",
+  "name": "Solitary Week at Bramblewood Vihara",
+  "location": "Coastal Oregon",
+  "summary": "A week in a single hermit kuti on the monastery grounds, following the community's schedule from a distance. Silent except for a daily talk and a check-in. Dana.",
+  "description": "Bramblewood Vihara is a small monastery in the Thai forest lineage. We keep two hermit kutis at the edge of the woods for lay guests who want a week of solitary practice within the rhythm of the community.\n\n**Schedule**\nGuests keep the monastery bell: morning chanting and sitting at 5:00, meal at 10:30, evening sitting at 19:00. Guests sit in the kuti rather than the hall, but the times are fixed and we ask that they be kept.\n\n**Silence**\nThe property is silent apart from the 10:30 meal, when guests eat with the community and may speak, and the short evening Dhamma talk, which guests may attend or listen to from the kuti. One of the monastics visits each kuti briefly each afternoon; this is an opportunity to ask about practice, not a formal interview.\n\n**Physical**\nUndemanding. The sitting periods are 45 minutes. The kuti is a two-minute walk from the meal hall on level ground.\n\n**Suitability**\nFor lay practitioners with an established sitting practice who have done at least one group retreat. The week has very little contact and we want guests to know from experience that they are comfortable with that.\n\n**Cost**\nThere is no charge. The monastery is supported by dana.",
+  "practical": "Monday to Monday, most weeks. No charge; dana welcome. Two kutis, one guest each. Wood stove, bed, shrine, outhouse. One meal daily at 10:30, vegetarian, with the community. Bring warm clothes, rain gear, slippers, a flashlight. Nearest town Tillamook; pick-up from the bus by arrangement. No phones on the property.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "buddhist_derived",
+    "experience_level": "some_experience",
+    "duration": "week",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

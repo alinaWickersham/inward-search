@@ -1,0 +1,29 @@
+{
+  "id": "L019",
+  "name": "Summer Work Week at Greywater Commons",
+  "location": "Willamette Valley, Oregon",
+  "summary": "A free week on a 200-acre land cooperative for up to 50 volunteers. Hard outdoor work, silent mornings, unscheduled afternoons, elders around to talk to. No experience needed.",
+  "description": "Every August the commons opens for a week of work. Fifty people, tents in the orchard, and whatever the land needs done: fencing, haying, ditch clearing, the barn roof.\n\n**Days**\nMornings are silent by long custom, from waking through the work until the noon bell. The work is hard and hot and you will be tired. After lunch there is no plan: the river, the shade, a nap, more work if you like. Evenings: dinner, a fire, talk.\n\n**Guidance**\nNo programme, no teaching. Several elders of the commons have practised in various nature-based traditions for decades and are around all week. Sit with one at the fire, walk with one to the far field. Ask or don't.\n\n**Who comes**\nHalf the people each year have never done anything like this. The work is the entry point; if a person wants more than that, it is there to be found.\n\n**Cost**\nNone. You work.",
+  "practical": "Sunday to Sunday, second week of August. Free. Bring a tent, sleeping gear, work gloves, boots, a hat, a water bottle. Three meals from the field kitchen. Composting toilets, river bathing, one solar shower. Nearest town Corvallis; carpool board online. Signal at the road only.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "newcomer_friendly",
+    "duration": "week",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

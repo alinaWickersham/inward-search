@@ -1,0 +1,29 @@
+{
+  "id": "L028",
+  "name": "Saturday Vigil Walk, Companions of the Hill",
+  "location": "Cotswolds, Gloucestershire",
+  "summary": "A monthly pre-dawn walk of eight miles between two chapels for a small group of experienced contemplatives, silent until the second chapel. No leader. Free.",
+  "description": "On the Saturday nearest the full moon, a group of about ten of us walk from St Kenelm's to the hill chapel, leaving at four in the morning.\n\n**The form**\nMeet at St Kenelm's at 3.45. A short psalm. Walk in silence, single file, eight miles over the wold, arriving at the hill chapel at first light. Lauds together. Silence ends. Breakfast at the farm, and conversation. Done by nine.\n\n**Leadership**\nNone. The route is known, the psalms are the same each month, and whoever arrives first leads off. Newcomers are welcome but should know that nobody will explain anything; the walk is the explanation.\n\n**Level**\nFor people with a settled contemplative practice who are used to silence and long walking in the dark.\n\n**Physical**\nModerate. Eight miles of rolling wold in the dark, sometimes in frost.\n\n**Cost**\nNone. Breakfast is a gift from the farm.",
+  "practical": "Saturday nearest the full moon, 3.45am at St Kenelm's; finished by 9am. Free. About 10 walkers. Bring boots, a torch, warm layers, and a psalter if you have one. Cars can be left at the church and the farm runs people back.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "fixed",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "moderate",
+    "tradition": "contemplative_christian",
+    "experience_level": "assumes_practice",
+    "duration": "hours",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "L065",
+  "name": "Wellness Week at Windward Reef Resort",
+  "location": "Big Island, Hawaii",
+  "summary": "A luxury week for up to 60 at a resort with a menu of drop-in classes from several traditions, a daily community circle, and no required schedule. Restful. Beginners. $5,400.",
+  "description": "Windward Reef's Wellness Week offers a full menu of classes and a relaxed structure for guests new to contemplative practice.\n\n**Daily anchors**\nSunrise circle on the lawn at 7:00 (30 min, guest-facilitated, optional but well attended). Sunset gathering at 18:30 with a talk from a visiting practitioner. Otherwise the schedule is yours.\n\n**The menu**\nDrop-in classes throughout the day: gentle yoga, guided meditation, sound bath, breathwork, forest walk, tai chi, journaling. Instructors run each class; there is no resident teacher and no programme to follow.\n\n**Conversation**\nSocial throughout. The circles are spoken, meals are communal, and the pool is where most of the week happens.\n\n**Physical**\nRestful. Everything is gentle and nothing is required.\n\n**Who**\nFirst-timers. Most guests have never meditated.\n\n**Cost**\n$5,400 including ocean-view room, all meals, and all classes.",
+  "practical": "Sunday to Sunday, year round. $5,400. Up to 60. Ocean-view rooms, full board, spa access. Bring light clothing, swimwear, a hat. Nearest airport Kona; resort shuttle included. Wifi throughout.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "newcomer_friendly",
+    "duration": "week",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

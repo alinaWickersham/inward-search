@@ -1,0 +1,29 @@
+{
+  "id": "L034",
+  "name": "Practice Week at Kestrel Mountain Centre (self-practice format)",
+  "location": "Colorado Rockies",
+  "summary": "A week for up to 60 at a Buddhist mountain centre with two daily group sits and a shared evening discussion, no teacher, and long unscheduled days at 9,000 feet. Some experience needed. $1,650.",
+  "description": "Kestrel's self-practice week runs without a teacher in residence, for practitioners who want the place and the company and not the instruction.\n\n**Fixed points**\nGroup sit at 6:00 and 18:00 in the main hall (45 min each). Evening discussion at 19:30, facilitated by a rota of participants, where people talk about practice, problems, and whatever came up on the mountain. Meals at set times.\n\n**The rest**\nYours. The centre sits at 9,000 feet with trails to 12,000. Most people combine long sits in the small shrine rooms with long days on the mountain. Nobody will check.\n\n**No teacher**\nDeliberately. Staff run the kitchen and the buildings and are not there to be asked about practice.\n\n**Conversation**\nMeals and evenings are spoken, and the discussion hour is the heart of the week for many.\n\n**Demand**\nHigh: altitude, long trails, and the temptation to sit too much. Come fit.\n\n**Level**\nYou should have a practice and know how to keep it without help for a week. Not a first retreat.\n\n**Cost**\n$1,650 including single room and meals.",
+  "practical": "Sunday to Sunday, July and August. $1,650. Up to 60, single rooms. Three meals. Bring hiking boots, layers for cold nights, sun protection, and your own cushion. Nearest airport Denver, 3 hrs; centre shuttle from Boulder. Wifi in the office; none in rooms.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "some_experience",
+    "duration": "week",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

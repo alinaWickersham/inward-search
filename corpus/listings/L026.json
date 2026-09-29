@@ -1,0 +1,29 @@
+{
+  "id": "L026",
+  "name": "The Twenty-One Day Solo, Cedar Hollow Retreat",
+  "location": "Olympic Peninsula, Washington",
+  "summary": "A private three-week silent retreat in a luxury cabin on a printed hour-by-hour schedule, with recorded guidance in the Tibetan tradition. No teacher on site. Beginners accepted. $6,800.",
+  "description": "Cedar Hollow offers a structured solo retreat for people who want to go long without joining a group.\n\n**Structure**\nYou receive a printed schedule for each of the 21 days and follow it: sitting periods of 30 to 60 minutes, walking, recorded instruction, prostrations, rest. The days build from four hours of practice to nine. A bell system in the cabin marks each period. The programme is drawn from a traditional Tibetan preliminary-practice curriculum, adapted for lay retreatants.\n\n**Guidance**\nPre-recorded. Each day includes audio instruction from a senior lama recorded for this programme. There is no teacher on site and no live contact; a caretaker delivers meals and can be reached by a note for practical matters only.\n\n**Silence**\nComplete for 21 days.\n\n**Demand**\nBy the second week you will be practising nine hours a day, including several hundred prostrations. It is physically hard and, alone, mentally hard.\n\n**Who**\nWe accept beginners, and about a third of retreatants have no prior meditation experience. The schedule and the recordings carry you. We ask that you complete our questionnaire honestly and speak with our coordinator before booking.\n\n**Cost**\n$6,800, all inclusive.",
+  "practical": "Twenty-one days, any start date. $6,800 including cabin, meals, and programme. One retreatant per cabin; three cabins on the property, out of sight of each other. Cabin has heating, bath, kitchenette, practice room. Three meals delivered daily. Bring loose clothing, a journal, prostration gloves if you have them. Nearest airport Seattle; car service included. No phone or internet in the cabin.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "full_silence",
+    "guidance": "self_guided",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "newcomer_friendly",
+    "duration": "extended",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

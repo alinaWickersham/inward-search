@@ -1,0 +1,29 @@
+{
+  "id": "L043",
+  "name": "Quiet Room Hire, Fenwick Library Annex",
+  "location": "Newcastle upon Tyne",
+  "summary": "A silent room in a library annex, bookable by the half-day, with a cushion, a chair, a window, and a suggested rhythm on a card. No instruction. £8.",
+  "description": "The annex has two small rooms set aside for quiet, bookable for a morning or an afternoon.\n\n**The room**\nA chair, a cushion, a small table, a window onto the courtyard, a clock, and a card. The card suggests a rhythm (sit, rest, read, sit) and lists the times the courtyard is open. It is a suggestion.\n\n**Silence**\nThe rooms and the corridor are silent. The rest of the library is not, and the door is thick.\n\n**Guidance**\nNone. The rooms are for people who already know what they do with a quiet hour and need somewhere to do it.\n\n**Cost**\n£8 per half-day.",
+  "practical": "Weekdays, 9 to 1 or 2 to 6; book online. £8. Two rooms, one person each. Level access. City centre; metro five minutes.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "semi_structured",
+    "speech": "full_silence",
+    "guidance": "self_guided",
+    "physical_demand": "restful",
+    "tradition": "secular",
+    "experience_level": "some_experience",
+    "duration": "hours",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

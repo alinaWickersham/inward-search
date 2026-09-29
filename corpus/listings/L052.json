@@ -1,0 +1,29 @@
+{
+  "id": "L052",
+  "name": "Lectio Day with Sr. Miriam",
+  "location": "Dublin, Ireland",
+  "summary": "A Saturday of lectio divina for up to 60: a fixed programme of readings, guided reflection, and small-group sharing, led by a Benedictine sister. Gentle. Some familiarity with prayer helpful. €40.",
+  "description": "**Saturday, 10am to 4pm. €40 including lunch.**\n\nA day of shared lectio divina at the parish centre.\n\n**Programme**\n10.00 Welcome and introduction to the method. 10.30 First reading, silent reflection, then sharing in groups of six (45 min). 11.45 Coffee. 12.00 Second reading and sharing. 13.00 Lunch. 14.00 Third reading and sharing. 15.15 Whole-group conversation with Sr. Miriam. 15.45 Closing prayer.\n\n**Leader**\nSr. Miriam Doyle OSB has led lectio groups for 25 years.\n\n**Talk**\nThe sharing is the heart of the day and everyone speaks. The silences are short.\n\n**Physical**\nChairs, a warm room, a short day.\n\n**Who**\nPeople with some experience of prayer who want to go deeper with a text in company. Newcomers to lectio are welcome; newcomers to prayer altogether may find it assumes a little.",
+  "practical": "One Saturday a month, October to May, 10am to 4pm. €40 including lunch. Up to 60. Parish centre with level access; DART and bus nearby. Bring a Bible if you have one; copies provided.",
+  "dimensions": {
+    "social": "community",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "contemplative_christian",
+    "experience_level": "some_experience",
+    "duration": "hours",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

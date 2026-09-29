@@ -1,0 +1,29 @@
+{
+  "id": "L068",
+  "name": "Silent Gathering, The Meeting Ground",
+  "location": "Southern Vermont",
+  "summary": "A silent weekend for up to 80 long-term practitioners from many traditions, with no schedule, a large hall, gentle grounds, and three elders available on request. $310.",
+  "description": "Twice a year, practitioners of many kinds gather for a weekend of shared silence with nothing on the programme.\n\n**Format**\nNone. The hall is open all weekend and people sit in it, at all hours, in their own ways: cushions, chairs, kneelers, prayer rugs. The grounds are gentle and the pond is warm in September. Meals are at set times and silent.\n\n**Elders**\nThree long-term practitioners from different traditions are present. Each keeps a room with the door open for two hours a day; anyone may go in, and the conversation is whispered.\n\n**Silence**\nComplete from Friday supper to Sunday lunch.\n\n**Physical**\nRestful.\n\n**Level**\nFor people with a settled practice of many years in any tradition. The weekend assumes you know what to do with 48 silent hours and offers nothing to fill them.\n\n**Cost**\n$310 including shared room and meals.",
+  "practical": "Friday 5pm to Sunday 1pm, May and September. $310. Up to 80, shared rooms. Three vegetarian meals. Bring whatever you practise with, walking shoes, swimwear in September. Nearest bus Brattleboro; shuttle on Friday. Phones off for the weekend.",
+  "dimensions": {
+    "social": "community",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

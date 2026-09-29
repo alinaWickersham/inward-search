@@ -1,0 +1,29 @@
+{
+  "id": "L029",
+  "name": "Winter Residency, The Long House",
+  "location": "Shetland",
+  "summary": "Six weeks in a shared house for 6 people from different contemplative backgrounds, with no programme, no leader, and long evenings of conversation. Restful. £1,100.",
+  "description": "The Long House is a converted croft on the west side. Each winter we take six residents for six weeks, from mid-January.\n\n**No programme**\nThere is nothing scheduled. Residents practise as they practise: some sit, some pray, some walk the cliffs, some write. The house is shared: cooking, fires, and cleaning are done in turn, and the kitchen table is where the residency happens. Evenings are long and there is a lot of talk.\n\n**No leader**\nNobody is in charge and nobody teaches. We choose residents from different traditions on purpose, and the residency is what happens when six practised people live together for six weeks in the dark with nothing to do.\n\n**Physical**\nRestful. Short days, weather that keeps you in, a warm house.\n\n**Who**\nPeople with some years of a practice, any practice, who can live in a shared house without a timetable and are curious about people whose practice is different.\n\n**Cost**\n£1,100 for six weeks, including food.",
+  "practical": "Six weeks from mid-January. £1,100. Six residents, single rooms. Shared cooking. Bring warm clothes, waterproofs, a head torch, and whatever you practise with. Ferry from Aberdeen or flight to Sumburgh; we collect. Wifi in the house.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "some_experience",
+    "duration": "extended",
+    "cost_band": "mid"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

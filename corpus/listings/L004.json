@@ -1,0 +1,29 @@
+{
+  "id": "L004",
+  "name": "Winter Trail Practice: 21 days on the Superior shore",
+  "location": "North Shore of Lake Superior, Minnesota",
+  "summary": "Three weeks of winter walking and camping for 8 with a teacher, silent until the evening fire. Very demanding. For people with a solid practice and winter camping experience. $900.",
+  "description": "We walk the shore in January. Eight participants, one teacher, three weeks, on foot, camping in snow.\n\n**Teacher**\nHalvard Ness has practised in the Zen and nature-awareness traditions for 30 years and has guided winter trips for 25. He teaches each evening at the fire and is with the group all day.\n\n**The day**\nBreak camp at first light. Walk, mostly in silence, with a sit at midday in the snow. Make camp by mid-afternoon. Evening fire: a talk, then open conversation until it dies. Silence resumes at sleep. The rhythm is fixed; the miles and the route vary with weather and ice.\n\n**Demands**\nThis is the hardest thing we run. Temperatures reach minus 30. You carry your own kit. You sit still in the cold. You do this for three weeks. People who have not done multi-day winter camping before are not accepted, and we check.\n\n**Practice**\nThe teaching assumes years of sitting. It is not an introduction to anything.\n\n**Cost**\n$900, which covers food and shared group gear. We keep it low on purpose; it is not a commercial trip.",
+  "practical": "Three weeks in January. $900. Group of 8. Winter camping throughout; you bring your own winter sleep system, boots rated to -40, and clothing to a list we send. Food and group gear provided. Meet in Grand Marais, MN. No resupply; no signal for most of the route. Written application and a phone interview required.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "nature_based",
+    "experience_level": "assumes_practice",
+    "duration": "extended",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

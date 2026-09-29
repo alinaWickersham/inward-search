@@ -1,0 +1,29 @@
+{
+  "id": "L014",
+  "name": "Sadhana Cabin Weekend",
+  "location": "Blue Ridge, Virginia",
+  "summary": "A one-person cabin on a small yoga ashram's land for a silent weekend of personal practice. A teacher is available by note. For established practitioners. $110.",
+  "description": "We keep one cabin at the top of the property for a practitioner who wants a weekend of uninterrupted sadhana.\n\n**Practice**\nYour own. The cabin has a mat, a shrine shelf, and space for asana. The ashram's schedule is available (asana at 6, satsang at 7pm) but you are not expected at any of it, and most cabin guests do not come down.\n\n**Silence**\nThe cabin guest is in full silence for the weekend. Meals are brought to the porch.\n\n**Guidance**\nSwami Nirmalananda reads notes left in the cabin box each morning and replies by note or, if asked, will come up for a conversation on Saturday afternoon. This is the only contact unless you seek it.\n\n**Physical**\nGentle. The cabin is a five-minute walk from the kitchen. What you do on the mat is up to you.\n\n**Who**\nThis is for people with a settled daily practice of some years. We do not provide instruction and will not check on you.\n\n**Cost**\n$110 for the two nights, meals included.",
+  "practical": "Friday afternoon to Sunday noon, most weekends. $110 including meals. One guest. Cabin with bed, mat, shrine shelf, screened porch, outhouse, solar light. Bring your own props, warm clothing, a flashlight. Nearest town Floyd, VA. No signal at the cabin.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "yogic",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

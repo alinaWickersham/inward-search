@@ -1,0 +1,29 @@
+{
+  "id": "L021",
+  "name": "Introductory Day of Mindfulness, Windfall Sangha",
+  "location": "Ithaca, New York",
+  "summary": "A monthly silent day for 12 newcomers with a teacher: guided sits, walking, and a long afternoon sitting block. Physically tiring. Free.",
+  "description": "Once a month we run a full day for people who have not sat before, in the tradition of Thich Nhat Hanh's community.\n\n**The day**\n9:00 arrival and orientation (the only speaking). 9:30 guided sitting. 10:15 walking meditation outdoors. 11:00 sitting. 12:00 silent lunch. 13:00 rest or walk, unscheduled. 14:00 to 16:30 the long block: three sits with walking between. 16:30 tea and a short talk. 17:00 close.\n\n**Teacher**\nOrdained lay teacher in the Plum Village tradition. Every sit is guided; instruction is continuous through the day.\n\n**Silence**\nFrom 9:30 to 16:30, complete.\n\n**Physical**\nMore than people expect. Sitting for most of a day, even guided, is tiring, and the afternoon block is long. Chairs are available and we encourage using them.\n\n**Cost**\nFree. Lunch is provided.",
+  "practical": "Second Saturday monthly, 9am to 5pm. Free. 12 places, book ahead. Vegan lunch provided. Bring comfortable clothing, a cushion if you have one, walking shoes. Meeting house is on the bus route; parking behind.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "semi_structured",
+    "speech": "full_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "newcomer_friendly",
+    "duration": "hours",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

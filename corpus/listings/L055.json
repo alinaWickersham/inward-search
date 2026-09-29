@@ -1,0 +1,29 @@
+{
+  "id": "L055",
+  "name": "Contemplative Prayer Week, Tidewater Conference Centre",
+  "location": "Chesapeake Bay, Maryland",
+  "summary": "A week for up to 90 with two teachers: a morning conference, an evening prayer service, small-group sharing, and open afternoons. Gentle, conversational, some prior practice helpful. $1,850.",
+  "description": "A residential week in the Christian contemplative tradition, taught by two established teachers of centering prayer.\n\n**Daily programme**\n7:30 centering prayer (20 min). Breakfast. 9:30 conference (teaching, 75 min). 11:00 small-group sharing (45 min). Lunch. Afternoon open: the bay, the grounds, the library, rest. 17:00 centering prayer. Dinner. 19:30 evening service and questions with the teachers. The morning and evening sessions are fixed; afternoons are free.\n\n**Teachers**\nTwo teachers with 20 and 30 years of experience leading centering prayer retreats.\n\n**Conversation**\nThe week is spoken: conferences, small groups, and the evening question periods. The two prayer periods are the silences.\n\n**Physical**\nRestful. Level grounds, a pier, air conditioning.\n\n**Level**\nPeople who have practised centering prayer or similar for some time will get the most from the conferences. Newcomers are welcome and will be given a short introduction on the first evening.\n\n**Cost**\n$1,850 including private room and all meals.",
+  "practical": "Sunday to Saturday, June and September. $1,850. Up to 90, private rooms with bath. Three meals. Bring light clothing, walking shoes, a Bible or journal. Nearest airport Baltimore; shuttle available. Wifi throughout.",
+  "dimensions": {
+    "social": "community",
+    "structure": "semi_structured",
+    "speech": "dialogue",
+    "guidance": "teacher_led",
+    "physical_demand": "restful",
+    "tradition": "contemplative_christian",
+    "experience_level": "some_experience",
+    "duration": "week",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

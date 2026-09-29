@@ -1,0 +1,29 @@
+{
+  "id": "L030",
+  "name": "Long Stay at Marsh House",
+  "location": "Suffolk coast",
+  "summary": "A month alone in the guest room of a household of two elderly practitioners, on their gentle daily order: prayer, meals, and long conversations. No charge.",
+  "description": "Ruth and Aled have lived at Marsh House for forty years, practising in a mixture of Quaker and Buddhist ways. They keep the guest room for one person at a time, for a month.\n\n**The day**\nTheir order, and the guest keeps it: 7.00 silent sitting together in the front room (30 min). Breakfast. Morning: the guest is free, and Ruth and Aled do the house and garden. 13.00 lunch together. Afternoon: a walk with one of them, most days. 18.00 sitting. Supper together, and the evening is conversation, sometimes until late.\n\n**Guidance**\nThey are not teachers and say so. They will talk about anything and have practised for a long time. The guidance is the conversation, twice a day at meals and on the walks.\n\n**Physical**\nVery gentle. Flat marsh walks, a warm house, long meals.\n\n**Who**\nPeople with some practice who would benefit from a month in a settled household with two old people who have thought about things. Not for anyone who needs to be left alone; you will be talked to.\n\n**Cost**\nNone. The guest helps with the washing up.",
+  "practical": "One month, by arrangement. No charge. One guest room. Meals with the household. Bring wellingtons and a warm coat. Nearest station Saxmundham; they collect. Landline; no wifi.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "light_guidance",
+    "physical_demand": "restful",
+    "tradition": "eclectic",
+    "experience_level": "some_experience",
+    "duration": "extended",
+    "cost_band": "free_or_donation"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

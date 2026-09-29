@@ -1,0 +1,29 @@
+{
+  "id": "L037",
+  "name": "Private Sesshin Cabin, Hidden Valley Zen",
+  "location": "Sierra Nevada foothills, California",
+  "summary": "A solo weekend of intensive zazen in a private cabin at a Zen centre, silent, self-scheduled, with one dokusan a day with the teacher. For experienced sitters. $720.",
+  "description": "The centre keeps one cabin above the main buildings for a practitioner who wants a sesshin alone.\n\n**Practice**\nSelf-scheduled. Most cabin guests sit eight to twelve periods a day with kinhin between. A han and a bell are provided. The cabin has a small zendo room with a tan for one.\n\n**Teacher**\nThe resident teacher offers dokusan once each day, at a time arranged on arrival. This is the only contact. Guests may attend the main hall's sits but rarely do.\n\n**Silence**\nComplete. Meals are left at the cabin door in oryoki-style containers.\n\n**Demand**\nThis is a sesshin: long sitting, early rising, and no one to keep the schedule for you. It is harder alone than in the hall.\n\n**Level**\nFor practitioners who have sat several sesshins and hold a daily practice. The teacher will ask.\n\n**Cost**\n$720 for the weekend, including meals and dokusan.",
+  "practical": "Friday afternoon to Sunday afternoon, most weekends. $720. One guest. Cabin with zendo room, bed, wood stove, bath. Three meals delivered. Bring dark loose clothing, your own zafu if preferred. Nearest airport Sacramento; taxi from Nevada City. No signal.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "full_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "buddhist_derived",
+    "experience_level": "assumes_practice",
+    "duration": "weekend",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

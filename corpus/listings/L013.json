@@ -1,0 +1,29 @@
+{
+  "id": "L013",
+  "name": "Day Cell at St. Hild's Guesthouse",
+  "location": "Northumberland coast",
+  "summary": "Book a single guest cell for a day, 9 to 5, with the chapel and cloister garden. Silent until Vespers. No direction. For people with a practice. £20.",
+  "description": "The guesthouse keeps three small day cells for people who want a day of quiet without an overnight stay.\n\n**What you get**\nA cell with a chair, a desk, a kneeler, and a window on the cloister garden. Access to the chapel, which is open all day, and the garden. Midday dinner in the refectory, in silence. Tea in the cell.\n\n**Silence**\nThe house is silent until Vespers at 5pm. Day guests may attend Vespers and speak with the guestmaster briefly afterwards.\n\n**Direction**\nNone. Day cells are for people who know what they want to do with a day and simply need the room.\n\n**Cost**\n£20, including dinner.",
+  "practical": "Any weekday, 9am to 5.30pm; book ahead. £20 including midday dinner. Three cells. Bring nothing in particular; the cell has a Bible, a psalter, and a shelf of contemplative writing. Level access to the cells and chapel. Bus from Alnwick stops at the gate.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "self_guided",
+    "physical_demand": "restful",
+    "tradition": "contemplative_christian",
+    "experience_level": "some_experience",
+    "duration": "hours",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

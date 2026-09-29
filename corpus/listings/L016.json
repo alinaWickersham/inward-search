@@ -1,0 +1,29 @@
+{
+  "id": "L016",
+  "name": "Reset Week at Larkspur Ranch",
+  "location": "Big Sky country, Montana",
+  "summary": "A luxury week for 8 built around long solo hikes and silent mornings, with a mindfulness coach available. No schedule beyond meals. No experience needed. $4,200.",
+  "description": "A week for people who are new to any of this and want to arrive at it through their legs.\n\n**Days**\nNo programme. Breakfast at 7, dinner at 7. The mornings are silent on the ranch until lunch. Between, guests hike: the ranch has 30 miles of marked trail and access to the national forest, and most guests are out six hours a day. Afternoons are open. Massage, the hot pool, the library.\n\n**Coach**\nElise Tran, a secular mindfulness coach (MBSR-trained), is on the ranch all week. She offers a short optional sit each morning before breakfast and is available for one-on-one conversation any afternoon. Nothing is scheduled with her; guests book time as they wish.\n\n**Level**\nDesigned for beginners. Elise will teach anyone who asks, from zero. The hiking is hard, though: long climbs, altitude, weather.\n\n**Accommodation**\nPrivate cabins, full board, chef.",
+  "practical": "Sunday to Sunday, June to September. $4,200 including private cabin, all meals, and coaching. 8 guests. Bring broken-in hiking boots, layers, sun protection, a day pack. Nearest airport Bozeman; ranch transfer included. Wifi in the lodge, none in the cabins.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "self_directed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "secular",
+    "experience_level": "newcomer_friendly",
+    "duration": "week",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

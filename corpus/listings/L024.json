@@ -1,0 +1,29 @@
+{
+  "id": "L024",
+  "name": "Hatha Week at Stonefield",
+  "location": "Peak District, Derbyshire",
+  "summary": "A week of twice-daily taught hatha yoga and pranayama for 10, on a fixed timetable, silent until lunch. Moderate physically. Some yoga experience needed. £395.",
+  "description": "Stonefield is a converted barn and a teacher, Petra Lindqvist, who has taught hatha and pranayama for 22 years. Ten students, one week, a fixed timetable.\n\n**Timetable**\n6.30 pranayama and sitting. 7.30 asana (2 hrs). Breakfast. 11.00 asana theory or a short practice. Lunch. Free afternoon until 16.30. 16.30 asana (90 min). Supper. 19.30 chanting or a talk. Attendance at the morning and afternoon practices is expected.\n\n**Silence**\nUntil lunch, including the morning practices; Petra teaches, you do not speak. Afternoons and evenings are ordinary and conversational.\n\n**Level**\nNot for complete beginners. You should have at least a year of regular practice and be comfortable with a two-hour session. Petra teaches to the group but adjusts individually.\n\n**Physical**\nModerate. Two long asana sessions a day, walking the moor in the afternoons if you like.\n\n**Cost**\n£395 including shared room and meals.",
+  "practical": "Saturday to Saturday, eight weeks a year. £395. 10 places, shared twin rooms. Three vegetarian meals. Mats and props provided; bring your own if preferred. Bring walking boots and waterproofs for the afternoons. Nearest station Buxton; we collect. Wifi in the kitchen.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "fixed",
+    "speech": "partial_silence",
+    "guidance": "teacher_led",
+    "physical_demand": "moderate",
+    "tradition": "yogic",
+    "experience_level": "some_experience",
+    "duration": "week",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

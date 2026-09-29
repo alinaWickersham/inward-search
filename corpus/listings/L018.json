@@ -1,0 +1,29 @@
+{
+  "id": "L018",
+  "name": "Three-Week Study Residency, Clearwater Dharma House",
+  "location": "Vancouver Island, British Columbia",
+  "summary": "Three weeks in residence for 6, on a fixed daily timetable of sitting, text study, and discussion. No teacher; a peer-led seminar format. Some prior practice needed. CAD 2,800.",
+  "description": "A residency for practitioners who want to study a text closely with others rather than be taught.\n\n**Format**\nSix residents, one text (this year: the Satipatthana Sutta and two commentaries), three weeks. The timetable is fixed: 6:00 sit, 7:00 breakfast, 8:30 to 11:30 seminar, lunch, 13:30 to 15:00 individual reading, 15:00 walk or work, 17:00 sit, supper, 19:30 evening discussion. Attendance at all sessions is expected.\n\n**No teacher**\nThe seminar is peer-led. Each resident prepares and leads sessions in rotation. The house has a large library and a resident librarian who is not a teacher and will not act as one. This is deliberate: the residency is for people who have had teachers and want to work without one for a while.\n\n**Conversation**\nThis is a talking residency. Seminars are discussion; meals are not silent; evenings are open conversation.\n\n**Physical**\nModerate. Daily walks on the shore trail, an hour of house work, sitting periods of 45 minutes.\n\n**Fit**\nYou should have several years of practice and some familiarity with the early Buddhist texts. Not a beginner's course.\n\n**Cost**\nCAD 2,800 including single room, meals, and library access.",
+  "practical": "Three weeks, twice a year, spring and autumn. CAD 2,800. Six single rooms. Three vegetarian meals. Bring reading glasses, a notebook, walking shoes, rain gear. Ferry to Nanaimo, then bus; we collect from Port Alberni. Wifi in the library only.",
+  "dimensions": {
+    "social": "small_group",
+    "structure": "fixed",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "moderate",
+    "tradition": "buddhist_derived",
+    "experience_level": "some_experience",
+    "duration": "extended",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

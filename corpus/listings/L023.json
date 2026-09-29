@@ -1,0 +1,29 @@
+{
+  "id": "L023",
+  "name": "Solo Sadhana Week, Ridgeback Yoga Farm",
+  "location": "Northern Georgia",
+  "summary": "One practitioner alone in a cabin on a strict six-session daily schedule of asana, pranayama, and sitting, silent until evening. A teacher checks in daily. Advanced. $280.",
+  "description": "A week for one experienced practitioner who wants a fixed, demanding daily schedule and solitude to do it in.\n\n**The schedule**\nSet in advance and kept. 4:30 rise. 5:00 pranayama (45 min). 6:00 asana (90 min). 8:00 breakfast. 9:00 sitting (60 min). 10:30 karma yoga on the farm (2 hrs). 13:00 lunch and rest. 16:00 asana (90 min). 18:00 sitting. 19:00 supper. 20:00 japa. 21:00 sleep. A bell from the farmhouse marks each session.\n\n**Silence**\nUntil supper. At supper the teacher, Anand Rao, eats with you and you may talk: about the practice, or not. This is the daily check-in. Otherwise no contact.\n\n**Demand**\nHigh. Six practice sessions and two hours of farm work daily, starting at 4:30, for seven days.\n\n**Level**\nPractitioners with at least five years of daily asana and pranayama. Anand will ask about your practice by phone before confirming and will decline if it is not a fit.\n\n**Cost**\n$280 including cabin and meals.",
+  "practical": "Sunday to Sunday, spring and autumn. $280. One guest. Cabin with mat space, bed, shrine shelf, outhouse, wash basin. Two sattvic meals plus breakfast. Bring your own props, practice clothes, work gloves. Nearest airport Atlanta, 2 hrs; pick-up from the bus in Dahlonega. No signal.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "fixed",
+    "speech": "partial_silence",
+    "guidance": "light_guidance",
+    "physical_demand": "demanding",
+    "tradition": "yogic",
+    "experience_level": "assumes_practice",
+    "duration": "week",
+    "cost_band": "low"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}

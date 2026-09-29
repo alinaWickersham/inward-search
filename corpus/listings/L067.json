@@ -1,0 +1,29 @@
+{
+  "id": "L067",
+  "name": "Private Practice Room with Voice Journal, Uma Studio",
+  "location": "London",
+  "summary": "Book a private practice room for three hours with a self-guided kit: a sequence card, a recorder, and spoken svadhyaya prompts. Moderate. Some yoga experience needed. £90.",
+  "description": "A private room for practitioners who want to combine asana with spoken self-study.\n\n**The kit**\nA three-hour card: 90 minutes of asana at your own level (sequences for three levels), 30 minutes of pranayama, and three 20-minute spoken blocks in which you answer written svadhyaya prompts aloud to a recorder. You keep the recording. There is no fixed order; the card suggests one.\n\n**Talk**\nAn hour of the three is you speaking, to yourself. The room is not silent.\n\n**Guidance**\nNone. The kit is complete and the studio staff do not enter.\n\n**Level**\nYou should have enough practice to work from a sequence card without a teacher.\n\n**Physical**\nModerate; the sequences are graded.\n\n**Cost**\n£90.",
+  "practical": "Any day, three-hour slots; book online. £90. One person. Private room with mat, props, recorder. Showers. Central London; five minutes from the tube.",
+  "dimensions": {
+    "social": "solitude",
+    "structure": "self_directed",
+    "speech": "dialogue",
+    "guidance": "self_guided",
+    "physical_demand": "moderate",
+    "tradition": "yogic",
+    "experience_level": "some_experience",
+    "duration": "hours",
+    "cost_band": "high"
+  },
+  "kind": "spread",
+  "pair": null,
+  "varies_on": null,
+  "generation_note": null,
+  "generation": {
+    "author": "claude",
+    "method": "written in a Claude Code session from the plan entry, against corpus/seeds.json for register",
+    "date": "2026-09-29"
+  },
+  "synthetic": true
+}
