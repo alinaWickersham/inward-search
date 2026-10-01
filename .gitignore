@@ -13,6 +13,12 @@ venv/
 .pytest_cache/
 .ruff_cache/
 
+# frontend: dependencies and tsc output are rebuilt from package-lock.json and src/
+frontend/node_modules/
+frontend/public/dist/
+frontend/test-results/
+frontend/playwright-report/
+
 # data & artifacts that should not be versioned
 # NOTE: corpus/listings/ IS committed — someone reproducing the results needs it.
 *.log

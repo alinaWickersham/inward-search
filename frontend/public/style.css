@@ -1,0 +1,135 @@
+:root {
+  --text: #1f2328;
+  --muted: #59636e;
+  --background: #fbfaf7;
+  --surface: #ffffff;
+  --border: #d8d4cc;
+  --accent: #2f5d50;
+  --error: #a0302a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: #e6e3dc;
+    --muted: #a39f97;
+    --background: #191a19;
+    --surface: #232523;
+    --border: #3a3c39;
+    --accent: #8cc2ae;
+    --error: #f08b84;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font: 16px/1.5 system-ui, sans-serif;
+}
+
+main {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 2rem 1rem 4rem;
+}
+
+h1 {
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+}
+
+.notice {
+  margin: 0 0 1.5rem;
+  padding: 0.75rem 1rem;
+  border-left: 3px solid var(--accent);
+  background: var(--surface);
+  color: var(--muted);
+}
+
+form {
+  display: grid;
+  gap: 0.5rem;
+}
+
+textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  resize: vertical;
+}
+
+button {
+  justify-self: start;
+  padding: 0.5rem 1.25rem;
+  border: 0;
+  border-radius: 6px;
+  background: var(--accent);
+  color: var(--background);
+  font: inherit;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: progress;
+}
+
+#status {
+  min-height: 1.5rem;
+  color: var(--muted);
+}
+
+#status.error {
+  color: var(--error);
+}
+
+.result {
+  margin: 0 0 1rem;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+}
+
+.result h2 {
+  margin: 0;
+  font-size: 1.125rem;
+}
+
+.result .location,
+.result .meta {
+  margin: 0.25rem 0;
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.dimensions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+  margin: 0.75rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.dimensions li {
+  padding: 0.125rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 0.8125rem;
+}
+
+.synthetic {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+}

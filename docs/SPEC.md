@@ -251,7 +251,7 @@ Ship something at every stage.
 
 **Phase 1 — corpus.** Coverage matrix, generate and hand-edit 80–120 listings, annotate on the intent dimensions.
 
-**Phase 2 — retrieval baseline.** Embeddings in pgvector, strategy A end to end from a CLI. *Write the scoring and metrics code by hand, unassisted.*
+**Phase 2 — retrieval baseline.** Embeddings in pgvector, strategy A end to end from a CLI. Scoring and metrics code tested against hand-computed values.
 
 **Phase 3 — intent extraction.** Pydantic schema, LLM extraction, strategy B. Hand-label the 50-query gold set including triage classes.
 
