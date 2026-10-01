@@ -25,7 +25,7 @@ Full specification: [`docs/SPEC.md`](docs/SPEC.md).
 
 | Module | What it does | Status |
 |---|---|---|
-| **1. Intent matching** | Nine-dimension intent schema; three retrieval strategies (embedding-only, structured-only, hybrid) compared on one labeled query set | Schema done, corpus plan done |
+| **1. Intent matching** | Nine-dimension intent schema; three retrieval strategies (embedding-only, structured-only, hybrid) compared on one labeled query set | Schema and corpus done; strategy A (embedding only) built, not yet evaluated |
 | **2. Trust & contraindication signals** | Descriptive signals about what a listing says, and does not say, about screening, teachers, pricing, and risky practices. Never a verdict. | Not started |
 | **3. Triage & routing** | Classifies the kind of need a query expresses and escalates what is *offered*, never what is *withheld* | Enum defined |
 
@@ -35,11 +35,20 @@ Full specification: [`docs/SPEC.md`](docs/SPEC.md).
 src/threshold/            the package, installed with `pip install -e .`
   schema.py               dimensions, Listing, QueryIntent, TriageClass (single source of truth)
   corpus/                 loads the synthetic corpus, refuses anything not marked synthetic
+  retrieval/              strategy A: fastembed embeddings, pgvector store, CLI
+  eval/                   recall@k, MRR, nDCG
+  api/                    FastAPI: POST /api/search, and serves the frontend
 
 corpus/                   the synthetic listings
   seeds.json              3 hand-written listings that set the register
   plan.json               120 listing specs, deterministic from scripts/coverage.py
   listings/               one JSON per listing, written from the plan
+
+frontend/                 one search page in TypeScript, compiled by tsc
+  src/                    API client, rendering, form wiring
+  public/                 index.html, style.css, and tsc output in dist/
+  tests/                  vitest unit tests (jsdom)
+  e2e/                    Playwright tests against the running app
 
 scripts/
   coverage.py             builds corpus/plan.json
@@ -50,19 +59,20 @@ docs/
   decisions/              short records of the choices a reader might question
   phases/                 one working doc per phase
 
-tests/                    pytest
+tests/                    pytest, mirroring src/
+docker-compose.yml        PostgreSQL with pgvector
 ```
 
-Retrieval, intent extraction, triage, signals, evaluation, and the API are
-added as subpackages of `threshold` in the phases that build them.
+Intent extraction, triage, and signals are added as subpackages of
+`threshold` in the phases that build them.
 
 ## Getting started
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
-pip install -e ".[dev]"
+pip install -e ".[pipeline,api,dev]"
 
-python -m pytest -q                              # schema + plan reproducibility
+python -m pytest -q                              # see Tests below for the database tests
 python scripts/coverage.py > corpus/plan.json    # rebuild the plan (deterministic)
 python scripts/check_corpus.py                   # validate listings against plan and schema
 ```
@@ -71,6 +81,41 @@ The listings were written from the plan by a Claude model working in a
 Claude Code session, one file per plan entry, and then read and edited by
 hand. Each listing records the model that wrote it. There is no generation
 script to run; the corpus is a committed artefact.
+
+### Strategy A: embedding search
+
+```bash
+docker compose up -d                              # Postgres + pgvector on :5432
+
+python -m threshold.retrieval index               # embed the corpus (downloads the model once)
+python -m threshold.retrieval search "somewhere quiet, I am worn out" -k 5
+
+(cd frontend && npm install && npm run build)     # compile the page
+uvicorn --factory threshold.api.app:production_app
+# open http://127.0.0.1:8000
+```
+
+`DATABASE_URL` points at a different database; the default matches
+`docker-compose.yml`. The model is `BAAI/bge-small-en-v1.5` through
+fastembed; see [decision 0006](docs/decisions/0006-embedding-model-and-store.md).
+
+### Tests
+
+```bash
+export TEST_DATABASE_URL=postgresql://postgres:postgres@localhost:5432/threshold_test
+python -m pytest -q                               # without the variable, database tests skip
+
+cd frontend
+npm test                                          # vitest unit tests
+npm run typecheck                                 # tsc over src and tests
+npm run e2e                                       # Playwright, starts the app itself
+```
+
+The database and Playwright tests use a real Postgres and the real corpus,
+but a hashed bag-of-words stand-in for the embedding model. They check that
+indexing, ranking, the API, and the page behave correctly. They say nothing
+about how well bge ranks listings; that is what the phase 4 evaluation is
+for. pytest and Playwright share `threshold_test`, so run them one at a time.
 
 ## The intent dimensions
 
@@ -128,7 +173,7 @@ synthetic corpus, single annotator, no real users, no clinical validation.
 | Phase | Ships | |
 |---|---|---|
 | 1 | Corpus: coverage plan, 120 listings, annotations | in progress |
-| 2 | Retrieval baseline: embeddings in pgvector, strategy A from a CLI | |
+| 2 | Retrieval baseline: embeddings in pgvector, strategy A from a CLI | built; a simple search page was added early |
 | 3 | Intent extraction, strategy B, 50-query gold set | |
 | 4 | Hybrid strategy C, full metrics, comparison table — **minimum shippable** | |
 | 5 | Triage classification, routing, response assembly | |
