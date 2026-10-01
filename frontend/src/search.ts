@@ -1,6 +1,6 @@
 // Wires the search form to the API and the renderer.
 
-import { type FetchFn, search, SearchError } from "./api.js";
+import { type FetchFn, search, ApiError } from "./api.js";
 import { renderResults, summaryText } from "./render.js";
 
 export const RESULT_COUNT = 10;
@@ -64,7 +64,7 @@ export function createSearchHandler(
       setStatus(status, summaryText(response));
     } catch (error) {
       results.replaceChildren();
-      setStatus(status, error instanceof SearchError ? error.message : "Something went wrong.", true);
+      setStatus(status, error instanceof ApiError ? error.message : "Something went wrong.", true);
     } finally {
       searching = false;
       button.disabled = false;
