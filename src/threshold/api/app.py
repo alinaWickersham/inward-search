@@ -11,6 +11,7 @@ from collections.abc import Callable
 from pathlib import Path
 from typing import Literal
 
+import psycopg
 from fastapi import FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
 from fastembed import TextEmbedding
@@ -87,18 +88,23 @@ def create_app(search: SearchFn, listings: list[Listing], model_name: str) -> Fa
     return app
 
 
-def build_app(model: TextEmbedding, database_url: str) -> FastAPI:
+def open_checked_index(database_url: str, listings: list[Listing]) -> psycopg.Connection:
     """
-    The app over a live index. Refuses to start if the index was built by a
+    A connection to the live index. Raises if the index was built by a
     different model or from a different set of listings than the corpus on
     disk, because either would return results that do not match the text.
     """
-    listings = load_listings()
     conn = store.connect(database_url)
     if store.indexed_model(conn) != embed.MODEL_NAME:
         raise RuntimeError("index was built with a different model; run the index command")
     if store.indexed_listing_ids(conn) != {item.id for item in listings}:
         raise RuntimeError("index does not match the corpus; run the index command")
+    return conn
+
+
+def build_app(model: TextEmbedding, database_url: str) -> FastAPI:
+    listings = load_listings()
+    conn = open_checked_index(database_url, listings)
 
     def search(query: str, k: int) -> list[Hit]:
         return store.search(conn, embed.embed_query(model, query), k)

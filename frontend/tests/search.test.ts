@@ -91,7 +91,7 @@ describe("createSearchHandler", () => {
     const failing: FetchFn = async () => jsonResponse({ detail: "query is empty" }, 422);
     await createSearchHandler(elements, failing)();
     expect(elements.results.children).toHaveLength(0);
-    expect(elements.status.textContent).toBe("The search could not be run: query is empty.");
+    expect(elements.status.textContent).toBe("Search failed: query is empty.");
     expect(elements.status.classList.contains("error")).toBe(true);
     expect(elements.button.disabled).toBe(false);
   });

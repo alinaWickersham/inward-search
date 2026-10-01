@@ -36,8 +36,10 @@ src/threshold/            the package, installed with `pip install -e .`
   schema.py               dimensions, Listing, QueryIntent, TriageClass (single source of truth)
   corpus/                 loads the synthetic corpus, refuses anything not marked synthetic
   retrieval/              strategy A: fastembed embeddings, pgvector store, CLI
-  eval/                   recall@k, MRR, nDCG
-  api/                    FastAPI: POST /api/search, and serves the frontend
+  eval/                   recall@k, MRR, nDCG; the gold set model and pooling
+  api/                    FastAPI: POST /api/search and the frontend; label.py is the labelling app
+
+eval/gold/                the gold queries and their labels, one JSON per query
 
 corpus/                   the synthetic listings
   seeds.json              3 hand-written listings that set the register
@@ -119,6 +121,25 @@ for. pytest and Playwright share `threshold_test`, so run them one at a time.
 
 CI (`.github/workflows/ci.yml`) runs all of the above on every pull request
 and on pushes to `main`, each job with its own pgvector database.
+
+### Labelling the gold set
+
+The gold queries live in `eval/gold/`, one JSON file per query. They are
+labelled in a local page served by a separate app that can write to that
+folder:
+
+```bash
+python -m threshold.retrieval index                      # the pool uses strategy A
+(cd frontend && npm run build)
+uvicorn --factory threshold.api.label:production_label_app
+# open http://127.0.0.1:8000/label.html
+```
+
+For each query: set the intent, set the triage class, build the pool, then
+judge each listing with `1` (relevant) or `0` (not relevant); `j` and `k`
+move. Every change is saved immediately. Commit `eval/gold/` when done.
+How the pool is built, and what that biases, is in
+[decision 0008](docs/decisions/0008-gold-set-labelling.md).
 
 ## The intent dimensions
 

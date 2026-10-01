@@ -1,0 +1,28 @@
+{
+  "id": "Q005",
+  "text": "i have done a 10 day silent meditation retreat and practice meditation and yoga somewhat reguallry, i wnt to deepen my sprituality and i want to try next level and maybe do ayauska or advanced meditation/yoga somewhere in the US",
+  "intent": {
+    "social": [],
+    "structure": [],
+    "speech": [],
+    "guidance": [],
+    "physical_demand": [
+      "demanding"
+    ],
+    "tradition": [
+      "eclectic"
+    ],
+    "experience_level": [
+      "assumes_practice"
+    ],
+    "duration": [
+      "week",
+      "extended"
+    ],
+    "cost_band": []
+  },
+  "triage": null,
+  "pool": [],
+  "pool_provenance": null,
+  "judgements": {}
+}

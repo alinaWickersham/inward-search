@@ -1,0 +1,21 @@
+{
+  "id": "Q006",
+  "text": "too much going on lately - pet passing, constant house maintenance issues and expenses - i need to ground and center",
+  "intent": {
+    "social": [],
+    "structure": [],
+    "speech": [],
+    "guidance": [],
+    "physical_demand": [
+      "restful"
+    ],
+    "tradition": [],
+    "experience_level": [],
+    "duration": [],
+    "cost_band": []
+  },
+  "triage": null,
+  "pool": [],
+  "pool_provenance": null,
+  "judgements": {}
+}

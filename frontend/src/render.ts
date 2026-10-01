@@ -4,7 +4,7 @@
 import { DIMENSION_KEYS, type SearchResponse, type SearchResult } from "./api.js";
 import { DIMENSION_LABELS, valueLabel } from "./labels.js";
 
-function element<K extends keyof HTMLElementTagNameMap>(
+export function element<K extends keyof HTMLElementTagNameMap>(
   doc: Document,
   tag: K,
   className: string,

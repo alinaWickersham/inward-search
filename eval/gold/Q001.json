@@ -1,0 +1,21 @@
+{
+  "id": "Q001",
+  "text": "im on maui in the end of august, i will stay in paia in a hostel and im not palnning to rent a car, recommend spiritual activities like meditation",
+  "intent": {
+    "social": [],
+    "structure": [],
+    "speech": [],
+    "guidance": [],
+    "physical_demand": [],
+    "tradition": [],
+    "experience_level": [],
+    "duration": [
+      "hours"
+    ],
+    "cost_band": []
+  },
+  "triage": null,
+  "pool": [],
+  "pool_provenance": null,
+  "judgements": {}
+}

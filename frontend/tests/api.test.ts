@@ -1,6 +1,6 @@
 import { describe, expect, it, vi } from "vitest";
 
-import { parseSearchResponse, search, SEARCH_URL, SearchError, searchRequest } from "../src/api.js";
+import { parseSearchResponse, search, SEARCH_URL, ApiError, searchRequest } from "../src/api.js";
 import { jsonResponse, listing, response, result } from "./fixtures.js";
 
 describe("searchRequest", () => {
@@ -40,7 +40,7 @@ describe("parseSearchResponse", () => {
       "results[0].listing.synthetic is not a boolean",
     ],
   ])("rejects a response with %s", (_, body, message) => {
-    expect(() => parseSearchResponse(body)).toThrow(new SearchError(`Unexpected response: ${message}`));
+    expect(() => parseSearchResponse(body)).toThrow(new ApiError(`Unexpected response: ${message}`));
   });
 });
 
@@ -55,21 +55,21 @@ describe("search", () => {
   it("shows the server's message when it gives one", async () => {
     const fetchFn = async () => jsonResponse({ detail: "query is empty" }, 422);
     await expect(search("x", 5, fetchFn)).rejects.toThrow(
-      new SearchError("The search could not be run: query is empty."),
+      new ApiError("Search failed: query is empty."),
     );
   });
 
   it("falls back to the status when the error detail is not a string", async () => {
     const fetchFn = async () => jsonResponse({ detail: [{ msg: "too long" }] }, 422);
     await expect(search("x", 5, fetchFn)).rejects.toThrow(
-      new SearchError("The search could not be run (status 422)."),
+      new ApiError("Search failed (status 422)."),
     );
   });
 
   it("falls back to the status when the error body is not JSON", async () => {
     const fetchFn = async () => new Response("Internal Server Error", { status: 500 });
     await expect(search("x", 5, fetchFn)).rejects.toThrow(
-      new SearchError("The search could not be run (status 500)."),
+      new ApiError("Search failed (status 500)."),
     );
   });
 
@@ -78,14 +78,14 @@ describe("search", () => {
       throw new TypeError("Failed to fetch");
     };
     await expect(search("x", 5, fetchFn)).rejects.toThrow(
-      new SearchError("The server could not be reached."),
+      new ApiError("The server could not be reached."),
     );
   });
 
   it("reports a successful response whose body is not JSON", async () => {
     const fetchFn = async () => new Response("<html>", { status: 200 });
     await expect(search("x", 5, fetchFn)).rejects.toThrow(
-      new SearchError("Unexpected response: the body is not JSON"),
+      new ApiError("Unexpected response: the body is not JSON"),
     );
   });
 });

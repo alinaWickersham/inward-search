@@ -1,0 +1,23 @@
+{
+  "id": "Q003",
+  "text": "i feel tired and slightly burnt out, anything in the area i could do to help myself?",
+  "intent": {
+    "social": [],
+    "structure": [],
+    "speech": [],
+    "guidance": [
+      "light_guidance"
+    ],
+    "physical_demand": [
+      "restful"
+    ],
+    "tradition": [],
+    "experience_level": [],
+    "duration": [],
+    "cost_band": []
+  },
+  "triage": null,
+  "pool": [],
+  "pool_provenance": null,
+  "judgements": {}
+}

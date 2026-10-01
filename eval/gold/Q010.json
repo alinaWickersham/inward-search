@@ -1,0 +1,28 @@
+{
+  "id": "Q010",
+  "text": "outdoors, lots of walking, a week or so with other people. not interested in sitting still for hours",
+  "intent": {
+    "social": [
+      "small_group",
+      "community"
+    ],
+    "structure": [],
+    "speech": [],
+    "guidance": [],
+    "physical_demand": [
+      "demanding"
+    ],
+    "tradition": [
+      "nature_based"
+    ],
+    "experience_level": [],
+    "duration": [
+      "week"
+    ],
+    "cost_band": []
+  },
+  "triage": null,
+  "pool": [],
+  "pool_provenance": null,
+  "judgements": {}
+}

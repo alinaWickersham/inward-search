@@ -1,0 +1,30 @@
+{
+  "id": "Q007",
+  "text": "i want to go somewhere i won't have to talk to anyone for a few days. not a group thing, not a class",
+  "intent": {
+    "social": [
+      "solitude"
+    ],
+    "structure": [
+      "self_directed"
+    ],
+    "speech": [
+      "full_silence"
+    ],
+    "guidance": [
+      "self_guided"
+    ],
+    "physical_demand": [],
+    "tradition": [],
+    "experience_level": [],
+    "duration": [
+      "weekend",
+      "week"
+    ],
+    "cost_band": []
+  },
+  "triage": null,
+  "pool": [],
+  "pool_provenance": null,
+  "judgements": {}
+}

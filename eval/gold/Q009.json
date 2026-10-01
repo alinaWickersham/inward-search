@@ -1,0 +1,27 @@
+{
+  "id": "Q009",
+  "text": "something christian but contemplative, not a church service. a quiet weekend, some guidance but not someone talking at me the whole time",
+  "intent": {
+    "social": [],
+    "structure": [],
+    "speech": [
+      "partial_silence"
+    ],
+    "guidance": [
+      "light_guidance"
+    ],
+    "physical_demand": [],
+    "tradition": [
+      "contemplative_christian"
+    ],
+    "experience_level": [],
+    "duration": [
+      "weekend"
+    ],
+    "cost_band": []
+  },
+  "triage": null,
+  "pool": [],
+  "pool_provenance": null,
+  "judgements": {}
+}
