@@ -119,6 +119,9 @@ indexing, ranking, the API, and the page behave correctly. They say nothing
 about how well bge ranks listings; that is what the phase 4 evaluation is
 for. pytest and Playwright share `threshold_test`, so run them one at a time.
 
+CI (`.github/workflows/ci.yml`) runs all of the above on every pull request
+and on pushes to `main`, each job with its own pgvector database.
+
 ### Labelling the gold set
 
 The gold queries live in `eval/gold/`, one JSON file per query. They are
