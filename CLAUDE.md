@@ -112,6 +112,7 @@ Rules:
 * Never commit secrets, `.env`, or API keys. Check before every commit.
 * Never commit generated artefacts that can be regenerated cheaply, except the corpus itself, which must be committed so results are reproducible.
 * If the owner wrote the code by hand, do not add a co-author trailer.
+* Name branches after the work, using the commit areas: `<area>/<short-description>`, e.g. `retrieval/strategy-a-search`. If the session assigns a generated name, create a descriptive branch from it before the first commit.
 
 ## Decision records
 
