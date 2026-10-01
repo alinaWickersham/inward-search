@@ -176,7 +176,8 @@ Update this section as the project moves.
 
 * Phase 1 — corpus. In progress.
 * Phase 2 — strategy A (fastembed + pgvector), CLI, metrics. Built, not yet evaluated: there is no gold set until phase 3. A FastAPI endpoint and a TypeScript search page were pulled forward from phases 7-8 (decision 0007).
-* Phases 3-4: intent extraction, hybrid comparison.
+* Phase 3 — gold set labelling tool built (decision 0008); the ten phase 1 queries are in eval/gold/ with intents transcribed, triage and relevance not yet labelled. Intent extraction and strategy B not started.
+* Phase 4: hybrid comparison.
 * Phases 5-6: triage, trust and contraindication signals.
 * Phases 7-9: observability, deployment, write-up.
 
