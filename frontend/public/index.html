@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Threshold</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Threshold</h1>
+        <p class="notice" id="synthetic-notice">
+          Every listing here is synthetic: invented for testing, not a real place, teacher, or
+          organisation. Nothing on this page is advice.
+        </p>
+      </header>
+
+      <form id="search-form">
+        <label for="query">Describe what you are looking for, in your own words</label>
+        <textarea
+          id="query"
+          name="query"
+          rows="3"
+          maxlength="1000"
+          placeholder="I have been running on empty and I want to be somewhere quiet"
+        ></textarea>
+        <button type="submit" id="search-button">Search</button>
+      </form>
+
+      <p id="status" role="status" aria-live="polite"></p>
+      <section id="results" aria-label="Results"></section>
+    </main>
+    <script type="module" src="dist/index.js"></script>
+  </body>
+</html>

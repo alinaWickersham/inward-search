@@ -1,0 +1,18 @@
+{
+  "name": "threshold-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit && tsc --noEmit -p tsconfig.test.json",
+    "test": "vitest run",
+    "e2e": "tsc && playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1",
+    "@types/node": "26.6.3",
+    "jsdom": "29.1.1",
+    "typescript": "7.0.2",
+    "vitest": "5.0.3"
+  }
+}
