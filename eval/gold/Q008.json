@@ -1,0 +1,28 @@
+{
+  "id": "Q008",
+  "text": "never meditated. i don't want to be the only beginner in the room and i need an actual schedule, i don't do well with unstructured time",
+  "intent": {
+    "social": [
+      "small_group",
+      "community"
+    ],
+    "structure": [
+      "fixed"
+    ],
+    "speech": [],
+    "guidance": [
+      "teacher_led"
+    ],
+    "physical_demand": [],
+    "tradition": [],
+    "experience_level": [
+      "newcomer_friendly"
+    ],
+    "duration": [],
+    "cost_band": []
+  },
+  "triage": null,
+  "pool": [],
+  "pool_provenance": null,
+  "judgements": {}
+}

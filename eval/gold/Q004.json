@@ -1,0 +1,27 @@
+{
+  "id": "Q004",
+  "text": "inormally cope with alcohol and i know im an alcoholic and i need help, my therapist said i need to be more mindful, what can i do in richmond va",
+  "intent": {
+    "social": [],
+    "structure": [],
+    "speech": [],
+    "guidance": [
+      "teacher_led"
+    ],
+    "physical_demand": [],
+    "tradition": [
+      "secular"
+    ],
+    "experience_level": [
+      "newcomer_friendly"
+    ],
+    "duration": [
+      "hours"
+    ],
+    "cost_band": []
+  },
+  "triage": null,
+  "pool": [],
+  "pool_provenance": null,
+  "judgements": {}
+}
