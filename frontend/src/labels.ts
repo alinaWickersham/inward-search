@@ -54,3 +54,32 @@ export const VALUE_LABELS: Record<string, string> = {
 export function valueLabel(value: string): string {
   return VALUE_LABELS[value] ?? value;
 }
+
+/** The values each dimension can take, in schema order. */
+export const DIMENSION_VALUES: Record<DimensionKey, string[]> = {
+  social: ["solitude", "small_group", "community"],
+  structure: ["fixed", "semi_structured", "self_directed"],
+  speech: ["full_silence", "partial_silence", "dialogue"],
+  guidance: ["teacher_led", "light_guidance", "self_guided"],
+  physical_demand: ["restful", "moderate", "demanding"],
+  tradition: [
+    "secular",
+    "buddhist_derived",
+    "yogic",
+    "contemplative_christian",
+    "nature_based",
+    "eclectic",
+  ],
+  experience_level: ["newcomer_friendly", "some_experience", "assumes_practice"],
+  duration: ["hours", "weekend", "week", "extended"],
+  cost_band: ["free_or_donation", "low", "mid", "high"],
+};
+
+// Triage classes are routing classes: they decide which resources a response
+// offers alongside its results. They never describe the person.
+export const TRIAGE_LABELS: Record<string, string> = {
+  seeking: "Seeking",
+  stress_burnout: "Stress or burnout",
+  possible_clinical_need: "Possible clinical need (routing class)",
+  acute_risk: "Acute risk",
+};

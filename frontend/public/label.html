@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Threshold labelling</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="label.css" />
+  </head>
+  <body>
+    <main class="label-layout">
+      <header>
+        <h1>Gold set labelling</h1>
+        <p class="notice" id="synthetic-notice">
+          Every listing here is synthetic: invented for testing, not a real place, teacher, or
+          organisation. Labels are saved to eval/gold/ on this machine.
+        </p>
+        <p class="keys">
+          Keys while judging: <kbd>1</kbd> relevant, <kbd>0</kbd> not relevant,
+          <kbd>j</kbd> next, <kbd>k</kbd> previous.
+        </p>
+      </header>
+
+      <aside>
+        <h2>Queries</h2>
+        <ol id="query-list"></ol>
+        <form id="add-form">
+          <label for="new-query">Add a query, written the way a person would</label>
+          <textarea id="new-query" rows="3" maxlength="1000"></textarea>
+          <button type="submit">Add query</button>
+        </form>
+      </aside>
+
+      <section id="editor" aria-label="Selected query"></section>
+      <p id="status" role="status" aria-live="polite"></p>
+    </main>
+    <script type="module" src="dist/label.js"></script>
+  </body>
+</html>
