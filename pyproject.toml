@@ -20,6 +20,7 @@ pipeline = [
     "psycopg[binary]>=3.1",
     "pgvector>=0.3",
     "numpy>=1.26",
+    "fastembed>=0.4",
 ]
 # Phase 6: trained contraindication classifier
 classifier = ["scikit-learn>=1.4"]
